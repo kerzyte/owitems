@@ -1,6 +1,7 @@
-OverTool v1.8.5.8
+OverTool v1.8.5.18
 Initializing CASC...
 Mapping...
+Warning: 203313 packageless files
 Adding Encryption Keys...
 Tooling...
 Cosmetics for Widowmaker
@@ -90,6 +91,10 @@ Cosmetics for Widowmaker
 		Ornament (Common Spray)
 		Under the Mistletoe (Epic Heroic Intro)
 		Exquisite (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Hairpin (Common Spray)
+		Dragon Dance (Common Spray)
+		You have my attention (Common Voice Line)
 
 Cosmetics for Reinhardt
 	ACHIEVEMENT (3 items)
@@ -179,6 +184,12 @@ Cosmetics for Reinhardt
 		Ornament (Common Spray)
 		Toast (Rare Victory Pose)
 		You're on my naughty list (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (5 items)
+		Lion Dance (Common Spray)
+		Dragon Dance (Common Spray)
+		Are you chicken? (Common Voice Line)
+		Sandy (Rare Icon)
+		Wujing (Legendary Skin)
 
 Cosmetics for Mercy
 	ACHIEVEMENT (3 items)
@@ -267,6 +278,12 @@ Cosmetics for Mercy
 		Ornament (Common Spray)
 		Mistletoe (Rare Victory Pose)
 		Your guardian angel (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (5 items)
+		Parasol (Common Spray)
+		Dragon Dance (Common Spray)
+		A most impressive display (Common Voice Line)
+		Fortune (Epic Heroic Intro)
+		Golden (Epic Skin)
 
 Cosmetics for Winston
 	ACHIEVEMENT (3 items)
@@ -355,6 +372,12 @@ Cosmetics for Winston
 		Yeti (Legendary Skin)
 		Yeti (Rare Icon)
 		I... got you something (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (5 items)
+		Kite (Common Spray)
+		Dragon Dance (Common Spray)
+		That was awesome! (Common Voice Line)
+		Monkey (Rare Icon)
+		Wukong (Legendary Skin)
 
 Cosmetics for Genji
 	ACHIEVEMENT (5 items)
@@ -443,6 +466,10 @@ Cosmetics for Genji
 		Kadomatsu (Common Spray)
 		Ornament (Common Spray)
 		Merry Christmas! (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Green Dragon (Common Spray)
+		Dragon Dance (Common Spray)
+		To know yourself (Common Voice Line)
 
 Cosmetics for Symmetra
 	ACHIEVEMENT (3 items)
@@ -530,6 +557,11 @@ Cosmetics for Symmetra
 		Ornament (Common Spray)
 		Snowflakes (Epic Heroic Intro)
 		I made you something (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (4 items)
+		Lantern (Common Spray)
+		Dragon Dance (Common Spray)
+		Good fortune (Common Voice Line)
+		Qipao (Epic Skin)
 
 Cosmetics for McCree
 	ACHIEVEMENT (3 items)
@@ -617,6 +649,10 @@ Cosmetics for McCree
 		Scrooge (Epic Skin)
 		Hat Trick (Epic Emote)
 		Had to break the ice (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Call It (Common Spray)
+		Dragon Dance (Common Spray)
+		Calls for a celebration (Common Voice Line)
 
 Cosmetics for Mei
 	ACHIEVEMENT (3 items)
@@ -705,6 +741,15 @@ Cosmetics for Mei
 		Mei-rry (Legendary Skin)
 		Snowman (Epic Emote)
 		I got you something! (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (8 items)
+		Fortune (Common Spray)
+		Dragon Dance (Common Spray)
+		Wishing you prosperity (Common Voice Line)
+		Chang'e (Rare Icon)
+		Chang'e (Legendary Skin)
+		Luna (Legendary Skin)
+		So Excited (Epic Emote)
+		Lucky! (Rare Victory Pose)
 
 Cosmetics for Bastion
 	ACHIEVEMENT (5 items)
@@ -793,6 +838,12 @@ Cosmetics for Bastion
 		FESTIVE (Common Spray)
 		ORNAMENT (Common Spray)
 		DWEE DOO HOO (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (5 items)
+		Bast-yum (Common Spray)
+		Dragon Dance (Common Spray)
+		Woop doo woo dun woop (Common Voice Line)
+		Rooster (Epic Skin)
+		Firework (Rare Victory Pose)
 
 Cosmetics for Reaper
 	ACHIEVEMENT (4 items)
@@ -883,6 +934,10 @@ Cosmetics for Reaper
 		Ornament (Common Spray)
 		Shiver (Epic Skin)
 		Holiday spirit (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Fire Blossom (Common Spray)
+		Dragon Dance (Common Spray)
+		Now those are fireworks (Common Voice Line)
 
 Cosmetics for Sombra
 	ACHIEVEMENT (3 items)
@@ -962,6 +1017,11 @@ Cosmetics for Sombra
 		Ornament (Common Spray)
 		Peppermint (Epic Skin)
 		I know who's been naughty (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (4 items)
+		Fortunate (Common Spray)
+		Dragon Dance (Common Spray)
+		You're easily impressed (Common Voice Line)
+		Sparklers (Rare Victory Pose)
 
 Cosmetics for Pharah
 	ACHIEVEMENT (4 items)
@@ -1051,6 +1111,10 @@ Cosmetics for Pharah
 		Frostbite (Epic Skin)
 		Toast (Rare Victory Pose)
 		The forecast (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Happy New Year (Common Spray)
+		Dragon Dance (Common Spray)
+		I keep the peace (Common Voice Line)
 
 Cosmetics for Hanzo
 	ACHIEVEMENT (3 items)
@@ -1136,6 +1200,10 @@ Cosmetics for Hanzo
 		Kadomatsu (Common Spray)
 		Ornament (Common Spray)
 		A gift for you (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Blue Dragon (Common Spray)
+		Dragon Dance (Common Spray)
+		When the moon is full (Common Voice Line)
 
 Cosmetics for Torbjörn
 	ACHIEVEMENT (3 items)
@@ -1225,6 +1293,10 @@ Cosmetics for Torbjörn
 		Toast (Rare Victory Pose)
 		Santaclad (Rare Icon)
 		Made to order (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Gold (Common Spray)
+		Dragon Dance (Common Spray)
+		Too hot for you? (Common Voice Line)
 
 Cosmetics for Junkrat
 	ACHIEVEMENT (3 items)
@@ -1312,6 +1384,13 @@ Cosmetics for Junkrat
 		"WINTER" (Common Spray)
 		Ornament (Common Spray)
 		Merry Christmas (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (6 items)
+		I'm flying! (Common Spray)
+		Dragon Dance (Common Spray)
+		Gong Xi Fa Cai (Common Voice Line)
+		Firework (Epic Skin)
+		Dud? (Epic Emote)
+		Bad for Your Health (Rare Victory Pose)
 
 Cosmetics for Zarya
 	ACHIEVEMENT (3 items)
@@ -1400,6 +1479,10 @@ Cosmetics for Zarya
 		Frosted (Epic Skin)
 		Mystery Gift (Legendary Emote)
 		For the Motherland (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Calories (Common Spray)
+		Dragon Dance (Common Spray)
+		Get pumped (Common Voice Line)
 
 Cosmetics for Roadhog
 	ACHIEVEMENT (3 items)
@@ -1488,6 +1571,14 @@ Cosmetics for Roadhog
 		Ornament (Common Spray)
 		Rudolph (Epic Skin)
 		Ho ho ho (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (7 items)
+		Steamed Buns (Common Spray)
+		Dragon Dance (Common Spray)
+		You chicken? (Common Voice Line)
+		Piggy (Rare Icon)
+		Bajie (Legendary Skin)
+		Feast (Epic Heroic Intro)
+		What's mine is mine (Rare Victory Pose)
 
 Cosmetics for Tracer
 	ACHIEVEMENT (4 items)
@@ -1577,6 +1668,12 @@ Cosmetics for Tracer
 		Jingle (Legendary Skin)
 		Jingle (Rare Icon)
 		It's in the bag (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (5 items)
+		Fan Dance (Common Spray)
+		Dragon Dance (Common Spray)
+		Ready for some fireworks? (Common Voice Line)
+		Lion Dance (Epic Heroic Intro)
+		Rose (Epic Skin)
 
 Cosmetics for D.Va
 	ACHIEVEMENT (3 items)
@@ -1663,6 +1760,14 @@ Cosmetics for D.Va
 		ORNAMENT (Common Spray)
 		Festive (Rare Victory Pose)
 		Aw, you shouldn't have (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (7 items)
+		Seesaw (Common Spray)
+		Dragon Dance (Common Spray)
+		The best things in life (Common Voice Line)
+		Hanbok (Rare Icon)
+		Palanquin (Legendary Skin)
+		Bow (Epic Emote)
+		Lucky Pouch (Rare Victory Pose)
 
 Cosmetics for Zenyatta
 	ACHIEVEMENT (3 items)
@@ -1751,6 +1856,12 @@ Cosmetics for Zenyatta
 		Nutcracker (Legendary Skin)
 		Nutcracker (Rare Icon)
 		No snowflake (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (5 items)
+		Yut Nori (Common Spray)
+		Dragon Dance (Common Spray)
+		Every rooster crows (Common Voice Line)
+		Sanzang (Rare Icon)
+		Sanzang (Legendary Skin)
 
 Cosmetics for Ana
 	ACHIEVEMENT (3 items)
@@ -1838,6 +1949,12 @@ Cosmetics for Ana
 		Ornament (Common Spray)
 		Toast (Rare Victory Pose)
 		I'm watching out for you (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (5 items)
+		Dance (Common Spray)
+		Dragon Dance (Common Spray)
+		The moon in winter (Common Voice Line)
+		Tal (Epic Skin)
+		Folded hands (Rare Victory Pose)
 
 Cosmetics for Soldier: 76
 	ACHIEVEMENT (4 items)
@@ -1926,6 +2043,10 @@ Cosmetics for Soldier: 76
 		Ornament (Common Spray)
 		Toast (Rare Victory Pose)
 		Stay frosty (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Folded Hands (Common Spray)
+		Dragon Dance (Common Spray)
+		The rooster crows (Common Voice Line)
 
 Cosmetics for Lúcio
 	ACHIEVEMENT (3 items)
@@ -2015,4 +2136,8 @@ Cosmetics for Lúcio
 		Ornament (Common Spray)
 		Andes (Epic Skin)
 		Happy holidays! (Common Voice Line)
+	YEAR_OF_THE_ROOSTER_2017 (3 items)
+		Keep Ups (Common Spray)
+		Dragon Dance (Common Spray)
+		I make this look good... (Common Voice Line)
 
