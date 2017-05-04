@@ -1,8 +1,8 @@
 OverTool v1.10.1.14-git-a776aeb6dc39ba2e6140e2113595cdaa62aae9fa
 Initializing CASC...
-Using Overwatch Version 1.10.1.2.36268
+Using Overwatch Version 1.11.0.0.36376
 Mapping...
-Warning: 211706 packageless files
+Warning: 215921 packageless files
 Adding Encryption Keys...
 Tooling...
 Cosmetics for Reaper
@@ -19,7 +19,7 @@ Cosmetics for Reaper
 		Classic (Common Skin)
 		What are you looking at (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (57 items)
+	COMMON (60 items)
 		Reaper (Rare Icon)
 		Soul (Rare Icon)
 		Emblem (Rare Icon)
@@ -28,9 +28,11 @@ Cosmetics for Reaper
 		Not Impressed (Epic Emote)
 		Cackle (Epic Emote)
 		Take a knee (Epic Emote)
+Error unknown keyname BD4E42661A432951 p 0x06E020007E3251E8 f 0x0250000000001148
 		Enigmatic (Rare Victory Pose)
 		Menacing (Rare Victory Pose)
 		Casual (Rare Victory Pose)
+Error unknown keyname BD4E42661A432951 p 0x06E02000BC59778B f 0x0250000000001142
 		Executioner (Epic Heroic Intro)
 		SHADOW STEP (Epic Heroic Intro)
 		Death Blossom (Epic Heroic Intro)
@@ -77,6 +79,7 @@ Cosmetics for Reaper
 		Reap On (Common Spray)
 		Hellfire (Common Spray)
 		Horns (Common Spray)
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000075A
 	SUMMER_GAMES_2016 (4 items)
 		BMX (Rare Icon)
 		BMX (Common Spray)
@@ -102,6 +105,12 @@ Cosmetics for Reaper
 		Commando (Common Spray)
 		Amateur hour (Common Voice Line)
 		Moving on (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020009AE69428 f 0x0250000000000E80
+Error unknown keyname BD4E42661A432951 p 0x06E020004B74107E f 0x0250000000001119
+Error unknown keyname BD4E42661A432951 p 0x06E020009454258E f 0x025000000000111A
+Error unknown keyname BD4E42661A432951 p 0x06E02000B360912D f 0x0250000000001157
+Error unknown keyname BD4E42661A432951 p 0x06E02000ADBC5294 f 0x025000000000116F
 
 Cosmetics for Tracer
 	ACHIEVEMENT (4 items)
@@ -117,13 +126,14 @@ Cosmetics for Tracer
 		Classic (Common Skin)
 		You got it (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (56 items)
+	COMMON (57 items)
 		Tracer (Rare Icon)
 		Pulse Bomb (Rare Icon)
 		Patch (Rare Icon)
 		Spin (Epic Emote)
 		Cheer (Epic Emote)
 		Having a laugh (Epic Emote)
+Error unknown keyname BD4E42661A432951 p 0x06E02000CE06497B f 0x02500000000010F6
 		Sitting Around... (Epic Emote)
 		Salute (Rare Victory Pose)
 		Over the Shoulder (Rare Victory Pose)
@@ -203,6 +213,13 @@ Cosmetics for Tracer
 		Cadet Oxton (Legendary Skin)
 		Don't be daft (Common Voice Line)
 		Sorry I'm late (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000CA81087D f 0x0250000000000A7E
+Error unknown keyname BD4E42661A432951 p 0x06E020006C062234 f 0x0250000000001127
+Error unknown keyname BD4E42661A432951 p 0x06E02000E2EC450E f 0x0250000000001128
+Error unknown keyname BD4E42661A432951 p 0x06E020006E1B9FF3 f 0x025000000000115E
+Error unknown keyname BD4E42661A432951 p 0x06E02000F51448D4 f 0x0250000000001176
+Error unknown keyname BD4E42661A432951 p 0x06E020001397654A f 0x0250000000000E7B
 
 Cosmetics for Mercy
 	ACHIEVEMENT (3 items)
@@ -303,6 +320,12 @@ Cosmetics for Mercy
 		Combat Medic Ziegler (Legendary Skin)
 		Take care of yourself (Common Voice Line)
 		Not sure why I bother (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020005974D09E f 0x0250000000000CAA
+Error unknown keyname BD4E42661A432951 p 0x06E02000324A4303 f 0x02500000000010FF
+Error unknown keyname BD4E42661A432951 p 0x06E0200013DC0A3E f 0x0250000000001100
+Error unknown keyname BD4E42661A432951 p 0x06E020005C0DEDEA f 0x025000000000114A
+Error unknown keyname BD4E42661A432951 p 0x06E020003FF3051C f 0x0250000000001162
 
 Cosmetics for Hanzo
 	ACHIEVEMENT (3 items)
@@ -397,6 +420,13 @@ Cosmetics for Hanzo
 		Training (Epic Emote)
 		Unacceptable (Common Voice Line)
 		Beauty in simplicity (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000CEFE38ED f 0x0250000000001093
+Error unknown keyname BD4E42661A432951 p 0x06E0200028A830AD f 0x0250000000001101
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001102
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000114B
+Error unknown keyname BD4E42661A432951 p 0x06E020005D319413 f 0x0250000000001163
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000000F4A
 
 Cosmetics for Torbjörn
 	ACHIEVEMENT (3 items)
@@ -498,6 +528,12 @@ Cosmetics for Torbjörn
 		My baby (Epic Heroic Intro)
 		Poor craftsman (Common Voice Line)
 		Just start hammering (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020008DC13E4F f 0x0250000000000E7F
+Error unknown keyname BD4E42661A432951 p 0x06E02000EB829484 f 0x0250000000001111
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001112
+Error unknown keyname BD4E42661A432951 p 0x06E020006751DDAA f 0x0250000000001153
+Error unknown keyname BD4E42661A432951 p 0x06E02000FDC710E9 f 0x025000000000116B
 
 Cosmetics for Reinhardt
 	ACHIEVEMENT (3 items)
@@ -599,6 +635,12 @@ Cosmetics for Reinhardt
 		Lieutenant Wilhelm (Epic Skin)
 		Easy does it (Common Voice Line)
 		Unstoppable (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E0200087CCD11F f 0x0250000000000CF5
+Error unknown keyname BD4E42661A432951 p 0x06E02000492F2B50 f 0x0250000000001113
+Error unknown keyname BD4E42661A432951 p 0x06E02000D93B47F6 f 0x0250000000001114
+Error unknown keyname BD4E42661A432951 p 0x06E02000DED873E1 f 0x0250000000001154
+Error unknown keyname BD4E42661A432951 p 0x06E0200018A3FF73 f 0x025000000000116C
 
 Cosmetics for Pharah
 	ACHIEVEMENT (4 items)
@@ -697,6 +739,13 @@ Cosmetics for Pharah
 		Flair (Epic Emote)
 		Don't take it personally (Common Voice Line)
 		I am the Rocket Queen (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E0200057ED3BBB f 0x0250000000000FE6
+Error unknown keyname BD4E42661A432951 p 0x06E020001B0F5203 f 0x025000000000111D
+Error unknown keyname BD4E42661A432951 p 0x06E0200040656909 f 0x025000000000111E
+Error unknown keyname BD4E42661A432951 p 0x06E020004C972469 f 0x0250000000001159
+Error unknown keyname BD4E42661A432951 p 0x06E02000F7CE83B4 f 0x0250000000001171
+Error unknown keyname BD4E42661A432951 p 0x06E02000A6E9D479 f 0x0250000000000CE7
 
 Cosmetics for Winston
 	ACHIEVEMENT (3 items)
@@ -796,6 +845,12 @@ Cosmetics for Winston
 		Peanut Butter (Rare Victory Pose)
 		Have you seen my glasses? (Common Voice Line)
 		I have the right stuff (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000FFA443EA f 0x0250000000000E81
+Error unknown keyname BD4E42661A432951 p 0x06E020003F974BD0 f 0x0250000000001121
+Error unknown keyname BD4E42661A432951 p 0x06E020003810310B f 0x0250000000001122
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000115B
+Error unknown keyname BD4E42661A432951 p 0x06E02000706EA6D7 f 0x0250000000001173
 
 Cosmetics for Widowmaker
 	ACHIEVEMENT (4 items)
@@ -894,6 +949,12 @@ Cosmetics for Widowmaker
 		Talon (Legendary Skin)
 		The performance begins (Common Voice Line)
 		Your emotions (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000CF5690F6 f 0x0250000000000F60
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001129
+Error unknown keyname BD4E42661A432951 p 0x06E0200098E6B5F1 f 0x025000000000112A
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000115F
+Error unknown keyname BD4E42661A432951 p 0x06E02000A45FEA50 f 0x0250000000001177
 
 Cosmetics for Bastion
 	ACHIEVEMENT (5 items)
@@ -993,6 +1054,13 @@ Cosmetics for Bastion
 		Null Sector (Epic Skin)
 		DWEE WEE WOH (Common Voice Line)
 		ZWEE-AH WHEEE DOO WOO (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020009ECD4230 f 0x0250000000000FF9
+Error unknown keyname BD4E42661A432951 p 0x06E0200081935DB6 f 0x025000000000110D
+Error unknown keyname BD4E42661A432951 p 0x06E02000A6425797 f 0x025000000000110E
+Error unknown keyname BD4E42661A432951 p 0x06E02000E0F1F8C9 f 0x0250000000001151
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001169
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000000FE2
 
 Cosmetics for Symmetra
 	ACHIEVEMENT (3 items)
@@ -1090,6 +1158,13 @@ Cosmetics for Symmetra
 		Light Reading (Rare Victory Pose)
 		Taken under advisement (Common Voice Line)
 		Kindly adjust (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020002C595882 f 0x0250000000000CF6
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001125
+Error unknown keyname BD4E42661A432951 p 0x06E02000686B7376 f 0x0250000000001126
+Error unknown keyname BD4E42661A432951 p 0x06E020001CEC6614 f 0x025000000000115D
+Error unknown keyname BD4E42661A432951 p 0x06E0200023FFCF33 f 0x0250000000001175
+Error unknown keyname BD4E42661A432951 p 0x06E020003B3B6DF8 f 0x0250000000000FE4
 
 Cosmetics for Zenyatta
 	ACHIEVEMENT (3 items)
@@ -1189,6 +1264,12 @@ Cosmetics for Zenyatta
 		Perspective (Epic Heroic Intro)
 		Where you're headed (Common Voice Line)
 		Path to enlightenment (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020000F4CF37A f 0x02500000000010AA
+Error unknown keyname BD4E42661A432951 p 0x06E02000FC997C2A f 0x0250000000001105
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001106
+Error unknown keyname BD4E42661A432951 p 0x06E02000867069A1 f 0x025000000000114D
+Error unknown keyname BD4E42661A432951 p 0x06E02000C5D8F1AD f 0x0250000000001165
 
 Cosmetics for Genji
 	ACHIEVEMENT (5 items)
@@ -1288,6 +1369,13 @@ Cosmetics for Genji
 		Meditate (Rare Victory Pose)
 		Another! (Common Voice Line)
 		Life and death balance (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000F989EC09 f 0x0250000000000FE5
+Error unknown keyname BD4E42661A432951 p 0x06E02000B8376EB3 f 0x0250000000001123
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001124
+Error unknown keyname BD4E42661A432951 p 0x06E020007E2EF71B f 0x025000000000115C
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001174
+Error unknown keyname BD4E42661A432951 p 0x06E0200063A5F287 f 0x0250000000000FE3
 
 Cosmetics for Roadhog
 	ACHIEVEMENT (3 items)
@@ -1388,6 +1476,12 @@ Cosmetics for Roadhog
 		Chopper (Common Spray)
 		Killed for less than that (Common Voice Line)
 		She'll be right (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020007B1B8476 f 0x02500000000010AC
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000111B
+Error unknown keyname BD4E42661A432951 p 0x06E02000C7C54C6A f 0x025000000000111C
+Error unknown keyname BD4E42661A432951 p 0x06E020002E55B566 f 0x0250000000001158
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001170
 
 Cosmetics for McCree
 	ACHIEVEMENT (3 items)
@@ -1486,6 +1580,12 @@ Cosmetics for McCree
 		Showdown (Rare Victory Pose)
 		A man's gotta have rules (Common Voice Line)
 		The Old Fashioned Way (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E020008E027E83 f 0x0250000000000CA9
+Error unknown keyname BD4E42661A432951 p 0x06E02000AF0815CE f 0x0250000000001103
+Error unknown keyname BD4E42661A432951 p 0x06E0200043A74843 f 0x0250000000001104
+Error unknown keyname BD4E42661A432951 p 0x06E020000F9C840E f 0x025000000000114C
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001164
 
 Cosmetics for Junkrat
 	ACHIEVEMENT (3 items)
@@ -1584,6 +1684,12 @@ Cosmetics for Junkrat
 		Sidecar (Common Spray)
 		Too right (Common Voice Line)
 		Come the raw prawn (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E0200014C40D71 f 0x02500000000010AB
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001107
+Error unknown keyname BD4E42661A432951 p 0x06E02000F5D33E73 f 0x0250000000001108
+Error unknown keyname BD4E42661A432951 p 0x06E02000883CA16D f 0x025000000000114E
+Error unknown keyname BD4E42661A432951 p 0x06E020006F884761 f 0x0250000000001166
 
 Cosmetics for Zarya
 	ACHIEVEMENT (3 items)
@@ -1681,6 +1787,13 @@ Cosmetics for Zarya
 		This is strength (Rare Victory Pose)
 		I was born in battle (Common Voice Line)
 		Ready to give up? (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000C9398165 f 0x0250000000000E82
+Error unknown keyname BD4E42661A432951 p 0x06E020009D1E67D7 f 0x0250000000001117
+Error unknown keyname BD4E42661A432951 p 0x06E0200013F400ED f 0x0250000000001118
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001156
+Error unknown keyname BD4E42661A432951 p 0x06E020009F03DA10 f 0x025000000000116E
+Error unknown keyname BD4E42661A432951 p 0x06E02000F9FDD746 f 0x0250000000000F7D
 
 Cosmetics for Soldier: 76
 	ACHIEVEMENT (4 items)
@@ -1778,6 +1891,13 @@ Cosmetics for Soldier: 76
 		Push-ups (Epic Emote)
 		Not getting any younger (Common Voice Line)
 		Whatever you say (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000EFDC059C f 0x0250000000000CF1
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000111F
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001120
+Error unknown keyname BD4E42661A432951 p 0x06E02000BA2AD374 f 0x025000000000115A
+Error unknown keyname BD4E42661A432951 p 0x06E02000A56F0AA9 f 0x0250000000001172
+Error unknown keyname BD4E42661A432951 p 0x06E020005366DB10 f 0x0250000000000D04
 
 Cosmetics for Lúcio
 	ACHIEVEMENT (3 items)
@@ -1876,6 +1996,13 @@ Cosmetics for Lúcio
 		Handstand (Rare Victory Pose)
 		Boop (Common Voice Line)
 		Learn to take it easy (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E0200072F1B66F f 0x0250000000000FE7
+Error unknown keyname BD4E42661A432951 p 0x06E02000D1E81FCB f 0x0250000000001109
+Error unknown keyname BD4E42661A432951 p 0x06E0200072731B10 f 0x025000000000110A
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000114F
+Error unknown keyname BD4E42661A432951 p 0x06E020000D4AD66E f 0x0250000000001167
+Error unknown keyname BD4E42661A432951 p 0x06E02000A9743A70 f 0x0250000000000FE9
 
 Cosmetics for D.Va
 	ACHIEVEMENT (5 items)
@@ -1977,6 +2104,13 @@ Cosmetics for D.Va
 		Selfie (Epic Heroic Intro)
 		Try and keep up (Common Voice Line)
 		Not taking me seriously (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000B1B8681E f 0x0250000000000FFA
+Error unknown keyname BD4E42661A432951 p 0x06E02000BBF9D6F9 f 0x0250000000001115
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001116
+Error unknown keyname BD4E42661A432951 p 0x06E0200034C0B44E f 0x0250000000001155
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000116D
+Error unknown keyname BD4E42661A432951 p 0x06E02000C3F9850E f 0x0250000000000D26
 
 Cosmetics for Mei
 	ACHIEVEMENT (3 items)
@@ -2078,6 +2212,13 @@ Cosmetics for Mei
 		Pajamas (Common Spray)
 		Science this (Common Voice Line)
 		Scientific explanation (Common Voice Line)
+	EVENT_6 (6 items)
+Error unknown keyname BD4E42661A432951 p 0x06E0200040F1B4DA f 0x0250000000000F5F
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000110B
+Error unknown keyname BD4E42661A432951 p 0x06E02000E351CCB9 f 0x025000000000110C
+Error unknown keyname BD4E42661A432951 p 0x06E020008EA3319C f 0x0250000000001150
+Error unknown keyname BD4E42661A432951 p 0x06E02000CC92B3F4 f 0x0250000000001168
+Error unknown keyname BD4E42661A432951 p 0x06E020002DCC9BC1 f 0x0250000000000F79
 
 Cosmetics for Sombra
 	ACHIEVEMENT (3 items)
@@ -2092,13 +2233,15 @@ Cosmetics for Sombra
 		Classic (Common Skin)
 		Playing Fair (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (59 items)
+	COMMON (61 items)
 		Sombra (Rare Icon)
 		Skull (Rare Icon)
 		Hacker (Rare Icon)
 		Amused (Epic Emote)
 		Masterpiece (Epic Emote)
 		Hold On (Epic Emote)
+Error unknown keyname BD4E42661A432951 p 0x06E02000F3A0D14F f 0x02500000000010F8
+Error unknown keyname BD4E42661A432951 p 0x06E020009D2A8034 f 0x02500000000010F3
 		Kneeling (Rare Victory Pose)
 		Rising (Rare Victory Pose)
 		Hacked (Rare Victory Pose)
@@ -2115,6 +2258,7 @@ Cosmetics for Sombra
 		Good one (Common Voice Line)
 		Cool (Common Voice Line)
 		Just squishing a bug (Common Voice Line)
+		Boop (Common Voice Line)
 		Cidro (Rare Skin)
 		Incendio (Rare Skin)
 		Mar (Rare Skin)
@@ -2151,7 +2295,6 @@ Cosmetics for Sombra
 		Puzzle (Common Spray)
 		Behind You (Common Spray)
 		Icon (Common Spray)
-		Boop (Common Voice Line)
 	WINTER_WONDERLAND_2016 (4 items)
 		Puppet (Common Spray)
 		Ornament (Common Spray)
@@ -2166,6 +2309,12 @@ Cosmetics for Sombra
 		Espresso (Common Spray)
 		Don't be a coward (Common Voice Line)
 		I'd love to stay and chat (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E0200031C61865 f 0x0250000000001094
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000110F
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001110
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x0250000000001152
+Error unknown keyname BD4E42661A432951 p 0x06E020004B329697 f 0x025000000000116A
 
 Cosmetics for Ana
 	ACHIEVEMENT (3 items)
@@ -2263,6 +2412,12 @@ Cosmetics for Ana
 		Newborn (Common Spray)
 		Damn (Common Voice Line)
 		The Ghost Watches (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000C6E7E6C1 f 0x0250000000000FF8
+Error unknown keyname BD4E42661A432951 p 0x06E02000E67B0F84 f 0x02500000000010FB
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x02500000000010FC
+Error unknown keyname BD4E42661A432951 p 0x06E0200015D33621 f 0x02500000000010FA
+Error unknown keyname BD4E42661A432951 p 0x0000000000000000 f 0x025000000000106F
 
 Cosmetics for Orisa
 	ACHIEVEMENT (3 items)
@@ -2277,13 +2432,15 @@ Cosmetics for Orisa
 		Classic (Common Skin)
 		Following My Programming (Common Voice Line)
 		Heroic (Common Emote)
-	COMMON (55 items)
+	COMMON (57 items)
 		Orisa (Rare Icon)
 		Protector (Rare Icon)
 		Efi (Rare Icon)
 		Kicking Dirt (Epic Emote)
 		Halt! (Epic Emote)
 		Cheer (Epic Emote)
+Error unknown keyname BD4E42661A432951 p 0x06E02000628BC12C f 0x025000000000112B
+Error unknown keyname BD4E42661A432951 p 0x06E02000EC2007F4 f 0x02500000000010F7
 		Halt! (Rare Victory Pose)
 		Confident (Rare Victory Pose)
 		Flex (Rare Victory Pose)
@@ -2339,6 +2496,12 @@ Cosmetics for Orisa
 		Null Sector (Legendary Skin)
 		Error: division by 0 (Common Voice Line)
 		Functionality still in beta (Common Voice Line)
+	EVENT_6 (5 items)
+Error unknown keyname BD4E42661A432951 p 0x06E02000E9CBBB70 f 0x0250000000001092
+Error unknown keyname BD4E42661A432951 p 0x06E02000B5EA6660 f 0x02500000000010FD
+Error unknown keyname BD4E42661A432951 p 0x06E0200045A8745C f 0x02500000000010FE
+Error unknown keyname BD4E42661A432951 p 0x06E02000D60B2BDC f 0x0250000000001149
+Error unknown keyname BD4E42661A432951 p 0x06E0200011E9BD2A f 0x0250000000001161
 
 Cosmetics for Eradicator
 	ACHIEVEMENT (4 items)
