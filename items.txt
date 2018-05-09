@@ -1,12 +1,12 @@
-CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\544\toolchain-release\CascCache
-DataTool v1.22.0.544-git-21f6472d85c6cb87038286cacb9e73cd6981201f
+CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\566\toolchain-release\CascCache
+DataTool v1.23.0.566-git-923dfe9ec276ddf8d886f81c5449a5b34491233e
 Initializing CASC...
 Set language to enUS
-Using Overwatch Version 1.22.0.1.45752
+Using Overwatch Version 1.23.0.1.46137
 Loading APM TactManifest/Win_SPWin_RDEV_LenUS_EExt.apm
-Using CMF procedure 45752
+Using CMF procedure 46137
 Loading APM TactManifest/Win_SPWin_speech_RDEV_LenUS_EExt.apm
-Using CMF procedure 45752
+Using CMF procedure 46137
 Mapping...
 Adding Encryption Keys...
 Tooling...
