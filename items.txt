@@ -1,12 +1,12 @@
-CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\566\toolchain-release\CascCache
-DataTool v1.23.0.566-git-923dfe9ec276ddf8d886f81c5449a5b34491233e
+CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\568\toolchain-release\CascCache
+DataTool v1.23.0.568-git-61945ddd5755dfdfade968c7a6946bbe45cc0804
 Initializing CASC...
 Set language to enUS
-Using Overwatch Version 1.23.0.1.46137
+Using Overwatch Version 1.23.0.1.46510
 Loading APM TactManifest/Win_SPWin_RDEV_LenUS_EExt.apm
-Using CMF procedure 46137
+Using CMF procedure 46457
 Loading APM TactManifest/Win_SPWin_speech_RDEV_LenUS_EExt.apm
-Using CMF procedure 46137
+Using CMF procedure 46457
 Mapping...
 Adding Encryption Keys...
 Tooling...
@@ -1417,6 +1417,13 @@ Unlocks for Mercy
 		Mayhem Away (Epic Skin)
 		Fuel Away (Epic Skin)
 		Uprising Away (Epic Skin)
+		Pink (Legendary Skin)
+		Pink (Rare PlayerIcon)
+		Ribbon (Rare PlayerIcon)
+		Pink (Common Spray)
+		Cure (Common Spray)
+		Ribbon (Common Spray)
+		Together (Common Spray)
 	Standard Unlocks
 		Heroic (Common Pose)
 		Heroic (Common HighlightIntro)
