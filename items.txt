@@ -1,12 +1,12 @@
-CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\568\toolchain-release\CascCache
-DataTool v1.23.0.568-git-61945ddd5755dfdfade968c7a6946bbe45cc0804
+CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\569\toolchain-release\CascCache
+DataTool v1.23.0.569-git-9525b910ce47af9ac8aa3dc044a712b007982355
 Initializing CASC...
 Set language to enUS
-Using Overwatch Version 1.23.0.1.46510
+Using Overwatch Version 1.24.0.1.46836
 Loading APM TactManifest/Win_SPWin_RDEV_LenUS_EExt.apm
-Using CMF procedure 46457
+Using CMF procedure 46836
 Loading APM TactManifest/Win_SPWin_speech_RDEV_LenUS_EExt.apm
-Using CMF procedure 46457
+Using CMF procedure 46836
 Mapping...
 Adding Encryption Keys...
 Tooling...
@@ -17,6 +17,9 @@ Unlocks for Tracer
 		GOLDEN (Common Weapon)
 		Slipstream (Legendary Skin)
 			Before becoming an active agent of Overwatch, Tracer was a test pilot, until a mishap with the prototype Slipstream teleporting fighter.
+		Horde Banner (Epic Emote)
+		Alliance Banner (Epic Emote)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -29,8 +32,6 @@ Unlocks for Tracer
 		Shock (Epic Skin)
 		Dynasty (Epic Skin)
 		Dragons (Epic Skin)
-		Horde Banner (Epic Emote)
-		Alliance Banner (Epic Emote)
 		Overwatch League White (Epic Skin)
 		Overwatch League Gray (Epic Skin)
 		Uprising Away (Epic Skin)
@@ -166,6 +167,7 @@ Unlocks for Symmetra
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -308,19 +310,12 @@ Unlocks for Symmetra
 		Nine of Diamonds (Common Spray)
 		Oasis (Legendary Skin)
 
-Unlocks for Enforcer
-	Default Unlocks
-		00000000171C (Common Pose)
-		00000000171B (Common Pose)
-		00000000171A (Common Pose)
-		000000001719 (Common Pose)
-		00000000171D (Common Pose)
-
 Unlocks for Roadhog
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -471,6 +466,7 @@ Unlocks for Pharah
 		GOLDEN (Common Weapon)
 		Security Chief (Legendary Skin)
 			Following a sterling career in the Egyptian armed forces, Pharah joined Helix Security International as one of their chief officers.
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -613,6 +609,7 @@ Unlocks for Reinhardt
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -757,19 +754,12 @@ Unlocks for Reinhardt
 		Goldhardt (Rare PlayerIcon)
 		King of Hearts (Common Spray)
 
-Unlocks for Heavy Assault
-	Default Unlocks
-		00000000171C (Common Pose)
-		00000000171B (Common Pose)
-		00000000171A (Common Pose)
-		000000001719 (Common Pose)
-		00000000171D (Common Pose)
-
 Unlocks for Genji
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -921,6 +911,7 @@ Unlocks for Soldier: 76
 		GOLDEN (Common Weapon)
 		Strike Commander Morrison (Legendary Skin)
 			After the Omnic Crisis, Jack Morrison was promoted to Strike Commander of Overwatch, leading the organization for decades until it was disbanded.
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -1059,13 +1050,6 @@ Unlocks for Soldier: 76
 		Ace of Spades (Common Spray)
 		Cyborg: 76 (Legendary Skin)
 
-Unlocks for Slicer
-	Default Unlocks
-		000000001088 (Common Pose)
-		000000001087 (Common Pose)
-		000000001089 (Common Pose)
-		000000001070 (Common Pose)
-
 Unlocks for Bastion
 	Default Unlocks
 		Pixel (Common Spray)
@@ -1074,6 +1058,7 @@ Unlocks for Bastion
 		Overgrown (Legendary Skin)
 			Damaged in one of the battles of the Omnic Crisis, this lone Bastion unit was reactivated in the Black Forest near Eichenwalde years later.
 		BlizzCon 2016 (Epic Skin)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -1215,18 +1200,12 @@ Unlocks for Bastion
 		Ten of Clubs (Common Spray)
 		Dune Buggy (Legendary Skin)
 
-Unlocks for Detonator
-	Default Unlocks
-		000000001088 (Common Pose)
-		000000001087 (Common Pose)
-		000000001089 (Common Pose)
-		000000001070 (Common Pose)
-
 Unlocks for Sombra
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -1371,26 +1350,19 @@ Unlocks for Sombra
 		Aniversario (Rare PlayerIcon)
 		Queen of Spades (Common Spray)
 
-Unlocks for Trooper
-	Default Unlocks
-		00000000171C (Common Pose)
-		00000000171B (Common Pose)
-		00000000171A (Common Pose)
-		000000001719 (Common Pose)
-		00000000171D (Common Pose)
-
-Unlocks for Eradicator
-	Default Unlocks
-		000000001088 (Common Pose)
-		000000001087 (Common Pose)
-		000000001089 (Common Pose)
-		000000001070 (Common Pose)
-
 Unlocks for Mercy
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+		Pink (Legendary Skin)
+		Pink (Rare PlayerIcon)
+		Ribbon (Rare PlayerIcon)
+		Pink (Common Spray)
+		Cure (Common Spray)
+		Ribbon (Common Spray)
+		Together (Common Spray)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -1417,13 +1389,6 @@ Unlocks for Mercy
 		Mayhem Away (Epic Skin)
 		Fuel Away (Epic Skin)
 		Uprising Away (Epic Skin)
-		Pink (Legendary Skin)
-		Pink (Rare PlayerIcon)
-		Ribbon (Rare PlayerIcon)
-		Pink (Common Spray)
-		Cure (Common Spray)
-		Ribbon (Common Spray)
-		Together (Common Spray)
 	Standard Unlocks
 		Heroic (Common Pose)
 		Heroic (Common HighlightIntro)
@@ -1547,6 +1512,7 @@ Unlocks for Ana
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -1695,6 +1661,7 @@ Unlocks for Junkrat
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -1846,6 +1813,7 @@ Unlocks for McCree
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -1994,6 +1962,8 @@ Unlocks for Widowmaker
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
 		Noire (Legendary Skin)
+		Kerrigan (Legendary Skin)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -2008,7 +1978,6 @@ Unlocks for Widowmaker
 		Dragons (Epic Skin)
 		Overwatch League White (Epic Skin)
 		Overwatch League Gray (Epic Skin)
-		Kerrigan (Legendary Skin)
 		Dragons Away (Epic Skin)
 		Dynasty Away (Epic Skin)
 		Shock Away (Epic Skin)
@@ -2136,267 +2105,12 @@ Unlocks for Widowmaker
 		D'or (Rare PlayerIcon)
 		Queen of Hearts (Common Spray)
 
-Unlocks for Doomfist
-	Default Unlocks
-		GOLDEN (Common Weapon)
-		Cute (Common Spray)
-		Pixel (Common Spray)
-		Fusion (Epic Skin)
-		Uprising (Epic Skin)
-		Fuel (Epic Skin)
-		Spitfire (Epic Skin)
-		Gladiators (Epic Skin)
-		Valiant (Epic Skin)
-		Mayhem (Epic Skin)
-		Outlaws (Epic Skin)
-		Excelsior (Epic Skin)
-		Shock (Epic Skin)
-		Dynasty (Epic Skin)
-		Dragons (Epic Skin)
-		Overwatch League White (Epic Skin)
-		Overwatch League Gray (Epic Skin)
-		Uprising Away (Epic Skin)
-		Dragons Away (Epic Skin)
-		Dynasty Away (Epic Skin)
-		Shock Away (Epic Skin)
-		Fusion Away (Epic Skin)
-		Excelsior Away (Epic Skin)
-		Valiant Away (Epic Skin)
-		Gladiators Away (Epic Skin)
-		Spitfire Away (Epic Skin)
-		Outlaws Away (Epic Skin)
-		Mayhem Away (Epic Skin)
-		Fuel Away (Epic Skin)
-	Standard Unlocks
-		Heroic (Common Pose)
-		Heroic (Common HighlightIntro)
-		RANDOM (Common HighlightIntro)
-		DEFAULT (Common Weapon)
-		Classic (Common Skin)
-		Try Me (Common VoiceLine)
-		Heroic (Common Emote)
-	Event/Base Unlocks
-		Doomfist (Rare PlayerIcon)
-		Fist (Rare PlayerIcon)
-		Initials (Rare PlayerIcon)
-		Thumbs Down (Epic Emote)
-		Fake Out (Epic Emote)
-		Ready for Battle (Epic Emote)
-		Intimidate (Epic Emote)
-		Take a Knee (Epic Emote)
-		Superior (Rare Pose)
-		Seismic Slam (Rare Pose)
-		Intense (Rare Pose)
-		One Punch (Epic HighlightIntro)
-		Meteor (Epic HighlightIntro)
-		Uppercut (Epic HighlightIntro)
-		Combo Breaker (Common VoiceLine)
-		You're not bad (Common VoiceLine)
-		K.O. (Common VoiceLine)
-		You must be joking (Common VoiceLine)
-		Talk to the fist (Common VoiceLine)
-		One punch is all I need (Common VoiceLine)
-		Don't get back up (Common VoiceLine)
-		Go and sit down (Common VoiceLine)
-		I haven't even started (Common VoiceLine)
-		Spare me the commentary (Common VoiceLine)
-		Sunset (Rare Skin)
-		Lake (Rare Skin)
-		Plains (Rare Skin)
-		Daisy (Rare Skin)
-		Painted (Epic Skin)
-		Leopard (Epic Skin)
-		Spirit (Legendary Skin)
-		Avatar (Legendary Skin)
-		Irin (Legendary Skin)
-			After losing his arm in the aftermath of the Omnic Crisis, Doomfist turned to cybernetics to recover and become even stronger than before.
-		Caution (Legendary Skin)
-			After losing his arm in the aftermath of the Omnic Crisis, Doomfist turned to cybernetics to recover and become even stronger than before.
-		Punching Bag (Common Spray)
-		Wrapped (Common Spray)
-		Stance (Common Spray)
-		Fist (Common Spray)
-		Wrestle (Common Spray)
-		Punchman (Common Spray)
-		Crush (Common Spray)
-		Crater (Common Spray)
-		Thumbs Up (Common Spray)
-		Akande (Common Spray)
-		Paint (Common Spray)
-		Initials (Common Spray)
-		Icon (Common Spray)
-		...Punch? (Common Spray)
-		They Said... (Common Spray)
-		Sonic Boom (Common Spray)
-		Move List (Common Spray)
-		Epicenter (Common Spray)
-		Successor (Common Spray)
-		Smoke (Common Spray)
-		Out of Time (Common Spray)
-		The Greatest (Common Spray)
-		Tuxedo (Common Spray)
-		Blackhand (Legendary Skin)
-		Cute Doomfist (Rare PlayerIcon)
-		Blackhand (Common Spray)
-		You test my patience (Common VoiceLine)
-	Event/Summer Games Unlocks
-		Shotput (Rare PlayerIcon)
-		Shot Put (Common Spray)
-		I make medicine sick (Common VoiceLine)
-		Make you punch drunk (Common VoiceLine)
-	Event/Halloween Unlocks
-		I have something for you (Common VoiceLine)
-		You should be scared (Common VoiceLine)
-		Trick or Treat (Common Spray)
-	Event/Winter Unlocks
-		Snow Punch (Common Spray)
-		Ornament (Common Spray)
-		Did you bring me a present? (Common VoiceLine)
-		They say chivalry is dead (Common VoiceLine)
-	Event/Lunar New Year Unlocks
-		Fortune favors the bold (Common VoiceLine)
-		I'll throw you a bone (Common VoiceLine)
-		Crushing (Epic Emote)
-		Lionfist (Common Spray)
-		Dragon Dance (Common Spray)
-	Event/Archives Unlocks
-		Talon (Legendary Skin)
-			Doomfist rose in power in Talon after killing his mentor, Akinjide Adeyemi, the Scourge of Numbani.
-		Combo (Epic HighlightIntro)
-		Ogundimu (Rare PlayerIcon)
-		Thumbs down (Common Spray)
-		I didn't ask for your opinion (Common VoiceLine)
-		I know you can do better (Common VoiceLine)
-		I am not your savior (Common VoiceLine)
-
-Unlocks for Moira
-	Default Unlocks
-		GOLDEN (Common Weapon)
-		Cute (Common Spray)
-		Pixel (Common Spray)
-		Fusion (Epic Skin)
-		Uprising (Epic Skin)
-		Fuel (Epic Skin)
-		Spitfire (Epic Skin)
-		Gladiators (Epic Skin)
-		Valiant (Epic Skin)
-		Mayhem (Epic Skin)
-		Outlaws (Epic Skin)
-		Excelsior (Epic Skin)
-		Shock (Epic Skin)
-		Dynasty (Epic Skin)
-		Dragons (Epic Skin)
-		Overwatch League White (Epic Skin)
-		Overwatch League Gray (Epic Skin)
-		Uprising Away (Epic Skin)
-		Dragons Away (Epic Skin)
-		Dynasty Away (Epic Skin)
-		Shock Away (Epic Skin)
-		Fusion Away (Epic Skin)
-		Excelsior Away (Epic Skin)
-		Valiant Away (Epic Skin)
-		Gladiators Away (Epic Skin)
-		Spitfire Away (Epic Skin)
-		Outlaws Away (Epic Skin)
-		Mayhem Away (Epic Skin)
-		Fuel Away (Epic Skin)
-	Standard Unlocks
-		Heroic (Common Pose)
-		Heroic (Common HighlightIntro)
-		RANDOM (Common HighlightIntro)
-		DEFAULT (Common Weapon)
-		Classic (Common Skin)
-		What an interesting hypothesis (Common VoiceLine)
-		Heroic (Common Emote)
-	Event/Base Unlocks
-		Moira (Rare PlayerIcon)
-		Knot (Rare PlayerIcon)
-		Erlenmeyer (Rare PlayerIcon)
-		Give and Take (Epic Emote)
-		Come here (Epic Emote)
-		At your service (Epic Emote)
-		How amusing (Epic Emote)
-		Waiting (Epic Emote)
-		Orbs (Rare Pose)
-		Steepling (Rare Pose)
-		Prim (Rare Pose)
-		Vanishing Act (Epic HighlightIntro)
-		Transformation (Epic HighlightIntro)
-		Coalescence (Epic HighlightIntro)
-		Brilliant (Common VoiceLine)
-		Stupidity is not a right (Common VoiceLine)
-		You're a chancer (Common VoiceLine)
-		I'm working (Common VoiceLine)
-		The state of you (Common VoiceLine)
-		What are you on about? (Common VoiceLine)
-		Grand (Common VoiceLine)
-		One hand gives (Common VoiceLine)
-		Idle hands (Common VoiceLine)
-		Are you finished? (Common VoiceLine)
-		Fiery (Rare Skin)
-		Royal (Rare Skin)
-		Whiskey (Rare Skin)
-		Selkie (Rare Skin)
-		Ornate (Epic Skin)
-		Pale (Epic Skin)
-		Oasis (Legendary Skin)
-			Thanks to her brilliance and their shared desire to achieve scientific advancement at any cost, the founders of Oasis invited her to join them as their Minister of Genetics.
-		Glam (Legendary Skin)
-		Minister (Legendary Skin)
-			Thanks to her brilliance and their shared desire to achieve scientific advancement at any cost, the founders of Oasis invited her to join them as their Minister of Genetics.
-		Moon (Legendary Skin)
-		Icon (Common Spray)
-		Power Level (Common Spray)
-		Fade (Common Spray)
-		Give (Common Spray)
-		Take (Common Spray)
-		Self-Experimentation (Common Spray)
-		Hypothesis (Common Spray)
-		Nails (Common Spray)
-		Orb (Common Spray)
-		Nervous (Common Spray)
-		Biohazard (Common Spray)
-		Sigil (Common Spray)
-		Cell (Common Spray)
-		Burner (Common Spray)
-		Erlenmeyer (Common Spray)
-		Plotting (Common Spray)
-		Test Murloc (Common Spray)
-		Facepalm (Common Spray)
-		Knot (Common Spray)
-		Moira (Common Spray)
-		Syringe (Common Spray)
-		Shadow (Common Spray)
-		Reaction (Common Spray)
-		Cute Moira (Rare PlayerIcon)
-		Glam (Common Spray)
-		Biology's habits (Common VoiceLine)
-		Facepalm (Epic Emote)
-	Event/Winter Unlocks
-		Chimney (Common Spray)
-		Ornament (Common Spray)
-		Happy Christmas (Common VoiceLine)
-		Absolute zero (Common VoiceLine)
-	Event/Lunar New Year Unlocks
-		Sláinte (Common VoiceLine)
-		You've made a dogs breakfast (Common VoiceLine)
-		Dog Person (Common Spray)
-		Dragon Dance (Common Spray)
-	Event/Archives Unlocks
-		Blackwatch (Legendary Skin)
-			In addition to her research as a part of Blackwatch, Moira occasionally participated in clandestine operations, including the Venice Incident.
-		O'Deorain (Rare PlayerIcon)
-		Erlenmeyer (Rare Pose)
-		Foundation (Common Spray)
-		This is to my liking (Common VoiceLine)
-		Get off the stage (Common VoiceLine)
-		You're mistaken (Common VoiceLine)
-
 Unlocks for Hanzo
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -2538,19 +2252,12 @@ Unlocks for Hanzo
 		King of Diamonds (Common Spray)
 		Cyberninja (Legendary Skin)
 
-Unlocks for Sniper
-	Default Unlocks
-		00000000171C (Common Pose)
-		00000000171B (Common Pose)
-		00000000171A (Common Pose)
-		000000001719 (Common Pose)
-		00000000171D (Common Pose)
-
 Unlocks for D.Va
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -2693,117 +2400,12 @@ Unlocks for D.Va
 		Ten of Hearts (Common Spray)
 		Cruiser (Legendary Skin)
 
-Unlocks for Brigitte
-	Default Unlocks
-		GOLDEN (Common Weapon)
-		Cute (Common Spray)
-		Pixel (Common Spray)
-		Dragons (Epic Skin)
-		Dynasty (Epic Skin)
-		Shock (Epic Skin)
-		Fusion (Epic Skin)
-		Excelsior (Epic Skin)
-		Valiant (Epic Skin)
-		Gladiators (Epic Skin)
-		Spitfire (Epic Skin)
-		Outlaws (Epic Skin)
-		Mayhem (Epic Skin)
-		Fuel (Epic Skin)
-		Uprising (Epic Skin)
-		Overwatch League Gray (Epic Skin)
-		Overwatch League White (Epic Skin)
-		Dragons Away (Epic Skin)
-		Dynasty Away (Epic Skin)
-		Shock Away (Epic Skin)
-		Fusion Away (Epic Skin)
-		Excelsior Away (Epic Skin)
-		Valiant Away (Epic Skin)
-		Gladiators Away (Epic Skin)
-		Spitfire Away (Epic Skin)
-		Outlaws Away (Epic Skin)
-		Mayhem Away (Epic Skin)
-		Fuel Away (Epic Skin)
-		Uprising Away (Epic Skin)
-	Standard Unlocks
-		Heroic (Common Pose)
-		Heroic (Common HighlightIntro)
-		RANDOM (Common HighlightIntro)
-		DEFAULT (Common Weapon)
-		Classic (Common Skin)
-		You won't be disappointed (Common VoiceLine)
-		Heroic (Common Emote)
-	Event/Base Unlocks
-		Katt (Rare PlayerIcon)
-		Rally (Rare PlayerIcon)
-		Brigitte (Rare PlayerIcon)
-		Recalibrate (Epic Emote)
-		Taunt (Epic Emote)
-		Cheer (Epic Emote)
-		Hilarious (Epic Emote)
-		Confident (Rare Pose)
-		Relaxed (Rare Pose)
-		Rally (Rare Pose)
-		Defender (Epic HighlightIntro)
-		Rally (Epic HighlightIntro)
-		Flail (Epic HighlightIntro)
-		Swedish engineering (Common VoiceLine)
-		Trust me (Common VoiceLine)
-		What are you doing? (Common VoiceLine)
-		It's broken (Common VoiceLine)
-		Be reasonable (Common VoiceLine)
-		Working as intended (Common VoiceLine)
-		Leave this to the experts (Common VoiceLine)
-		Mace to the face (Common VoiceLine)
-		No shortcuts (Common VoiceLine)
-		Get lost (Common VoiceLine)
-		Röd (Rare Skin)
-		Grön (Rare Skin)
-		Plommon (Rare Skin)
-		Blå (Rare Skin)
-		Carbon Fiber (Epic Skin)
-		Ironclad (Epic Skin)
-		Sól (Legendary Skin)
-		Máni (Legendary Skin)
-		Engineer (Legendary Skin)
-			Before taking up arms, Brigitte planned to pursue a career as an engineer who specialized  in the creation of armor and other defensive systems.
-		Mechanic (Legendary Skin)
-			Before taking up arms, Brigitte planned to pursue a career as an engineer who specialized  in the creation of armor and other defensive systems.
-		Icon (Common Spray)
-		Skål! (Common Spray)
-		Stories (Common Spray)
-		Mounted Combat (Common Spray)
-		Training (Common Spray)
-		Adjustment (Common Spray)
-		Rally (Common Spray)
-		Challenge (Common Spray)
-		Lindholms (Common Spray)
-		Armored Lion (Common Spray)
-		Wrestle (Common Spray)
-		High Five (Common Spray)
-		Paj (Common Spray)
-		Heraldry (Common Spray)
-		Raketbälte (Common Spray)
-		Apprentice (Common Spray)
-		Dessert (Common Spray)
-		Armor (Common Spray)
-		Flail with Chain (Common Spray)
-		Fuel (Common Spray)
-		Wink (Common Spray)
-		Cat Person (Common Spray)
-		Prints (Common Spray)
-		Kneel (Epic Emote)
-	Event/Archives Unlocks
-		Kneel (Rare Pose)
-		Frustrated (Common Spray)
-		Don't get caught (Common VoiceLine)
-		A chicken out of a feather (Common VoiceLine)
-		Time to roll up my sleeves (Common VoiceLine)
-
 Unlocks for Orisa
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -2939,18 +2541,12 @@ Unlocks for Orisa
 		Aurisa (Rare PlayerIcon)
 		Nine of Spades (Common Spray)
 
-Unlocks for Nulltrooper
-	Default Unlocks
-		000000001088 (Common Pose)
-		000000001087 (Common Pose)
-		000000001089 (Common Pose)
-		000000001070 (Common Pose)
-
 Unlocks for Zarya
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -3101,6 +2697,7 @@ Unlocks for Winston
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
 		BlizzCon 2017 (Epic Skin)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -3246,6 +2843,7 @@ Unlocks for Zenyatta
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -3385,19 +2983,14 @@ Unlocks for Zenyatta
 		Zeniversary (Rare PlayerIcon)
 		King of Spades (Common Spray)
 
-Unlocks for Assassin
-	Default Unlocks
-		00000000171C (Common Pose)
-		00000000171B (Common Pose)
-		00000000171A (Common Pose)
-		000000001719 (Common Pose)
-		00000000171D (Common Pose)
-
 Unlocks for Torbjörn
 	Default Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+		For the Alliance (Common VoiceLine)
+		For the Horde (Common VoiceLine)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -3410,8 +3003,6 @@ Unlocks for Torbjörn
 		Shock (Epic Skin)
 		Dynasty (Epic Skin)
 		Dragons (Epic Skin)
-		For the Alliance (Common VoiceLine)
-		For the Horde (Common VoiceLine)
 		Overwatch League White (Epic Skin)
 		Overwatch League Gray (Epic Skin)
 		Uprising Away (Epic Skin)
@@ -3549,6 +3140,7 @@ Unlocks for Reaper
 		GOLDEN (Common Weapon)
 		Blackwatch Reyes (Legendary Skin)
 			Gabriel Reyes was the leader of the original Overwatch strike team during the Omnic Crisis, and later commanded Blackwatch, the organization's covert ops division.
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -3698,6 +3290,7 @@ Unlocks for Lúcio
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
@@ -3846,6 +3439,7 @@ Unlocks for Mei
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
 		Fuel (Epic Skin)
