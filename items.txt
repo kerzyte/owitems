@@ -1,5 +1,5 @@
-CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\569\toolchain-release\CascCache
-DataTool v1.23.0.569-git-9525b910ce47af9ac8aa3dc044a712b007982355
+CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\573\toolchain-release\CascCache
+DataTool v1.24.0.573-git-edf09b7a828dd466f27b77cb03e1c9ebb7d70d9c
 Initializing CASC...
 Set language to enUS
 Using Overwatch Version 1.24.0.1.46836
@@ -161,6 +161,9 @@ Unlocks for Tracer
 		Auxton (Rare PlayerIcon)
 		Ace of Diamonds (Common Spray)
 		Graffiti (Legendary Skin)
+		Lightning (Epic Skin)
+		I knew I forgot something (Common VoiceLine)
+		Wink (Rare Pose)
 
 Unlocks for Symmetra
 	Default Unlocks
@@ -309,6 +312,9 @@ Unlocks for Symmetra
 		Vaswanniversary (Rare PlayerIcon)
 		Nine of Diamonds (Common Spray)
 		Oasis (Legendary Skin)
+		Magician (Legendary Skin)
+		Magician (Rare PlayerIcon)
+		Let us discuss your failures (Common VoiceLine)
 
 Unlocks for Roadhog
 	Default Unlocks
@@ -458,6 +464,7 @@ Unlocks for Roadhog
 		I'm going hog wild! (Common VoiceLine)
 		Goldhog (Rare PlayerIcon)
 		Joker (Common Spray)
+		That's my business (Common VoiceLine)
 
 Unlocks for Pharah
 	Default Unlocks
@@ -603,6 +610,7 @@ Unlocks for Pharah
 		Anniversareeha (Rare PlayerIcon)
 		Queen of Diamonds (Common Spray)
 		Bedouin (Legendary Skin)
+		Stay on target (Common VoiceLine)
 
 Unlocks for Reinhardt
 	Default Unlocks
@@ -753,6 +761,7 @@ Unlocks for Reinhardt
 		Beer! (Common VoiceLine)
 		Goldhardt (Rare PlayerIcon)
 		King of Hearts (Common Spray)
+		Come here... (Common VoiceLine)
 
 Unlocks for Genji
 	Default Unlocks
@@ -903,6 +912,7 @@ Unlocks for Genji
 		Goldborg (Rare PlayerIcon)
 		Jack of Clubs (Common Spray)
 		Sentai (Legendary Skin)
+		You need healing (Common VoiceLine)
 
 Unlocks for Soldier: 76
 	Default Unlocks
@@ -1049,6 +1059,8 @@ Unlocks for Soldier: 76
 		Gold Soldier (Rare PlayerIcon)
 		Ace of Spades (Common Spray)
 		Cyborg: 76 (Legendary Skin)
+		Venom (Epic Skin)
+		Want something done right? (Common VoiceLine)
 
 Unlocks for Bastion
 	Default Unlocks
@@ -1199,6 +1211,9 @@ Unlocks for Bastion
 		Goldbot (Rare PlayerIcon)
 		Ten of Clubs (Common Spray)
 		Dune Buggy (Legendary Skin)
+		Stealth (Legendary Skin)
+		Stealth (Rare PlayerIcon)
+		ZUR ZUR EE NUM (Common VoiceLine)
 
 Unlocks for Sombra
 	Default Unlocks
@@ -1349,6 +1364,7 @@ Unlocks for Sombra
 		Were you done talking? (Common VoiceLine)
 		Aniversario (Rare PlayerIcon)
 		Queen of Spades (Common Spray)
+		Let's not do that again (Common VoiceLine)
 
 Unlocks for Mercy
 	Default Unlocks
@@ -1506,6 +1522,8 @@ Unlocks for Mercy
 		You're welcome (Common VoiceLine)
 		Jahrestag (Rare PlayerIcon)
 		Queen of Clubs (Common Spray)
+		I've seen worse (Common VoiceLine)
+		Parasol (Rare Pose)
 
 Unlocks for Ana
 	Default Unlocks
@@ -1655,6 +1673,7 @@ Unlocks for Ana
 		Follow me (Common VoiceLine)
 		Anaversary (Rare PlayerIcon)
 		Ace of Hearts (Common Spray)
+		You need to learn to relax (Common VoiceLine)
 
 Unlocks for Junkrat
 	Default Unlocks
@@ -1807,6 +1826,9 @@ Unlocks for Junkrat
 		Oops... Dropped Something (Common VoiceLine)
 		Goldrat (Rare PlayerIcon)
 		Joker (Common Spray)
+		Buccaneer (Legendary Skin)
+		Buccaneer (Rare PlayerIcon)
+		Inconspicuous! (Common VoiceLine)
 
 Unlocks for McCree
 	Default Unlocks
@@ -1955,6 +1977,10 @@ Unlocks for McCree
 		Next round's on me (Common VoiceLine)
 		GAMF (Rare PlayerIcon)
 		Jack of Spades (Common Spray)
+		Sherlock (Legendary Skin)
+			"My mind," he said, "rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my proper atmosphere."
+		Sherlock (Rare PlayerIcon)
+		How do you like me now? (Common VoiceLine)
 
 Unlocks for Widowmaker
 	Default Unlocks
@@ -2104,6 +2130,282 @@ Unlocks for Widowmaker
 		Sorry (Common VoiceLine)
 		D'or (Rare PlayerIcon)
 		Queen of Hearts (Common Spray)
+		The pleasure is mine (Common VoiceLine)
+
+Unlocks for Doomfist
+	Default Unlocks
+		GOLDEN (Common Weapon)
+		Cute (Common Spray)
+		Pixel (Common Spray)
+	OWL Unlocks
+		Fusion (Epic Skin)
+		Uprising (Epic Skin)
+		Fuel (Epic Skin)
+		Spitfire (Epic Skin)
+		Gladiators (Epic Skin)
+		Valiant (Epic Skin)
+		Mayhem (Epic Skin)
+		Outlaws (Epic Skin)
+		Excelsior (Epic Skin)
+		Shock (Epic Skin)
+		Dynasty (Epic Skin)
+		Dragons (Epic Skin)
+		Overwatch League White (Epic Skin)
+		Overwatch League Gray (Epic Skin)
+		Uprising Away (Epic Skin)
+		Dragons Away (Epic Skin)
+		Dynasty Away (Epic Skin)
+		Shock Away (Epic Skin)
+		Fusion Away (Epic Skin)
+		Excelsior Away (Epic Skin)
+		Valiant Away (Epic Skin)
+		Gladiators Away (Epic Skin)
+		Spitfire Away (Epic Skin)
+		Outlaws Away (Epic Skin)
+		Mayhem Away (Epic Skin)
+		Fuel Away (Epic Skin)
+	Standard Unlocks
+		Heroic (Common Pose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		DEFAULT (Common Weapon)
+		Classic (Common Skin)
+		Try Me (Common VoiceLine)
+		Heroic (Common Emote)
+	Event/Base Unlocks
+		Doomfist (Rare PlayerIcon)
+		Fist (Rare PlayerIcon)
+		Initials (Rare PlayerIcon)
+		Thumbs Down (Epic Emote)
+		Fake Out (Epic Emote)
+		Ready for Battle (Epic Emote)
+		Intimidate (Epic Emote)
+		Take a Knee (Epic Emote)
+		Superior (Rare Pose)
+		Seismic Slam (Rare Pose)
+		Intense (Rare Pose)
+		One Punch (Epic HighlightIntro)
+		Meteor (Epic HighlightIntro)
+		Uppercut (Epic HighlightIntro)
+		Combo Breaker (Common VoiceLine)
+		You're not bad (Common VoiceLine)
+		K.O. (Common VoiceLine)
+		You must be joking (Common VoiceLine)
+		Talk to the fist (Common VoiceLine)
+		One punch is all I need (Common VoiceLine)
+		Don't get back up (Common VoiceLine)
+		Go and sit down (Common VoiceLine)
+		I haven't even started (Common VoiceLine)
+		Spare me the commentary (Common VoiceLine)
+		Sunset (Rare Skin)
+		Lake (Rare Skin)
+		Plains (Rare Skin)
+		Daisy (Rare Skin)
+		Painted (Epic Skin)
+		Leopard (Epic Skin)
+		Spirit (Legendary Skin)
+		Avatar (Legendary Skin)
+		Irin (Legendary Skin)
+			After losing his arm in the aftermath of the Omnic Crisis, Doomfist turned to cybernetics to recover and become even stronger than before.
+		Caution (Legendary Skin)
+			After losing his arm in the aftermath of the Omnic Crisis, Doomfist turned to cybernetics to recover and become even stronger than before.
+		Punching Bag (Common Spray)
+		Wrapped (Common Spray)
+		Stance (Common Spray)
+		Fist (Common Spray)
+		Wrestle (Common Spray)
+		Punchman (Common Spray)
+		Crush (Common Spray)
+		Crater (Common Spray)
+		Thumbs Up (Common Spray)
+		Akande (Common Spray)
+		Paint (Common Spray)
+		Initials (Common Spray)
+		Icon (Common Spray)
+		...Punch? (Common Spray)
+		They Said... (Common Spray)
+		Sonic Boom (Common Spray)
+		Move List (Common Spray)
+		Epicenter (Common Spray)
+		Successor (Common Spray)
+		Smoke (Common Spray)
+		Out of Time (Common Spray)
+		The Greatest (Common Spray)
+		Tuxedo (Common Spray)
+		Blackhand (Legendary Skin)
+		Cute Doomfist (Rare PlayerIcon)
+		Blackhand (Common Spray)
+		You test my patience (Common VoiceLine)
+	Event/Summer Games Unlocks
+		Shotput (Rare PlayerIcon)
+		Shot Put (Common Spray)
+		I make medicine sick (Common VoiceLine)
+		Make you punch drunk (Common VoiceLine)
+	Event/Halloween Unlocks
+		I have something for you (Common VoiceLine)
+		You should be scared (Common VoiceLine)
+		Trick or Treat (Common Spray)
+	Event/Winter Unlocks
+		Snow Punch (Common Spray)
+		Ornament (Common Spray)
+		Did you bring me a present? (Common VoiceLine)
+		They say chivalry is dead (Common VoiceLine)
+	Event/Lunar New Year Unlocks
+		Fortune favors the bold (Common VoiceLine)
+		I'll throw you a bone (Common VoiceLine)
+		Crushing (Epic Emote)
+		Lionfist (Common Spray)
+		Dragon Dance (Common Spray)
+	Event/Archives Unlocks
+		Talon (Legendary Skin)
+			Doomfist rose in power in Talon after killing his mentor, Akinjide Adeyemi, the Scourge of Numbani.
+		Combo (Epic HighlightIntro)
+		Ogundimu (Rare PlayerIcon)
+		Thumbs down (Common Spray)
+		I didn't ask for your opinion (Common VoiceLine)
+		I know you can do better (Common VoiceLine)
+		I am not your savior (Common VoiceLine)
+	Event/Anniversary Unlocks
+		Formal (Legendary Skin)
+		Dance (Epic Emote)
+		Akandeversary (Rare PlayerIcon)
+		Nine of Clubs (Common Spray)
+		Formal (Rare PlayerIcon)
+		Charging (Rare Pose)
+		Your lack of belief (Common VoiceLine)
+		Take it on the chin (Common VoiceLine)
+		You can't win (Common VoiceLine)
+
+Unlocks for Moira
+	Default Unlocks
+		GOLDEN (Common Weapon)
+		Cute (Common Spray)
+		Pixel (Common Spray)
+	OWL Unlocks
+		Fusion (Epic Skin)
+		Uprising (Epic Skin)
+		Fuel (Epic Skin)
+		Spitfire (Epic Skin)
+		Gladiators (Epic Skin)
+		Valiant (Epic Skin)
+		Mayhem (Epic Skin)
+		Outlaws (Epic Skin)
+		Excelsior (Epic Skin)
+		Shock (Epic Skin)
+		Dynasty (Epic Skin)
+		Dragons (Epic Skin)
+		Overwatch League White (Epic Skin)
+		Overwatch League Gray (Epic Skin)
+		Uprising Away (Epic Skin)
+		Dragons Away (Epic Skin)
+		Dynasty Away (Epic Skin)
+		Shock Away (Epic Skin)
+		Fusion Away (Epic Skin)
+		Excelsior Away (Epic Skin)
+		Valiant Away (Epic Skin)
+		Gladiators Away (Epic Skin)
+		Spitfire Away (Epic Skin)
+		Outlaws Away (Epic Skin)
+		Mayhem Away (Epic Skin)
+		Fuel Away (Epic Skin)
+	Standard Unlocks
+		Heroic (Common Pose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		DEFAULT (Common Weapon)
+		Classic (Common Skin)
+		What an interesting hypothesis (Common VoiceLine)
+		Heroic (Common Emote)
+	Event/Base Unlocks
+		Moira (Rare PlayerIcon)
+		Knot (Rare PlayerIcon)
+		Erlenmeyer (Rare PlayerIcon)
+		Give and Take (Epic Emote)
+		Come here (Epic Emote)
+		At your service (Epic Emote)
+		How amusing (Epic Emote)
+		Waiting (Epic Emote)
+		Orbs (Rare Pose)
+		Steepling (Rare Pose)
+		Prim (Rare Pose)
+		Vanishing Act (Epic HighlightIntro)
+		Transformation (Epic HighlightIntro)
+		Coalescence (Epic HighlightIntro)
+		Brilliant (Common VoiceLine)
+		Stupidity is not a right (Common VoiceLine)
+		You're a chancer (Common VoiceLine)
+		I'm working (Common VoiceLine)
+		The state of you (Common VoiceLine)
+		What are you on about? (Common VoiceLine)
+		Grand (Common VoiceLine)
+		One hand gives (Common VoiceLine)
+		Idle hands (Common VoiceLine)
+		Are you finished? (Common VoiceLine)
+		Fiery (Rare Skin)
+		Royal (Rare Skin)
+		Whiskey (Rare Skin)
+		Selkie (Rare Skin)
+		Ornate (Epic Skin)
+		Pale (Epic Skin)
+		Oasis (Legendary Skin)
+			Thanks to her brilliance and their shared desire to achieve scientific advancement at any cost, the founders of Oasis invited her to join them as their Minister of Genetics.
+		Glam (Legendary Skin)
+		Minister (Legendary Skin)
+			Thanks to her brilliance and their shared desire to achieve scientific advancement at any cost, the founders of Oasis invited her to join them as their Minister of Genetics.
+		Moon (Legendary Skin)
+		Icon (Common Spray)
+		Power Level (Common Spray)
+		Fade (Common Spray)
+		Give (Common Spray)
+		Take (Common Spray)
+		Self-Experimentation (Common Spray)
+		Hypothesis (Common Spray)
+		Nails (Common Spray)
+		Orb (Common Spray)
+		Nervous (Common Spray)
+		Biohazard (Common Spray)
+		Sigil (Common Spray)
+		Cell (Common Spray)
+		Burner (Common Spray)
+		Erlenmeyer (Common Spray)
+		Plotting (Common Spray)
+		Test Murloc (Common Spray)
+		Facepalm (Common Spray)
+		Knot (Common Spray)
+		Moira (Common Spray)
+		Syringe (Common Spray)
+		Shadow (Common Spray)
+		Reaction (Common Spray)
+		Cute Moira (Rare PlayerIcon)
+		Glam (Common Spray)
+		Biology's habits (Common VoiceLine)
+		Facepalm (Epic Emote)
+	Event/Winter Unlocks
+		Chimney (Common Spray)
+		Ornament (Common Spray)
+		Happy Christmas (Common VoiceLine)
+		Absolute zero (Common VoiceLine)
+	Event/Lunar New Year Unlocks
+		Sláinte (Common VoiceLine)
+		You've made a dogs breakfast (Common VoiceLine)
+		Dog Person (Common Spray)
+		Dragon Dance (Common Spray)
+	Event/Archives Unlocks
+		Blackwatch (Legendary Skin)
+			In addition to her research as a part of Blackwatch, Moira occasionally participated in clandestine operations, including the Venice Incident.
+		O'Deorain (Rare PlayerIcon)
+		Erlenmeyer (Rare Pose)
+		Foundation (Common Spray)
+		This is to my liking (Common VoiceLine)
+		Get off the stage (Common VoiceLine)
+		You're mistaken (Common VoiceLine)
+	Event/Anniversary Unlocks
+		Dance (Epic Emote)
+		Cothrom an Lae (Rare PlayerIcon)
+		Nine of Hearts (Common Spray)
+		Good news, everyone (Common VoiceLine)
+		This was a triumph (Common VoiceLine)
+		Unbelievable (Common VoiceLine)
 
 Unlocks for Hanzo
 	Default Unlocks
@@ -2251,6 +2553,7 @@ Unlocks for Hanzo
 		Kinenbi (Rare PlayerIcon)
 		King of Diamonds (Common Spray)
 		Cyberninja (Legendary Skin)
+		Do not rouse the dragon (Common VoiceLine)
 
 Unlocks for D.Va
 	Default Unlocks
@@ -2399,6 +2702,123 @@ Unlocks for D.Va
 		Hanaversary (Rare PlayerIcon)
 		Ten of Hearts (Common Spray)
 		Cruiser (Legendary Skin)
+		No problem! (Common VoiceLine)
+
+Unlocks for Brigitte
+	Default Unlocks
+		GOLDEN (Common Weapon)
+		Cute (Common Spray)
+		Pixel (Common Spray)
+	OWL Unlocks
+		Dragons (Epic Skin)
+		Dynasty (Epic Skin)
+		Shock (Epic Skin)
+		Fusion (Epic Skin)
+		Excelsior (Epic Skin)
+		Valiant (Epic Skin)
+		Gladiators (Epic Skin)
+		Spitfire (Epic Skin)
+		Outlaws (Epic Skin)
+		Mayhem (Epic Skin)
+		Fuel (Epic Skin)
+		Uprising (Epic Skin)
+		Overwatch League Gray (Epic Skin)
+		Overwatch League White (Epic Skin)
+		Dragons Away (Epic Skin)
+		Dynasty Away (Epic Skin)
+		Shock Away (Epic Skin)
+		Fusion Away (Epic Skin)
+		Excelsior Away (Epic Skin)
+		Valiant Away (Epic Skin)
+		Gladiators Away (Epic Skin)
+		Spitfire Away (Epic Skin)
+		Outlaws Away (Epic Skin)
+		Mayhem Away (Epic Skin)
+		Fuel Away (Epic Skin)
+		Uprising Away (Epic Skin)
+	Standard Unlocks
+		Heroic (Common Pose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		DEFAULT (Common Weapon)
+		Classic (Common Skin)
+		You won't be disappointed (Common VoiceLine)
+		Heroic (Common Emote)
+	Event/Base Unlocks
+		Katt (Rare PlayerIcon)
+		Rally (Rare PlayerIcon)
+		Brigitte (Rare PlayerIcon)
+		Recalibrate (Epic Emote)
+		Taunt (Epic Emote)
+		Cheer (Epic Emote)
+		Hilarious (Epic Emote)
+		Confident (Rare Pose)
+		Relaxed (Rare Pose)
+		Rally (Rare Pose)
+		Defender (Epic HighlightIntro)
+		Rally (Epic HighlightIntro)
+		Flail (Epic HighlightIntro)
+		Swedish engineering (Common VoiceLine)
+		Trust me (Common VoiceLine)
+		What are you doing? (Common VoiceLine)
+		It's broken (Common VoiceLine)
+		Be reasonable (Common VoiceLine)
+		Working as intended (Common VoiceLine)
+		Leave this to the experts (Common VoiceLine)
+		Mace to the face (Common VoiceLine)
+		No shortcuts (Common VoiceLine)
+		Get lost (Common VoiceLine)
+		Röd (Rare Skin)
+		Grön (Rare Skin)
+		Plommon (Rare Skin)
+		Blå (Rare Skin)
+		Carbon Fiber (Epic Skin)
+		Ironclad (Epic Skin)
+		Sól (Legendary Skin)
+		Máni (Legendary Skin)
+		Engineer (Legendary Skin)
+			Before taking up arms, Brigitte planned to pursue a career as an engineer who specialized  in the creation of armor and other defensive systems.
+		Mechanic (Legendary Skin)
+			Before taking up arms, Brigitte planned to pursue a career as an engineer who specialized  in the creation of armor and other defensive systems.
+		Icon (Common Spray)
+		Skål! (Common Spray)
+		Stories (Common Spray)
+		Mounted Combat (Common Spray)
+		Training (Common Spray)
+		Adjustment (Common Spray)
+		Rally (Common Spray)
+		Challenge (Common Spray)
+		Lindholms (Common Spray)
+		Armored Lion (Common Spray)
+		Wrestle (Common Spray)
+		High Five (Common Spray)
+		Paj (Common Spray)
+		Heraldry (Common Spray)
+		Raketbälte (Common Spray)
+		Apprentice (Common Spray)
+		Dessert (Common Spray)
+		Armor (Common Spray)
+		Flail with Chain (Common Spray)
+		Fuel (Common Spray)
+		Wink (Common Spray)
+		Cat Person (Common Spray)
+		Prints (Common Spray)
+		Kneel (Epic Emote)
+	Event/Archives Unlocks
+		Kneel (Rare Pose)
+		Frustrated (Common Spray)
+		Don't get caught (Common VoiceLine)
+		A chicken out of a feather (Common VoiceLine)
+		Time to roll up my sleeves (Common VoiceLine)
+	Event/Anniversary Unlocks
+		Shieldmaiden (Legendary Skin)
+		Dance (Epic Emote)
+		Eight of Spades (Common Spray)
+		Jubileum (Rare PlayerIcon)
+		Björn (Rare PlayerIcon)
+		Leave this to an expert (Common VoiceLine)
+		No problem (Common VoiceLine)
+		It's just a flesh wound (Common VoiceLine)
 
 Unlocks for Orisa
 	Default Unlocks
@@ -2540,6 +2960,9 @@ Unlocks for Orisa
 		Satisfied with protection (Common VoiceLine)
 		Aurisa (Rare PlayerIcon)
 		Nine of Spades (Common Spray)
+		Forest Spirit (Legendary Skin)
+		Forest Spirit (Rare PlayerIcon)
+		Have a bad feeling about this (Common VoiceLine)
 
 Unlocks for Zarya
 	Default Unlocks
@@ -2690,6 +3113,7 @@ Unlocks for Zarya
 		Zaryanoversary (Rare PlayerIcon)
 		Ten of Spades (Common Spray)
 		Cyberian (Legendary Skin)
+		Let's get physical (Common VoiceLine)
 
 Unlocks for Winston
 	Default Unlocks
@@ -2837,6 +3261,7 @@ Unlocks for Winston
 		Oh yeah! (Common VoiceLine)
 		Goldrilla (Rare PlayerIcon)
 		Jack of Hearts (Common Spray)
+		Can't keep a good ape down (Common VoiceLine)
 
 Unlocks for Zenyatta
 	Default Unlocks
@@ -2982,6 +3407,7 @@ Unlocks for Zenyatta
 		How disappointing (Common VoiceLine)
 		Zeniversary (Rare PlayerIcon)
 		King of Spades (Common Spray)
+		Patience (Common VoiceLine)
 
 Unlocks for Torbjörn
 	Default Unlocks
@@ -3132,6 +3558,9 @@ Unlocks for Torbjörn
 		Trust me (Common VoiceLine)
 		Goldclad (Rare PlayerIcon)
 		King of Clubs (Common Spray)
+		Cybjörn (Legendary Skin)
+		Cybjörn (Rare PlayerIcon)
+		Why didn't I think of that? (Common VoiceLine)
 
 Unlocks for Reaper
 	Default Unlocks
@@ -3284,6 +3713,7 @@ Unlocks for Reaper
 		I'll see you in hell (Common VoiceLine)
 		Reapiversary (Rare PlayerIcon)
 		Ace of Clubs (Common Spray)
+		Pathetic (Common VoiceLine)
 
 Unlocks for Lúcio
 	Default Unlocks
@@ -3433,6 +3863,8 @@ Unlocks for Lúcio
 		Lúciouro (Rare PlayerIcon)
 		Jack of Diamonds (Common Spray)
 		Jazzy (Legendary Skin)
+		Bitrate (Epic Skin)
+		Can you hear me now? (Common VoiceLine)
 
 Unlocks for Mei
 	Default Unlocks
@@ -3586,4 +4018,5 @@ Unlocks for Mei
 		May (Rare PlayerIcon)
 		Ten of Diamonds (Common Spray)
 		Beekeeper (Legendary Skin)
+		Wake up, sleepyhead! (Common VoiceLine)
 
