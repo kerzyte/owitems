@@ -1,12 +1,12 @@
-CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\573\toolchain-release\CascCache
-DataTool v1.24.0.573-git-edf09b7a828dd466f27b77cb03e1c9ebb7d70d9c
+CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\579\toolchain-release\CascCache
+DataTool v1.25.0.579-git-eab683c93492dfad16c2b46f35cb5d48d2382588
 Initializing CASC...
 Set language to enUS
-Using Overwatch Version 1.24.0.1.46836
+Using Overwatch Version 1.25.0.1.47946
 Loading APM TactManifest/Win_SPWin_RDEV_LenUS_EExt.apm
-Using CMF procedure 46836
+Using CMF procedure 47946
 Loading APM TactManifest/Win_SPWin_speech_RDEV_LenUS_EExt.apm
-Using CMF procedure 46836
+Using CMF procedure 47946
 Mapping...
 Adding Encryption Keys...
 Tooling...
@@ -104,6 +104,7 @@ Unlocks for Tracer
 		Bomb's Away! (Common Spray)
 		Ready for Action (Common Spray)
 		Confident (Common Spray)
+		Emily (Common Spray)
 		Kneeling (Common Spray)
 		Whatcha' Lookin' At? (Common Spray)
 		Cavalry's Here (Common Spray)
@@ -2060,7 +2061,7 @@ Unlocks for Widowmaker
 		Odette (Legendary Skin)
 			For much of her life, Amélie Lacroix was better known as an accomplished ballet dancer in Paris.
 		Comtesse (Legendary Skin)
-			The historical motto of the Guillard family motto was, "Chasseurs toujours."
+			The historical motto of the Guillard family was, "Chasseurs toujours."
 		Huntress (Legendary Skin)
 		Icon (Common Spray)
 		Blood (Common Spray)
