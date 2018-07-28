@@ -1,12 +1,12 @@
-CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\579\toolchain-release\CascCache
-DataTool v1.25.0.579-git-eab683c93492dfad16c2b46f35cb5d48d2382588
+CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\k2\toolchain-release\CascCache
+DataTool v1.26.0.2-git-52ea41428dffc608b5d7553c0e2fe9f8c01ab5bb
 Initializing CASC...
 Set language to enUS
-Using Overwatch Version 1.25.0.1.47946
+Using Overwatch Version 1.26.0.3.49154
 Loading APM TactManifest/Win_SPWin_RDEV_LenUS_EExt.apm
-Using CMF procedure 47946
+Using CMF procedure 49154
 Loading APM TactManifest/Win_SPWin_speech_RDEV_LenUS_EExt.apm
-Using CMF procedure 47946
+Using CMF procedure 49154
 Mapping...
 Adding Encryption Keys...
 Tooling...
@@ -165,6 +165,110 @@ Unlocks for Tracer
 		Lightning (Epic Skin)
 		I knew I forgot something (Common VoiceLine)
 		Wink (Rare Pose)
+
+Unlocks for Wrecking Ball
+	Default Unlocks
+		GOLDEN (Common Weapon)
+		Cute (Common Spray)
+		Pixel (Common Spray)
+	OWL Unlocks
+		Uprising Away (Epic Skin)
+		Uprising (Epic Skin)
+		Fuel Away (Epic Skin)
+		Fuel (Epic Skin)
+		Mayhem Away (Epic Skin)
+		Mayhem (Epic Skin)
+		Outlaws Away (Epic Skin)
+		Outlaws (Epic Skin)
+		Spitfire Away (Epic Skin)
+		Spitfire (Epic Skin)
+		Gladiators Away (Epic Skin)
+		Gladiators (Epic Skin)
+		Valiant Away (Epic Skin)
+		Valiant (Epic Skin)
+		Excelsior Away (Epic Skin)
+		Excelsior (Epic Skin)
+		Fusion Away (Epic Skin)
+		Fusion (Epic Skin)
+		Shock Away (Epic Skin)
+		Shock (Epic Skin)
+		Dynasty Away (Epic Skin)
+		Dynasty (Epic Skin)
+		Dragons Away (Epic Skin)
+		Dragons (Epic Skin)
+		Overwatch League White (Epic Skin)
+		Overwatch League Gray (Epic Skin)
+	Standard Unlocks
+		Heroic (Common Pose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		DEFAULT (Common Weapon)
+		Classic (Common Skin)
+		Shut down (Common VoiceLine)
+		Heroic (Common Emote)
+	Event/Base Unlocks
+		Wrecking Ball (Rare PlayerIcon)
+		Rolling (Rare PlayerIcon)
+		Reentry (Rare PlayerIcon)
+		Repairs (Epic Emote)
+		Sumo (Epic Emote)
+		Cheer (Epic Emote)
+		Laugh (Epic Emote)
+		Lounge (Epic Emote)
+		Peace (Rare Pose)
+		Lounging (Rare Pose)
+		On Top (Rare Pose)
+		Swing (Rare Pose)
+		Touchdown (Epic HighlightIntro)
+		Running (Epic HighlightIntro)
+		Pop Up (Epic HighlightIntro)
+		No hard feelings (Common VoiceLine)
+		Frustration detected (Common VoiceLine)
+		Relief detected (Common VoiceLine)
+		Beware of small mammals (Common VoiceLine)
+		This is happening (Common VoiceLine)
+		Odds of success increasing (Common VoiceLine)
+		Vocabulary not found (Common VoiceLine)
+		Profanity filter enabled (Common VoiceLine)
+		Do not disturb (Common VoiceLine)
+		He says he's sorry (Common VoiceLine)
+		Lithium (Rare Skin)
+		Smoke (Rare Skin)
+		Potassium (Rare Skin)
+		Chloride (Rare Skin)
+		Biohazard (Epic Skin)
+		Wooden Ball (Epic Skin)
+		Lunar (Legendary Skin)
+			Hammond fled the Horizon Lunar Colony by constructing a makeshift escape pod and secretly anchoring it to Winston's craft.
+		Horizon (Legendary Skin)
+			Hammond fled the Horizon Lunar Colony by constructing a makeshift escape pod and secretly anchoring it to Winston's craft.
+		Junker (Legendary Skin)
+			Wrecking Ball climbed the ranks to become the champion of the Scrapyard, Junkertown's mech combat arena.
+		Mayham (Legendary Skin)
+			Wrecking Ball climbed the ranks to become the champion of the Scrapyard, Junkertown's mech combat arena.
+		Icon (Common Spray)
+		Crown (Common Spray)
+		Spinning (Common Spray)
+		Hamster Ball (Common Spray)
+		8 (Common Spray)
+		Banana (Common Spray)
+		Moonshot (Common Spray)
+		Smug (Common Spray)
+		Cannon (Common Spray)
+		Destruction (Common Spray)
+		Evolution (Common Spray)
+		Champion (Common Spray)
+		Friends (Common Spray)
+		Hungry (Common Spray)
+		Pilot (Common Spray)
+		Plans (Common Spray)
+		Tool Box (Common Spray)
+		Hoard (Common Spray)
+		Explosions (Common Spray)
+		Moon (Common Spray)
+		Full (Common Spray)
+		Sleepy (Common Spray)
+		What he said (Common VoiceLine)
 
 Unlocks for Symmetra
 	Default Unlocks
@@ -2512,6 +2616,7 @@ Unlocks for Hanzo
 		Cute Hanzo (Rare PlayerIcon)
 		Kabuki (Common Spray)
 		You fought well... (Common VoiceLine)
+		Simple geometry (Common VoiceLine)
 	Event/Summer Games Unlocks
 		Archery (Rare PlayerIcon)
 		Archery (Common Spray)
@@ -3721,6 +3826,7 @@ Unlocks for Lúcio
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common Weapon)
+		Dance Party (Legendary Emote)
 	OWL Unlocks
 		Fusion (Epic Skin)
 		Uprising (Epic Skin)
@@ -4020,4 +4126,5 @@ Unlocks for Mei
 		Ten of Diamonds (Common Spray)
 		Beekeeper (Legendary Skin)
 		Wake up, sleepyhead! (Common VoiceLine)
+
 

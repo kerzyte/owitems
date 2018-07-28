@@ -1,12 +1,12 @@
-CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\579\toolchain-release\CascCache
-DataTool v1.25.0.579-git-eab683c93492dfad16c2b46f35cb5d48d2382588
+CASC CDN Cache path is D:\Downloads\Overwatch\Overtool\k2\toolchain-release\CascCache
+DataTool v1.26.0.2-git-52ea41428dffc608b5d7553c0e2fe9f8c01ab5bb
 Initializing CASC...
 Set language to enUS
-Using Overwatch Version 1.25.0.1.47946
+Using Overwatch Version 1.26.0.3.49154
 Loading APM TactManifest/Win_SPWin_RDEV_LenUS_EExt.apm
-Using CMF procedure 47946
+Using CMF procedure 49154
 Loading APM TactManifest/Win_SPWin_speech_RDEV_LenUS_EExt.apm
-Using CMF procedure 47946
+Using CMF procedure 49154
 Mapping...
 Adding Encryption Keys...
 Tooling...
@@ -152,6 +152,10 @@ Achievement
 	Sylvanas (Common Spray)
 	Inaugural Season (Common Spray)
 	Inaugural Season (Rare PlayerIcon)
+	Match's On! (Common Spray)
+	Watchparty: Gibraltar (Common Spray)
+	#1 Fan (Common Spray)
+	Living Room (Common Spray)
 Standard
 	Logo (Common Spray)
 	Overwatch Dark (Common PlayerIcon)
@@ -627,3 +631,4 @@ Event/Archives
 Event/Anniversary
 	Anniversary (Common Spray)
 	Pachiversary (Rare PlayerIcon)
+
