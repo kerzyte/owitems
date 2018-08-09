@@ -203,6 +203,7 @@ Unlocks for Tracer
 		San Francisco Shock Away (Epic Skin)
 		Seoul Dynasty Away (Epic Skin)
 		Shanghai Dragons Away (Epic Skin)
+		2018 Atlantic All-Stars (Legendary Skin)
 	Base Unlocks
 		Tracer (Rare PlayerIcon)
 		Pulse Bomb (Rare PlayerIcon)
@@ -881,6 +882,8 @@ Unlocks for Reinhardt
 		Wrestling (Common Spray)
 		100%% German power (Common VoiceLine)
 		Glittering prizes! (Common VoiceLine)
+		Gridironhardt (Legendary Skin)
+		Gridironhardt (Rare PlayerIcon)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -1171,6 +1174,8 @@ Unlocks for Winston
 		Playtime's over (Common VoiceLine)
 		Medal (Rare VictoryPose)
 		Oh, it's on! (Common VoiceLine)
+		Catcher (Legendary Skin)
+		Catcher (Rare PlayerIcon)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		Shadow Puppets (Epic Emote)
@@ -1763,6 +1768,9 @@ Unlocks for Zenyatta
 		Medals (Rare VictoryPose)
 		Taekwondo (Common Spray)
 		Form is temporary (Common VoiceLine)
+		Fastball (Legendary Skin)
+		Fastball (Rare PlayerIcon)
+		Iris (Rare PlayerIcon)
 	Halloween Unlocks
 		RIP (Rare VictoryPose)
 		Trick or Treat (Common Spray)
@@ -1949,6 +1957,8 @@ Unlocks for Genji
 		Jack of Clubs (Common Spray)
 		Sentai (Legendary Skin)
 		You need healing (Common VoiceLine)
+	Internal Unlocks
+		2018 Pacific All-Stars (Legendary Skin)
 Unlocks for Roadhog
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2056,6 +2066,8 @@ Unlocks for Roadhog
 		What's mine is mine (Common VoiceLine)
 		Medal (Rare VictoryPose)
 		There's no "I" in team (Common VoiceLine)
+		Lacrosse (Legendary Skin)
+		Lacrosse (Rare PlayerIcon)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -2205,6 +2217,7 @@ Unlocks for McCree
 		American (Epic Skin)
 		Lifeguard (Legendary Skin)
 		Boom goes the dynamite (Common VoiceLine)
+		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -2512,6 +2525,8 @@ Unlocks for Zarya
 		Weightlifter (Legendary Skin)
 			A champion weightlifter in her home country, Zarya retired on the eve of the world championships to enlist in the Russian defense forces.
 		It's only a game (Common VoiceLine)
+		Medals (Rare VictoryPose)
+		Russian judge (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -2661,6 +2676,7 @@ Unlocks for Soldier: 76
 		Golf Swing (Rare VictoryPose)
 		Grillmaster: 76 (Legendary Skin)
 		Bring the noise (Common VoiceLine)
+		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -2810,6 +2826,8 @@ Unlocks for Lúcio
 		Striker (Legendary Skin)
 			When Lúcio was younger, in addition to his first love, hockey, he also found the time to play football with the other kids in Rio de Janeiro.
 		Suboptimal (Common VoiceLine)
+		Medal (Rare VictoryPose)
+		Come on, ref! (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -2958,6 +2976,9 @@ Unlocks for D.Va
 		Taegeukgi (Epic Skin)
 			During her time as a professional gamer, D.Va proudly represented her country in tournaments around the world.
 		Scoreboard (Common VoiceLine)
+		Waveracer (Legendary Skin)
+		Waveracer (Rare PlayerIcon)
+		DVacation (Rare PlayerIcon)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -3102,6 +3123,7 @@ Unlocks for Mei
 		Overcome all obstacles (Common VoiceLine)
 		Medal (Rare VictoryPose)
 		I tried my best (Common VoiceLine)
+		Table Tennis (Epic Emote)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		RIP (Rare VictoryPose)
@@ -3259,6 +3281,7 @@ Unlocks for Sombra
 		What's up? (Common VoiceLine)
 		Tulum (Legendary Skin)
 		Medal (Rare VictoryPose)
+		Mexicana (Epic Skin)
 	Halloween Unlocks
 		Pumpkinette (Rare VictoryPose)
 		You trying to be scary? (Common VoiceLine)
@@ -3401,6 +3424,8 @@ Unlocks for Doomfist
 		Shot Put (Common Spray)
 		I make medicine sick (Common VoiceLine)
 		Make you punch drunk (Common VoiceLine)
+		Medal (Rare VictoryPose)
+		Step into the ring (Common VoiceLine)
 	Halloween Unlocks
 		I have something for you (Common VoiceLine)
 		You should be scared (Common VoiceLine)
@@ -3547,6 +3572,9 @@ Unlocks for Ana
 		Learn from the Pain (Common VoiceLine)
 		Beach Ball (Epic Emote)
 		Better than retirement (Common VoiceLine)
+		Cabana (Legendary Skin)
+		Cabana (Rare PlayerIcon)
+		You seem stressed (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		Candy (Epic Emote)
@@ -3690,6 +3718,7 @@ Unlocks for Orisa
 		Javelin (Common Spray)
 		Golden (Common VoiceLine)
 		Grease to your elbow (Common VoiceLine)
+		Goalkeeper (Epic HighlightIntro)
 	Halloween Unlocks
 		Pumpkin Head (Rare VictoryPose)
 		Your pulse has increased (Common VoiceLine)
@@ -3853,6 +3882,12 @@ Unlocks for Brigitte
 		Cat Person (Common Spray)
 		Prints (Common Spray)
 		Kneel (Epic Emote)
+	Summer Games Unlocks
+		Tre Kronor (Epic Skin)
+		Hammer Throw (Rare PlayerIcon)
+		Hammer Throw (Common Spray)
+		Scandinavian style? (Common VoiceLine)
+		Dare to Lindholm (Common VoiceLine)
 	Archives Unlocks
 		Kneel (Rare VictoryPose)
 		Frustrated (Common Spray)
@@ -3971,6 +4006,14 @@ Unlocks for Moira
 		Glam (Common Spray)
 		Biology's habits (Common VoiceLine)
 		Facepalm (Epic Emote)
+	Summer Games Unlocks
+		Medal (Rare VictoryPose)
+		Serve (Epic HighlightIntro)
+		Handball (Common Spray)
+		Handball (Rare PlayerIcon)
+		Éireannach (Epic Skin)
+		Performance enhanced (Common VoiceLine)
+		Better living through science (Common VoiceLine)
 	Winter Unlocks
 		Chimney (Common Spray)
 		Ornament (Common Spray)
@@ -4128,6 +4171,11 @@ Unlocks for Wrecking Ball
 		Full (Common Spray)
 		Sleepy (Common Spray)
 		What he said (Common VoiceLine)
+	Summer Games Unlocks
+		Bowling (Rare PlayerIcon)
+		Bowling (Common Spray)
+		Keep your eye on the ball (Common VoiceLine)
+		Be the ball (Common VoiceLine)
 Unlocks for Enforcer
 	Other Unlocks
 		00000000171C.0A5 (Common VictoryPose)
@@ -4136,4 +4184,4 @@ Unlocks for Enforcer
 		000000001719.0A5 (Common VictoryPose)
 		00000000171D.0A5 (Common VictoryPose)
 Unlocks for Boat
-[Core] Execution finished in 00:00:00.8184546 seconds
+[Core] Execution finished in 00:00:00.8763169 seconds
