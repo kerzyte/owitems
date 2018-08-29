@@ -1,11 +1,11 @@
-[Core] DataTool v1.27.0.709-git-98657283256a123959433252a5434840e01c4f8b
+[Core] DataTool v1.27.0.729-git-91f5fa10e0718f58a74a8ec2a008aa09764034b8
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] Using Overwatch Version 1.27.0.1.49758
+[Core] Using Overwatch Version 1.27.1.1.50148
 [CASC] Initializing...
 [CASC] Loading APM Win_SPWin_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 49656
+[CASC] Using CMF procedure 50148
 [CASC] Loading APM Win_SPWin_speech_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 49656
+[CASC] Using CMF procedure 50148
 [Core] Mapping storage
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -184,7 +184,7 @@
 		Numbani Statue (Common Spray)
 		Omnic Rights (Common Spray)
 		Pachimari (Common Spray)
-		Punch (Common Spray)
+		...Punch (Common Spray)
 		Rhino (Common Spray)
 		Rikimaru (Common Spray)
 		Sarcophagus (Common Spray)
@@ -293,7 +293,7 @@
 		Tombstone (Rare Icon)
 		Bewitching (Rare Icon)
 		Candle (Rare Icon)
-		Never Die (Rare Icon)
+		...Never Die (Rare Icon)
 		Wolf (Rare Icon)
 		Witch's Brew (Rare Icon)
 		Spider (Rare Icon)
@@ -303,7 +303,7 @@
 		Fangs (Common Spray)
 		Gummy Hog (Common Spray)
 		Candyball (Common Spray)
-		Never Die (Common Spray)
+		...Never Die (Common Spray)
 		Halloween Terror (Common Spray)
 		Boo! (Common Spray)
 		Boop! (Common Spray)
@@ -897,4 +897,4 @@
 		000000000F40.0A5 (Common PortraitFrame)
 	Level 2391 Unlocks
 		000000000F41.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.4414401 seconds
+[Core] Execution finished in 00:00:00.3840341 seconds

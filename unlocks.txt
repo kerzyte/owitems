@@ -1,11 +1,11 @@
-[Core] DataTool v1.27.0.709-git-98657283256a123959433252a5434840e01c4f8b
+[Core] DataTool v1.27.0.729-git-91f5fa10e0718f58a74a8ec2a008aa09764034b8
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] Using Overwatch Version 1.27.0.1.49758
+[Core] Using Overwatch Version 1.27.1.1.50148
 [CASC] Initializing...
 [CASC] Loading APM Win_SPWin_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 49656
+[CASC] Using CMF procedure 50148
 [CASC] Loading APM Win_SPWin_speech_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 49656
+[CASC] Using CMF procedure 50148
 [Core] Mapping storage
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -129,7 +129,7 @@ Unlocks for Reaper
 		Pumpkin (Legendary Skin)
 			In the tale of Dr. Junkenstein, the Reaper was a servant to the Witch of the Wilds, bound to serve her for some unknown reason.
 		Eternal Rest (Epic HighlightIntro)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		The Reaper (Rare Icon)
 		I work the graveyard shift (Common VoiceLine)
 		Dracula (Legendary Skin)
@@ -161,6 +161,7 @@ Unlocks for Reaper
 		Reapiversary (Rare Icon)
 		Ace of Clubs (Common Spray)
 		Pathetic (Common VoiceLine)
+
 Unlocks for Tracer
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -214,7 +215,7 @@ Unlocks for Tracer
 		Cheer (Epic Emote)
 		Having a laugh (Epic Emote)
 		Finger Guns (Epic Emote)
-		Sitting Around (Epic Emote)
+		Sitting Around... (Epic Emote)
 		Salute (Rare VictoryPose)
 		Over the Shoulder (Rare VictoryPose)
 		Sitting (Rare VictoryPose)
@@ -239,7 +240,7 @@ Unlocks for Tracer
 		Sporty (Epic Skin)
 		Punk (Legendary Skin)
 		Ultraviolet (Legendary Skin)
-		T Racer (Legendary Skin)
+		T. Racer (Legendary Skin)
 		Mach T (Legendary Skin)
 		Icon (Common Spray)
 		Wings (Common Spray)
@@ -280,7 +281,7 @@ Unlocks for Tracer
 		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Ooh, Scary! (Common VoiceLine)
 		Pumpkin (Rare VictoryPose)
 		Boo! (Common VoiceLine)
@@ -317,6 +318,7 @@ Unlocks for Tracer
 		Lightning (Epic Skin)
 		I knew I forgot something (Common VoiceLine)
 		Wink (Rare VictoryPose)
+
 Unlocks for Mercy
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -438,7 +440,7 @@ Unlocks for Mercy
 		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Witch (Legendary Skin)
 			The Witch of the Wilds is a mysterious figure who appears in the tale of Dr. Junkenstein and others, offering people the object of their desire, for a price.
 		The Witch (Rare Icon)
@@ -475,6 +477,7 @@ Unlocks for Mercy
 		Queen of Clubs (Common Spray)
 		I've seen worse (Common VoiceLine)
 		Parasol (Rare VictoryPose)
+
 Unlocks for Hanzo
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -532,10 +535,10 @@ Unlocks for Hanzo
 		Backflip (Epic HighlightIntro)
 		Remember this moment (Common VoiceLine)
 		Flow like water (Common VoiceLine)
-		Hm (Common VoiceLine)
+		Hm... (Common VoiceLine)
 		I do what I must (Common VoiceLine)
 		Never second best (Common VoiceLine)
-		From one thing (Common VoiceLine)
+		From one thing... (Common VoiceLine)
 		Sake! (Common VoiceLine)
 		Never in doubt (Common VoiceLine)
 		Spirit dragon (Common VoiceLine)
@@ -578,7 +581,7 @@ Unlocks for Hanzo
 		Kabuki (Legendary Skin)
 		Cute Hanzo (Rare Icon)
 		Kabuki (Common Spray)
-		You fought well (Common VoiceLine)
+		You fought well... (Common VoiceLine)
 		Simple geometry (Common VoiceLine)
 	Summer Games Unlocks
 		Archery (Rare Icon)
@@ -589,7 +592,7 @@ Unlocks for Hanzo
 		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Demon (Epic Skin)
 		You are already dead (Common VoiceLine)
 		Skewered (Rare VictoryPose)
@@ -623,6 +626,7 @@ Unlocks for Hanzo
 		King of Diamonds (Common Spray)
 		Cyberninja (Legendary Skin)
 		Do not rouse the dragon (Common VoiceLine)
+
 Unlocks for Torbjörn
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -736,7 +740,7 @@ Unlocks for Torbjörn
 		There's no prize for second (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		If you build it (Common VoiceLine)
 		Viking (Legendary Skin)
 		I smell trouble brewing (Common VoiceLine)
@@ -775,6 +779,7 @@ Unlocks for Torbjörn
 		Cybjörn (Legendary Skin)
 		Cybjörn (Rare Icon)
 		Why didn't I think of that? (Common VoiceLine)
+
 Unlocks for Reinhardt
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -892,7 +897,7 @@ Unlocks for Reinhardt
 		Gridironhardt (Rare Icon)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Pumpkin Smash (Epic Emote)
 		Coldhardt (Epic Skin)
 		Smashing (Common VoiceLine)
@@ -926,7 +931,8 @@ Unlocks for Reinhardt
 		Beer! (Common VoiceLine)
 		Goldhardt (Rare Icon)
 		King of Hearts (Common Spray)
-		Come here (Common VoiceLine)
+		Come here... (Common VoiceLine)
+
 Unlocks for Pharah
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -1011,7 +1017,7 @@ Unlocks for Pharah
 		Rocket Jump (Common Spray)
 		Icon (Common Spray)
 		Hieroglyph (Common Spray)
-		Justice (Common Spray)
+		Justice... (Common Spray)
 		Guardian (Common Spray)
 		Wings (Common Spray)
 		Stone (Common Spray)
@@ -1041,7 +1047,7 @@ Unlocks for Pharah
 		Clear skies, full hearts (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Possessed (Epic Skin)
 		Dead or alive (Common VoiceLine)
 		I'm so scared (Common VoiceLine)
@@ -1072,6 +1078,7 @@ Unlocks for Pharah
 		Queen of Diamonds (Common Spray)
 		Bedouin (Legendary Skin)
 		Stay on target (Common VoiceLine)
+
 Unlocks for Winston
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -1133,7 +1140,7 @@ Unlocks for Winston
 		Don't get me angry (Common VoiceLine)
 		How embarrassing! (Common VoiceLine)
 		The power of science! (Common VoiceLine)
-		Excuse me (Common VoiceLine)
+		...Excuse me (Common VoiceLine)
 		Peanut butter? (Common VoiceLine)
 		Sorry about that! (Common VoiceLine)
 		We have a problem (Common VoiceLine)
@@ -1156,7 +1163,7 @@ Unlocks for Winston
 		PB (Common Spray)
 		White (Common Spray)
 		Ape Crossing (Common Spray)
-		QED (Common Spray)
+		Q.E.D. (Common Spray)
 		Serious (Common Spray)
 		Mine! (Common Spray)
 		Lightning (Common Spray)
@@ -1187,7 +1194,7 @@ Unlocks for Winston
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		Shadow Puppets (Epic Emote)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		This is not a costume (Common VoiceLine)
 		Ooh, scary (Common VoiceLine)
 	Winter Unlocks
@@ -1195,7 +1202,7 @@ Unlocks for Winston
 		Ornament (Common Spray)
 		Yeti (Legendary Skin)
 		Yeti (Rare Icon)
-		I got you something (Common VoiceLine)
+		I... got you something (Common VoiceLine)
 		Party mode engaged (Common VoiceLine)
 	Lunar New Year Unlocks
 		Kite (Common Spray)
@@ -1221,6 +1228,7 @@ Unlocks for Winston
 		Goldrilla (Rare Icon)
 		Jack of Hearts (Common Spray)
 		Can't keep a good ape down (Common VoiceLine)
+
 Unlocks for Widowmaker
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -1276,7 +1284,7 @@ Unlocks for Widowmaker
 		Activating Visor (Rare VictoryPose)
 		Gaze (Rare VictoryPose)
 		Swinging into Action (Epic HighlightIntro)
-		I see you (Epic HighlightIntro)
+		I see you... (Epic HighlightIntro)
 		Hanging Around (Epic HighlightIntro)
 		Encore? (Common VoiceLine)
 		What's an aimbot? (Common VoiceLine)
@@ -1287,7 +1295,7 @@ Unlocks for Widowmaker
 		Let them eat cake (Common VoiceLine)
 		To life, to death (Common VoiceLine)
 		That's how it is (Common VoiceLine)
-		Step into my parlor (Common VoiceLine)
+		Step into my parlor... (Common VoiceLine)
 		Ciel (Rare Skin)
 		Vert (Rare Skin)
 		Nuit (Rare Skin)
@@ -1338,9 +1346,9 @@ Unlocks for Widowmaker
 		A perfect 10 (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		The party is over (Common VoiceLine)
-		Morning spider (Common VoiceLine)
+		Morning spider... (Common VoiceLine)
 	Winter Unlocks
 		Skiing (Common Spray)
 		Ornament (Common Spray)
@@ -1370,6 +1378,7 @@ Unlocks for Widowmaker
 		D'or (Rare Icon)
 		Queen of Hearts (Common Spray)
 		The pleasure is mine (Common VoiceLine)
+
 Unlocks for Bastion
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -1486,11 +1495,11 @@ Unlocks for Bastion
 		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 			Responsible for so many deaths during the Omnic Crisis, even today Bastion units are a symbol of fear.
 		Tombstone (Epic Skin)
-		W-W-Wooooo? (Common VoiceLine)
-		Oooooooooooo (Common VoiceLine)
+		W-W-Wooooo...? (Common VoiceLine)
+		Oooooooooooo... (Common VoiceLine)
 	Winter Unlocks
 		FESTIVE (Common Spray)
 		ORNAMENT (Common Spray)
@@ -1522,6 +1531,7 @@ Unlocks for Bastion
 		Stealth (Legendary Skin)
 		Stealth (Rare Icon)
 		ZUR ZUR EE NUM (Common VoiceLine)
+
 Unlocks for Symmetra
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -1637,7 +1647,7 @@ Unlocks for Symmetra
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		Vampire (Epic Skin)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		A frightening thought (Common VoiceLine)
 		Dragon (Legendary Skin)
 			As the tales tell, the Witch of the Wilds had many powerful allies, including the draconic summoner.
@@ -1672,6 +1682,7 @@ Unlocks for Symmetra
 		Magician (Legendary Skin)
 		Magician (Rare Icon)
 		Let us discuss your failures (Common VoiceLine)
+
 Unlocks for Zenyatta
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -1784,7 +1795,7 @@ Unlocks for Zenyatta
 		Fastball (Rare Icon)
 		Iris (Rare Icon)
 	Halloween Unlocks
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Trick or Treat (Common Spray)
 		Skullyatta (Epic Skin)
 		Trick or treat? (Common VoiceLine)
@@ -1820,6 +1831,7 @@ Unlocks for Zenyatta
 		Zeniversary (Rare Icon)
 		King of Spades (Common Spray)
 		Patience (Common VoiceLine)
+
 Unlocks for Genji
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -1938,7 +1950,7 @@ Unlocks for Genji
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		Pumpkin Carving (Epic HighlightIntro)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		My Halloween costume? (Common VoiceLine)
 		Happy Halloween (Common VoiceLine)
 	Winter Unlocks
@@ -1972,6 +1984,7 @@ Unlocks for Genji
 		You need healing (Common VoiceLine)
 	Internal Unlocks
 		2018 Pacific All-Stars (Legendary Skin)
+
 Unlocks for Roadhog
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2034,7 +2047,7 @@ Unlocks for Roadhog
 		Push off (Common VoiceLine)
 		We're all animals (Common VoiceLine)
 		Violence is the answer (Common VoiceLine)
-		Say "bacon" (Common VoiceLine)
+		Say "bacon..." (Common VoiceLine)
 		Got something to say? (Common VoiceLine)
 		HAHAHA! (Common VoiceLine)
 		Kiwi (Rare Skin)
@@ -2084,12 +2097,12 @@ Unlocks for Roadhog
 		Lacrosse (Rare Icon)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Junkenstein's Monster (Legendary Skin)
 			Armed with the secret of creating artificial life, Dr. Jamison Junkenstein birthed a monster.
 		The Monster (Rare Icon)
 		Want some candy? (Common VoiceLine)
-		Footsteps (Epic HighlightIntro)
+		Footsteps... (Epic HighlightIntro)
 		Boo! (Common VoiceLine)
 	Winter Unlocks
 		"Winter" (Common Spray)
@@ -2123,6 +2136,7 @@ Unlocks for Roadhog
 		Goldhog (Rare Icon)
 		Joker (Common Spray)
 		That's my business (Common VoiceLine)
+
 Unlocks for McCree
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2181,11 +2195,11 @@ Unlocks for McCree
 		Ain't I killed you before (Common VoiceLine)
 		You done? (Common VoiceLine)
 		Sure as hell ain't ugly (Common VoiceLine)
-		I'm the quick (Common VoiceLine)
+		I'm the quick... (Common VoiceLine)
 		Happens to the best of us (Common VoiceLine)
 		Reach for the sky (Common VoiceLine)
 		I tried being reasonable (Common VoiceLine)
-		I've got a bullet (Common VoiceLine)
+		I've got a bullet... (Common VoiceLine)
 		I'm your huckleberry (Common VoiceLine)
 		Wanted: dead or alive (Common VoiceLine)
 		Lake (Rare Skin)
@@ -2235,7 +2249,7 @@ Unlocks for McCree
 		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		It's your funeral (Common VoiceLine)
 		Van Helsing (Legendary Skin)
 		I hear you, pumpkin (Common VoiceLine)
@@ -2275,6 +2289,7 @@ Unlocks for McCree
 			"My mind," he said, "rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my proper atmosphere."
 		Sherlock (Rare Icon)
 		How do you like me now? (Common VoiceLine)
+
 Unlocks for Junkrat
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2338,7 +2353,7 @@ Unlocks for Junkrat
 		Smile! (Common VoiceLine)
 		Have a nice day! (Common VoiceLine)
 		It's the little things (Common VoiceLine)
-		blow it up again (Common VoiceLine)
+		...blow it up again (Common VoiceLine)
 		Ooh, shiny (Common VoiceLine)
 		Bleached (Rare Skin)
 			The destruction of the omnium in Australia and the formation of Junkertown made the Outback an even more dangerous place to live.
@@ -2392,8 +2407,8 @@ Unlocks for Junkrat
 		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
-		Dr Junkenstein (Legendary Skin)
+		R.I.P. (Rare VictoryPose)
+		Dr. Junkenstein (Legendary Skin)
 			As the tale goes, Dr. Junkenstein made a deal with the Witch of the Wilds in exchange for the secret to creating life. But his triumph was short lived as he was slain by four wanderers in Adlersbrunn.
 		The Doctor (Rare Icon)
 		Happy Halloween (Common VoiceLine)
@@ -2404,7 +2419,7 @@ Unlocks for Junkrat
 		Ornament (Common Spray)
 		Merry Christmas (Common VoiceLine)
 		Beachrat (Legendary Skin)
-		Go on give it a shake! (Common VoiceLine)
+		Go on... give it a shake! (Common VoiceLine)
 		Beachrat (Rare Icon)
 	Lunar New Year Unlocks
 		I'm flying! (Common Spray)
@@ -2423,12 +2438,13 @@ Unlocks for Junkrat
 	Anniversary Unlocks
 		Running Rat (Epic Emote)
 		Dipstick (Common VoiceLine)
-		Oops Dropped Something (Common VoiceLine)
+		Oops... Dropped Something (Common VoiceLine)
 		Goldrat (Rare Icon)
 		Joker (Common Spray)
 		Bilgerat (Legendary Skin)
 		Buccaneer (Rare Icon)
 		Inconspicuous! (Common VoiceLine)
+
 Unlocks for Zarya
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2546,7 +2562,7 @@ Unlocks for Zarya
 		Russian judge (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Never forget the fallen (Common VoiceLine)
 		Totally 80's (Legendary Skin)
 		Don't be scared (Common VoiceLine)
@@ -2581,6 +2597,7 @@ Unlocks for Zarya
 		Ten of Spades (Common Spray)
 		Cyberian (Legendary Skin)
 		Let's get physical (Common VoiceLine)
+
 Unlocks for Soldier: 76
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2641,7 +2658,7 @@ Unlocks for Soldier: 76
 		You didn't make the cut (Common VoiceLine)
 		Not on my watch (Common VoiceLine)
 		That's "sir" to you (Common VoiceLine)
-		I didn't start this war (Common VoiceLine)
+		I didn't start this war... (Common VoiceLine)
 		Old soldiers (Common VoiceLine)
 		What are you lookin' at? (Common VoiceLine)
 		I'm an army of one (Common VoiceLine)
@@ -2697,7 +2714,7 @@ Unlocks for Soldier: 76
 		Medal (Rare VictoryPose)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Immortal (Epic Skin)
 		Knock knock (Common VoiceLine)
 		Trick or treat (Common VoiceLine)
@@ -2729,6 +2746,7 @@ Unlocks for Soldier: 76
 		Cyborg: 76 (Legendary Skin)
 		Venom (Epic Skin)
 		Want something done right? (Common VoiceLine)
+
 Unlocks for Lúcio
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2849,7 +2867,7 @@ Unlocks for Lúcio
 		Come on, ref! (Common VoiceLine)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Killed it! (Common VoiceLine)
 		Pumpkin Control (Rare VictoryPose)
 		So good it's scary! (Common VoiceLine)
@@ -2863,7 +2881,7 @@ Unlocks for Lúcio
 	Lunar New Year Unlocks
 		Keep Ups (Common Spray)
 		Dragon Dance (Common Spray)
-		I make this look good (Common VoiceLine)
+		I make this look good... (Common VoiceLine)
 		Just how I like it (Common VoiceLine)
 	Archives Unlocks
 		Skates (Common Spray)
@@ -2882,6 +2900,7 @@ Unlocks for Lúcio
 		Jazzy (Legendary Skin)
 		Bitrate (Epic Skin)
 		Can you hear me now? (Common VoiceLine)
+
 Unlocks for D.Va
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -2889,12 +2908,24 @@ Unlocks for D.Va
 		RANDOM (Common HighlightIntro)
 		DEFAULT (Common WeaponSkin)
 		Classic (Common Skin)
-		Love, DVa (Common VoiceLine)
+		Love, D.Va (Common VoiceLine)
 		Heroic (Common Emote)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Nano (Epic Skin)
+		Nano Cola (Rare Icon)
+		Enjoy! (Common Spray)
+		Refreshment (Common Spray)
+		Hi (Common Spray)
+		Twinkle (Common Spray)
+		Pat Pat (Common Spray)
+		Victory (Common Spray)
+		Angry (Common Spray)
+		Sleepy (Common Spray)
+		Grabs a Popcorn (Common Spray)
+		Astonished (Common Spray)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -2923,7 +2954,7 @@ Unlocks for D.Va
 		Dallas Fuel Away (Epic Skin)
 		Boston Uprising Away (Epic Skin)
 	Base Unlocks
-		DVa (Rare Icon)
+		D.Va (Rare Icon)
 		Bunny (Rare Icon)
 		Charm (Rare Icon)
 		heartbreaker (Epic Emote)
@@ -2942,7 +2973,7 @@ Unlocks for D.Va
 		I play to win (Common VoiceLine)
 		Aw, yeah! (Common VoiceLine)
 		AFK (Common VoiceLine)
-		DVa: 1, bad guys: 0 (Common VoiceLine)
+		D.Va: 1, bad guys: 0 (Common VoiceLine)
 		;) (Common VoiceLine)
 		gg! (Common VoiceLine)
 		Is this easy mode? (Common VoiceLine)
@@ -2953,20 +2984,20 @@ Unlocks for D.Va
 		Watermelon (Rare Skin)
 		Carbon Fiber (Epic Skin)
 		White Rabbit (Epic Skin)
-		BVa (Legendary Skin)
+		B.Va (Legendary Skin)
 		Junebug (Legendary Skin)
 		Junker (Legendary Skin)
 			Mech battles are one of the most popular forms of entertainment in Junkertown.
 		Scavenger (Legendary Skin)
 			Mech battles are one of the most popular forms of entertainment in Junkertown.
 		Icon (Common Spray)
-		BNy (Common Spray)
+		B.Ny (Common Spray)
 		Diva (Common Spray)
 		Light Gun (Common Spray)
 		Hana (Common Spray)
 		Unload (Common Spray)
 		Bunny Hop (Common Spray)
-		Love DVa (Common Spray)
+		Love D.Va (Common Spray)
 		Salt (Common Spray)
 		Walk of Fame (Common Spray)
 		Star (Common Spray)
@@ -2986,7 +3017,7 @@ Unlocks for D.Va
 		Law (Rare Icon)
 		Badge (Common Spray)
 		Black Cat (Legendary Skin)
-		Cute DVa (Rare Icon)
+		Cute D.Va (Rare Icon)
 		Black Cat (Common Spray)
 		Nice try (Common VoiceLine)
 	Summer Games Unlocks
@@ -2998,10 +3029,10 @@ Unlocks for D.Va
 		Scoreboard (Common VoiceLine)
 		Waveracer (Legendary Skin)
 		Waveracer (Rare Icon)
-		DVacation (Rare Icon)
+		D.Vacation (Rare Icon)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Happy Halloween! (Common VoiceLine)
 		I'm not scared (Common VoiceLine)
 	Winter Unlocks
@@ -3033,6 +3064,7 @@ Unlocks for D.Va
 		Ten of Hearts (Common Spray)
 		Cruiser (Legendary Skin)
 		No problem! (Common VoiceLine)
+
 Unlocks for Mei
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -3147,7 +3179,7 @@ Unlocks for Mei
 		Table Tennis (Epic Emote)
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Ice Scream (Epic HighlightIntro)
 		Scary! (Common VoiceLine)
 		Jiangshi (Legendary Skin)
@@ -3181,12 +3213,13 @@ Unlocks for Mei
 		I'm just a scientist (Common VoiceLine)
 	Anniversary Unlocks
 		Sunny Dance (Epic Emote)
-		So mean! Honestly (Common VoiceLine)
+		So mean! Honestly... (Common VoiceLine)
 		I was only trying to help (Common VoiceLine)
 		May (Rare Icon)
 		Ten of Diamonds (Common Spray)
 		Beekeeper (Legendary Skin)
 		Wake up, sleepyhead! (Common VoiceLine)
+
 Unlocks for Sombra
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -3244,7 +3277,7 @@ Unlocks for Sombra
 		Hacking (Epic HighlightIntro)
 		Pulse (Epic HighlightIntro)
 		Hack the Planet (Common VoiceLine)
-		Mess with the best (Common VoiceLine)
+		Mess with the best... (Common VoiceLine)
 		Glitch in the system (Common VoiceLine)
 		In over your head (Common VoiceLine)
 		Did you mean to do that? (Common VoiceLine)
@@ -3338,6 +3371,7 @@ Unlocks for Sombra
 		Aniversario (Rare Icon)
 		Queen of Spades (Common Spray)
 		Let's not do that again (Common VoiceLine)
+
 Unlocks for Doomfist
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -3395,7 +3429,7 @@ Unlocks for Doomfist
 		Uppercut (Epic HighlightIntro)
 		Combo Breaker (Common VoiceLine)
 		You're not bad (Common VoiceLine)
-		KO (Common VoiceLine)
+		K.O. (Common VoiceLine)
 		You must be joking (Common VoiceLine)
 		Talk to the fist (Common VoiceLine)
 		One punch is all I need (Common VoiceLine)
@@ -3428,8 +3462,8 @@ Unlocks for Doomfist
 		Paint (Common Spray)
 		Initials (Common Spray)
 		Icon (Common Spray)
-		Punch? (Common Spray)
-		They Said (Common Spray)
+		...Punch? (Common Spray)
+		They Said... (Common Spray)
 		Sonic Boom (Common Spray)
 		Move List (Common Spray)
 		Epicenter (Common Spray)
@@ -3483,6 +3517,7 @@ Unlocks for Doomfist
 		Your lack of belief (Common VoiceLine)
 		Take it on the chin (Common VoiceLine)
 		You can't win (Common VoiceLine)
+
 Unlocks for Ana
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -3535,7 +3570,7 @@ Unlocks for Ana
 		Protector (Rare VictoryPose)
 		Seated (Rare VictoryPose)
 		Mission Complete (Rare VictoryPose)
-		Shh (Epic HighlightIntro)
+		Shh... (Epic HighlightIntro)
 		Locked On (Epic HighlightIntro)
 		Guardian (Epic HighlightIntro)
 		Children, behave (Common VoiceLine)
@@ -3589,7 +3624,7 @@ Unlocks for Ana
 		Under Fire (Epic HighlightIntro)
 		Cute Ana (Rare Icon)
 		Wasteland (Common Spray)
-		Go on I can wait (Common VoiceLine)
+		Go on... I can wait (Common VoiceLine)
 	Summer Games Unlocks
 		Shooting (Rare Icon)
 		Shooting (Common Spray)
@@ -3602,7 +3637,7 @@ Unlocks for Ana
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 		Candy (Epic Emote)
-		RIP (Rare VictoryPose)
+		R.I.P. (Rare VictoryPose)
 		Ghoul (Epic Skin)
 		Are you scared? (Common VoiceLine)
 		Corsair (Legendary Skin)
@@ -3635,6 +3670,7 @@ Unlocks for Ana
 		Anaversary (Rare Icon)
 		Ace of Hearts (Common Spray)
 		You need to learn to relax (Common VoiceLine)
+
 Unlocks for Orisa
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -3779,35 +3815,45 @@ Unlocks for Orisa
 		Forest Spirit (Legendary Skin)
 		Forest Spirit (Rare Icon)
 		Have a bad feeling about this (Common VoiceLine)
+
 Unlocks for Training Bot
+
 Unlocks for Friendly Bot
+
 Unlocks for Eradicator
 	Other Unlocks
 		000000001088.0A5 (Common VictoryPose)
 		000000001087.0A5 (Common VictoryPose)
 		000000001089.0A5 (Common VictoryPose)
 		000000001070.0A5 (Common VictoryPose)
+
 Unlocks for Zomnic
+
 Unlocks for Shock-Tire
+
 Unlocks for Zombardier
+
 Unlocks for Slicer
 	Other Unlocks
 		000000001088.0A5 (Common VictoryPose)
 		000000001087.0A5 (Common VictoryPose)
 		000000001089.0A5 (Common VictoryPose)
 		000000001070.0A5 (Common VictoryPose)
+
 Unlocks for Nulltrooper
 	Other Unlocks
 		000000001088.0A5 (Common VictoryPose)
 		000000001087.0A5 (Common VictoryPose)
 		000000001089.0A5 (Common VictoryPose)
 		000000001070.0A5 (Common VictoryPose)
+
 Unlocks for Detonator
 	Other Unlocks
 		000000001088.0A5 (Common VictoryPose)
 		000000001087.0A5 (Common VictoryPose)
 		000000001089.0A5 (Common VictoryPose)
 		000000001070.0A5 (Common VictoryPose)
+
 Unlocks for Brigitte
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -3929,6 +3975,7 @@ Unlocks for Brigitte
 		Leave this to an expert (Common VoiceLine)
 		No problem (Common VoiceLine)
 		It's just a flesh wound (Common VoiceLine)
+
 Unlocks for Moira
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -4067,6 +4114,7 @@ Unlocks for Moira
 		Good news, everyone (Common VoiceLine)
 		This was a triumph (Common VoiceLine)
 		Unbelievable (Common VoiceLine)
+
 Unlocks for Trooper
 	Other Unlocks
 		00000000171C.0A5 (Common VictoryPose)
@@ -4074,6 +4122,7 @@ Unlocks for Trooper
 		00000000171A.0A5 (Common VictoryPose)
 		000000001719.0A5 (Common VictoryPose)
 		00000000171D.0A5 (Common VictoryPose)
+
 Unlocks for Sniper
 	Other Unlocks
 		00000000171C.0A5 (Common VictoryPose)
@@ -4081,6 +4130,7 @@ Unlocks for Sniper
 		00000000171A.0A5 (Common VictoryPose)
 		000000001719.0A5 (Common VictoryPose)
 		00000000171D.0A5 (Common VictoryPose)
+
 Unlocks for Heavy Assault
 	Other Unlocks
 		00000000171C.0A5 (Common VictoryPose)
@@ -4088,6 +4138,7 @@ Unlocks for Heavy Assault
 		00000000171A.0A5 (Common VictoryPose)
 		000000001719.0A5 (Common VictoryPose)
 		00000000171D.0A5 (Common VictoryPose)
+
 Unlocks for Assassin
 	Other Unlocks
 		00000000171C.0A5 (Common VictoryPose)
@@ -4095,7 +4146,9 @@ Unlocks for Assassin
 		00000000171A.0A5 (Common VictoryPose)
 		000000001719.0A5 (Common VictoryPose)
 		00000000171D.0A5 (Common VictoryPose)
+
 Unlocks for Gunship
+
 Unlocks for Wrecking Ball
 	Default Unlocks
 		Heroic (Common VictoryPose)
@@ -4204,6 +4257,7 @@ Unlocks for Wrecking Ball
 		Bowling (Common Spray)
 		Keep your eye on the ball (Common VoiceLine)
 		Be the ball (Common VoiceLine)
+
 Unlocks for Enforcer
 	Other Unlocks
 		00000000171C.0A5 (Common VictoryPose)
@@ -4211,5 +4265,7 @@ Unlocks for Enforcer
 		00000000171A.0A5 (Common VictoryPose)
 		000000001719.0A5 (Common VictoryPose)
 		00000000171D.0A5 (Common VictoryPose)
+
 Unlocks for Boat
-[Core] Execution finished in 00:00:00.9978660 seconds
+
+[Core] Execution finished in 00:00:01.0749246 seconds
