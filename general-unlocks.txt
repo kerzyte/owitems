@@ -1,12 +1,12 @@
-[Core] DataTool v1.27.0.729-git-91f5fa10e0718f58a74a8ec2a008aa09764034b8
+[Core] DataTool v1.28.0.781-git-8137fdaff2056a1c4653c7177a73806d9cc503d9
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] Using Overwatch Version 1.27.1.1.50148
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\781\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.28.0.1.50951
 [CASC] Initializing...
-[CASC] Loading APM Win_SPWin_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 50148
-[CASC] Loading APM Win_SPWin_speech_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 50148
-[Core] Mapping storage
+[CMF] Using CMF procedure 50483
+[CMF] Using CMF procedure 50483
+[CASC] Mapping assets...
+[CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
 	Other Unlocks
@@ -41,11 +41,17 @@
 		Season 11 Competitor (Rare Icon)
 		Season 12 Competitor (Rare Icon)
 		Copa Lúcioball Competitor (Rare Icon)
+			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
+			Unlocked by completing Copa Lúcioball 2018 placement matches
 		Competitive CTF Competitor (Rare Icon)
+			Unlocked by completing Competitive Capture the Flag placement matches
 		Competitive 6v6 Elimination Competitor (Rare Icon)
+			Unlocked by completing Competitive 6v6 Elimination placement matches
 		Competitive Deathmatch Competitor (Rare Icon)
+			Unlocked by completing Competitive Deathmatch placement matches
 		Competitive 3v3 Group Elimination Competitor (Rare Icon)
+			Unlocked by completing Competitive 3v3 Group Elimination placement matches
 		Season 1 Hero (Rare Icon)
 		Season 2 Hero (Rare Icon)
 		Season 3 Hero (Rare Icon)
@@ -59,111 +65,215 @@
 		Season 11 Hero (Rare Icon)
 		Season 12 Hero (Rare Icon)
 		Copa Lúcioball Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
 		Competitive CTF Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag
 		Competitive 6v6 Elimination Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination
 		Competitive Deathmatch Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch
 		Competitive 3v3 Group Elimination Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
 		Season 1 Competitor (Common Spray)
+			Unlocked by completing Season 1 placement matches
 		Season 2 Competitor (Common Spray)
+			Unlocked by completing Season 2 placement matches
 		Season 3 Competitor (Common Spray)
+			Unlocked by completing Season 3 placement matches
 		Season 4 Competitor (Common Spray)
+			Unlocked by completing Season 4 placement matches
 		Season 5 Competitor (Common Spray)
+			Unlocked by completing Season 5 placement matches
 		Season 6 Competitor (Common Spray)
+			Unlocked by completing Season 6 placement matches
 		Season 7 Competitor (Common Spray)
+			Unlocked by completing Season 7 placement matches
 		Season 8 Competitor (Common Spray)
+			Unlocked by completing Season 8 placement matches
 		Season 9 Competitor (Common Spray)
+			Unlocked by completing Season 9 placement matches
 		Season 10 Competitor (Common Spray)
+			Unlocked by completing Season 10 placement matches
 		Season 11 Competitor (Common Spray)
+			Unlocked by completing Season 11 placement matches
 		Season 12 Competitor (Common Spray)
+			Unlocked by completing Season 12 placement matches
 		Copa Lúcioball Competitor (Common Spray)
+			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
+			Unlocked by completing Copa Lúcioball 2018 placement matches
 		Competitive CTF Competitor (Common Spray)
+			Unlocked by completing Competitive Capture the Flag placement matches
 		Competitive 6v6 Elimination Competitor (Common Spray)
+			Unlocked by completing Competitive 6v6 Elimination placement matches
 		Competitive Deathmatch Competitor (Common Spray)
+			Unlocked by completing Competitive Deathmatch placement matches
 		Competitive 3v3 Group Elimination Competitor (Common Spray)
+			Unlocked by completing Competitive 3v3 Group Elimination placement matches
 		Season 1 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking during Season 1
 		Season 2 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking during Season 2
 		Season 3 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking during Season 3
 		Season 4 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking during Season 4
 		Season 5 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 5
 		Season 6 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 6
 		Season 7 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 7
 		Season 8 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 8
 		Season 9 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 9
 		Season 10 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 10
 		Season 11 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 11
 		Season 12 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 12
 		Copa Lúcioball Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
 		Competitive CTF Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag
 		Competitive 6v6 Elimination Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination
 		Competitive Deathmatch Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch
 		Competitive 3v3 Group Elimination Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
 		Dark Wanderer (Rare Icon)
+			Unlocked as part of the Diablo 20th Anniversary celebration
 		Wizard (Common Spray)
+			Unlocked as part of the Diablo 20th Anniversary celebration
 		Witch Doctor (Common Spray)
+			Unlocked as part of the Diablo 20th Anniversary celebration
 		Monk (Common Spray)
+			Unlocked as part of the Diablo 20th Anniversary celebration
 		Demon Hunter (Common Spray)
+			Unlocked as part of the Diablo 20th Anniversary celebration
 		Crusader (Common Spray)
+			Unlocked as part of the Diablo 20th Anniversary celebration
 		Barbarian (Common Spray)
+			Unlocked as part of the Diablo 20th Anniversary celebration
 		Summer Games 2016 (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Summer Games 2016 (Common Spray)
+			Unlocked with Summer Games 2016
 		Goal Blossom (Common Spray)
+			
 		Safe Hands (Common Spray)
+			
 		Bicycle Kick (Common Spray)
+			
 		Summer Games 2017 (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Halloween Terror 2016 (Rare Icon)
+			Available in Halloween Loot Boxes
 		Junkenstein's Revenge (Common Spray)
+			
 		Rise of the Zomnics (Common Spray)
+			
 		The Reapening (Common Spray)
+			
 		Halloween Special (Common Spray)
+			
 		Halloween Terror 2017 (Rare Icon)
+			Available in Halloween Loot Boxes
 		My Creations (Common Spray)
+			
 		The Monster (Common Spray)
+			
 		The Reaper (Common Spray)
+			
 		The Witch (Common Spray)
+			
 		Winter Wonderland 2016 (Rare Icon)
+			Available in Winter Loot Boxes
 		Snowcree (Common Spray)
+			
 		Snowmei (Common Spray)
+			
 		Snowreaper (Common Spray)
+			
 		Snowhog (Common Spray)
+			
 		Yeti Hunter (Common Spray)
+			
 		Yeti (Common Spray)
+			
 		Winter Wonderland 2017 (Rare Icon)
+			Available in Winter Loot Boxes
 		Year of the Rooster 2017 (Rare Icon)
+			Available in Lunar Loot Boxes
 		Awakened Lion (Common Spray)
+			
 		Auspicious Lion (Common Spray)
+			
 		Year of the Dog 2018 (Rare Icon)
+			Available in Lunar Loot Boxes
 		Eradicator (Common Spray)
+			
 		Nulltrooper (Common Spray)
+			
 		B73-NS (Common Spray)
+			
 		Slicer (Common Spray)
+			
 		Nullmari (Common Spray)
+			
 		OR14-NS (Common Spray)
+			
 		Uprising 2017 (Rare Icon)
+			Available in Archives Loot Boxes
 		Archives 2018 (Rare Icon)
+			Available in Archives Loot Boxes
 		Talon Trooper (Common Spray)
+			
 		Talon Enforcer (Common Spray)
+			
 		Talon Sniper (Common Spray)
+			
 		Talon Assassin (Common Spray)
+			
 		Talon Heavy Assault (Common Spray)
+			
 		Droppachi (Common Spray)
+			
 		Anniversary 2017 (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Anniversary 2018 (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Kul Tiras (Rare Icon)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Zandalar (Rare Icon)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Anduin (Common Spray)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Jaina (Common Spray)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Saurfang (Common Spray)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Sylvanas (Common Spray)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Inaugural Season (Rare Icon)
 		Inaugural Season (Common Spray)
 		#1 Fan (Common Spray)
+			Unlocked by participating in the 2018 OWL Grand Finals event
 		Match's On! (Common Spray)
+			Unlocked by participating in the 2018 OWL Grand Finals event
 		Watchparty: Gibraltar (Common Spray)
+			Unlocked by participating in the 2018 OWL Grand Finals event
 		Living Room (Common Spray)
+			Unlocked by participating in the 2018 OWL Grand Finals event
 		Summer Games 2018 (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -249,139 +359,268 @@
 		Na Zdorovie (Rare Icon)
 	Summer Games Unlocks
 		Australia (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Brazil (Rare Icon)
+			Available in Summer Games Loot Boxes
 		China (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Egypt (Rare Icon)
+			Available in Summer Games Loot Boxes
 		France (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Germany (Rare Icon)
+			Available in Summer Games Loot Boxes
 		United Kingdom (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Greece (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Japan (Rare Icon)
+			Available in Summer Games Loot Boxes
 		South Korea (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Mexico (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Nepal (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Numbani (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Russia (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Sweden (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Switzerland (Rare Icon)
+			Available in Summer Games Loot Boxes
 		United States of America (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Summer Games (Common Spray)
+			Available in Summer Games Loot Boxes
 		Snorkelmari (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Argentina (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Austria (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Belgium (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Canada (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Denmark (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Finland (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Ireland (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Israel (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Jordan (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Netherlands (Rare Icon)
+			Available in Summer Games Loot Boxes
 		New Zealand (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Portugal (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Romania (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Spain (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Italy (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Meteor (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Calavera (Rare Icon)
+			Available in Halloween Loot Boxes
 		Vampachimari (Rare Icon)
+			Available in Halloween Loot Boxes
 		Eyeball (Rare Icon)
+			Available in Halloween Loot Boxes
 		Superstition (Rare Icon)
+			Available in Halloween Loot Boxes
 		Witch's Hat (Rare Icon)
+			Available in Halloween Loot Boxes
 		Ghostymari (Rare Icon)
+			Available in Halloween Loot Boxes
 		Tombstone (Rare Icon)
+			Available in Halloween Loot Boxes
 		Bewitching (Rare Icon)
+			Available in Halloween Loot Boxes
 		Candle (Rare Icon)
+			Available in Halloween Loot Boxes
 		...Never Die (Rare Icon)
+			Available in Halloween Loot Boxes
 		Wolf (Rare Icon)
+			Available in Halloween Loot Boxes
 		Witch's Brew (Rare Icon)
+			Available in Halloween Loot Boxes
 		Spider (Rare Icon)
+			Available in Halloween Loot Boxes
 		Bats (Common Spray)
+			Available in Halloween Loot Boxes
 		Witch's Brew (Common Spray)
+			Available in Halloween Loot Boxes
 		Pumpkins (Common Spray)
+			Available in Halloween Loot Boxes
 		Fangs (Common Spray)
+			Available in Halloween Loot Boxes
 		Gummy Hog (Common Spray)
+			Available in Halloween Loot Boxes
 		Candyball (Common Spray)
+			Available in Halloween Loot Boxes
 		...Never Die (Common Spray)
+			Available in Halloween Loot Boxes
 		Halloween Terror (Common Spray)
+			Available in Halloween Loot Boxes
 		Boo! (Common Spray)
+			Available in Halloween Loot Boxes
 		Boop! (Common Spray)
+			Available in Halloween Loot Boxes
 		Junkenstein's Pachimonster (Rare Icon)
+			Available in Halloween Loot Boxes
 		Pachimummy (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Globe (Rare Icon)
+			Available in Winter Loot Boxes
 		Peppermint (Rare Icon)
+			Available in Winter Loot Boxes
 		Bells (Rare Icon)
+			Available in Winter Loot Boxes
 		Dreidel (Rare Icon)
+			Available in Winter Loot Boxes
 		Mochi (Rare Icon)
+			Available in Winter Loot Boxes
 		Wreath (Rare Icon)
+			Available in Winter Loot Boxes
 		Cheers! (Rare Icon)
+			Available in Winter Loot Boxes
 		Hot Cocoa (Rare Icon)
+			Available in Winter Loot Boxes
 		Snowman (Rare Icon)
+			Available in Winter Loot Boxes
 		Ornament (Rare Icon)
+			Available in Winter Loot Boxes
 		Present (Rare Icon)
+			Available in Winter Loot Boxes
 		Pachimerry (Rare Icon)
+			Available in Winter Loot Boxes
 		Gingermari (Rare Icon)
+			Available in Winter Loot Boxes
 		Stocking (Rare Icon)
+			Available in Winter Loot Boxes
 		2017 (Rare Icon)
+			Available in Winter Loot Boxes
 		Holly (Rare Icon)
+			Available in Winter Loot Boxes
 		Tannenbaum (Rare Icon)
+			Available in Winter Loot Boxes
 		Bubbly (Rare Icon)
+			Available in Winter Loot Boxes
 		Gingerbread (Rare Icon)
+			Available in Winter Loot Boxes
 		Candy Cane (Rare Icon)
+			Available in Winter Loot Boxes
 		Pachireindeer (Rare Icon)
+			Available in Winter Loot Boxes
 		Winter Wonderland (Common Spray)
+			Available in Winter Loot Boxes
 		2018 (Rare Icon)
+			Available in Winter Loot Boxes
 		Yetimari (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Peachimari (Rare Icon)
+			Available in Lunar Loot Boxes
 		Coin (Rare Icon)
+			Available in Lunar Loot Boxes
 		Tangerines (Rare Icon)
+			Available in Lunar Loot Boxes
 		Gold (Rare Icon)
+			Available in Lunar Loot Boxes
 		Lantern (Rare Icon)
+			Available in Lunar Loot Boxes
 		Have Fish (Rare Icon)
+			Available in Lunar Loot Boxes
 		Red Envelope (Rare Icon)
+			Available in Lunar Loot Boxes
 		Lucky Pouch (Rare Icon)
+			Available in Lunar Loot Boxes
 		Fortune (Rare Icon)
+			Available in Lunar Loot Boxes
 		Lion Dance (Rare Icon)
+			Available in Lunar Loot Boxes
 		Seollal (Rare Icon)
+			Available in Lunar Loot Boxes
 		New Year Cake (Rare Icon)
+			Available in Lunar Loot Boxes
 		Pachilantern (Rare Icon)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Rare Icon)
+			Available in Lunar Loot Boxes
 		Fuchimari (Rare Icon)
+			Available in Lunar Loot Boxes
 		Bokimari (Rare Icon)
+			Available in Lunar Loot Boxes
 		Year of the Rooster (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon's Head (Common Spray)
+			Available in Lunar Loot Boxes
 		Red Envelope (Common Spray)
+			Available in Lunar Loot Boxes
 		Lucky Pouch (Common Spray)
+			Available in Lunar Loot Boxes
 		Good Fortune (Rare Icon)
+			Available in Lunar Loot Boxes
 		Paqingmari (Rare Icon)
+			Available in Lunar Loot Boxes
 		Paquemari (Rare Icon)
+			Available in Lunar Loot Boxes
 		Huchimari (Rare Icon)
+			Available in Lunar Loot Boxes
 		Wuchimari (Rare Icon)
+			Available in Lunar Loot Boxes
 		Qinglong (Rare Icon)
+			Available in Lunar Loot Boxes
 		Zhuque (Rare Icon)
+			Available in Lunar Loot Boxes
 		Baihu (Rare Icon)
+			Available in Lunar Loot Boxes
 		Xuanwu (Rare Icon)
+			Available in Lunar Loot Boxes
 		Year of the Dog (Common Spray)
+			Available in Lunar Loot Boxes
 		Good Fortune (Common Spray)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		B73-NS (Rare Icon)
+			Available in Archives Loot Boxes
 		Null Sector (Rare Icon)
+			Available in Archives Loot Boxes
 		Drop Pod (Rare Icon)
+			Available in Archives Loot Boxes
 		Nullmari (Rare Icon)
+			Available in Archives Loot Boxes
 		Null Sector (Common Spray)
+			Available in Archives Loot Boxes
 		Assassin (Rare Icon)
+			Available in Archives Loot Boxes
 		Trooper (Rare Icon)
+			Available in Archives Loot Boxes
 		Sniper (Rare Icon)
+			Available in Archives Loot Boxes
 		Enforcer (Rare Icon)
+			Available in Archives Loot Boxes
 		Heavy Assault (Rare Icon)
+			Available in Archives Loot Boxes
 		Maximilien (Rare Icon)
+			Available in Archives Loot Boxes
 		Archives (Common Spray)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Anniversary (Common Spray)
+			Available in Anniversary Loot Boxes
 		Pachiversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 	Level 0 Unlocks
 		Logo (Common Spray)
 		Overwatch Dark (Common Icon)
@@ -416,8 +655,8 @@
 		San Francisco Shock Logo (Common Spray)
 		Seoul Dynasty Logo (Common Spray)
 		Shanghai Dragons Logo (Common Spray)
-		Atlantic All-Stars 2018 (Rare Icon)
-		Pacific All-Stars 2018 (Rare Icon)
+		2018 Atlantic All-Stars (Rare Icon)
+		2018 Pacific All-Stars (Rare Icon)
 	Level 11 Unlocks
 		000000000919.0A5 (Common PortraitFrame)
 	Level 21 Unlocks
@@ -897,4 +1136,4 @@
 		000000000F40.0A5 (Common PortraitFrame)
 	Level 2391 Unlocks
 		000000000F41.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.3840341 seconds
+[Core] Execution finished in 00:00:00.4871920 seconds

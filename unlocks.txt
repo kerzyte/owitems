@@ -1,12 +1,12 @@
-[Core] DataTool v1.27.0.729-git-91f5fa10e0718f58a74a8ec2a008aa09764034b8
+[Core] DataTool v1.28.0.781-git-8137fdaff2056a1c4653c7177a73806d9cc503d9
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] Using Overwatch Version 1.27.1.1.50148
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\781\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.28.0.1.50951
 [CASC] Initializing...
-[CASC] Loading APM Win_SPWin_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 50148
-[CASC] Loading APM Win_SPWin_speech_RDEV_LenUS_EExt
-[CASC] Using CMF procedure 50148
-[Core] Mapping storage
+[CMF] Using CMF procedure 50483
+[CMF] Using CMF procedure 50483
+[CASC] Mapping assets...
+[CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
 Unlocks for Reaper
@@ -24,6 +24,7 @@ Unlocks for Reaper
 		GOLDEN (Common WeaponSkin)
 		Blackwatch Reyes (Legendary Skin)
 			Gabriel Reyes was the leader of the original Overwatch strike team during the Omnic Crisis, and later commanded Blackwatch, the organization's covert ops division.
+			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -119,48 +120,84 @@ Unlocks for Reaper
 		Any last words? (Common VoiceLine)
 	Summer Games Unlocks
 		BMX (Rare Icon)
+			Available in Summer Games Loot Boxes
 		BMX (Common Spray)
+			Available in Summer Games Loot Boxes
 		It's in the refrigerator (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Biker (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Just win (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		Pumpkin (Legendary Skin)
 			In the tale of Dr. Junkenstein, the Reaper was a servant to the Witch of the Wilds, bound to serve her for some unknown reason.
+			Available in Halloween Loot Boxes
 		Eternal Rest (Epic HighlightIntro)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 		The Reaper (Rare Icon)
+			Available in Halloween Loot Boxes
 		I work the graveyard shift (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Dracula (Legendary Skin)
+			Available in Halloween Loot Boxes
 		Things are looking grim (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Dracula (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Stocking (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Shiver (Epic Skin)
+			Available in Winter Loot Boxes
 		Holiday spirit (Common VoiceLine)
+			Available in Winter Loot Boxes
 		You're on ice (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fire Blossom (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Now those are fireworks (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		I have the devil's own luck (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Commando (Common Spray)
+			Available in Archives Loot Boxes
 		Amateur hour (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Moving on (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Soldier: 24 (Legendary Skin)
 			Before serving on the original Overwatch strike team, Gabriel Reyes was selected to be a member of the government's classified soldier enhancement program.
+			Available in Archives Loot Boxes
 		Soldier: 24 (Rare Icon)
+			Available in Archives Loot Boxes
 		Revenge is sweet (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		No one left behind (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		I'll see you in hell (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Reapiversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ace of Clubs (Common Spray)
+			Available in Anniversary Loot Boxes
 		Pathetic (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Tracer
 	Default Unlocks
@@ -177,8 +214,11 @@ Unlocks for Tracer
 		GOLDEN (Common WeaponSkin)
 		Slipstream (Legendary Skin)
 			Before becoming an active agent of Overwatch, Tracer was a test pilot, until a mishap with the prototype Slipstream teleporting fighter.
+			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 		Horde Banner (Epic Emote)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Alliance Banner (Epic Emote)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -207,6 +247,7 @@ Unlocks for Tracer
 		Seoul Dynasty Away (Epic Skin)
 		Shanghai Dragons Away (Epic Skin)
 		2018 Atlantic All-Stars (Legendary Skin)
+			Unlocked with purchase of 2018 Atlantic All-Stars skin
 	Base Unlocks
 		Tracer (Rare Icon)
 		Pulse Bomb (Rare Icon)
@@ -272,52 +313,93 @@ Unlocks for Tracer
 		Cheeky (Common VoiceLine)
 	Summer Games Unlocks
 		Track (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Track (Common Spray)
+			Available in Summer Games Loot Boxes
 		Eat my dust (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Hurdle (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
 		Sprinter (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Track and Field (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Time out! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Ooh, Scary! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Pumpkin (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 		Boo! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowboarding (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Jingle (Legendary Skin)
+			Available in Winter Loot Boxes
 		Jingle (Rare Icon)
+			Available in Winter Loot Boxes
 		It's in the bag (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Ho ho ho! (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fan Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Ready for some fireworks? (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Lion Dance (Epic HighlightIntro)
+			Available in Lunar Loot Boxes
 		Rose (Epic Skin)
+			Available in Lunar Loot Boxes
 		I'm over the moon (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Fireworks (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Slipstream (Common Spray)
+			Available in Archives Loot Boxes
 		Cadet (Rare Icon)
+			Available in Archives Loot Boxes
 		Cadet Oxton (Legendary Skin)
 			Tracer was put into active duty as an Overwatch agent for the first time during the King's Row uprising.
+			Available in Archives Loot Boxes
 		Don't be daft (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Sorry I'm late (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Time is on my side (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Charleston (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Did I miss something? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Too slow! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Auxton (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ace of Diamonds (Common Spray)
+			Available in Anniversary Loot Boxes
 		Graffiti (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Lightning (Epic Skin)
+			Available in Anniversary Loot Boxes
 		I knew I forgot something (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Wink (Rare VictoryPose)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Mercy
 	Default Unlocks
@@ -333,12 +415,19 @@ Unlocks for Mercy
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
 		Pink (Legendary Skin)
+			Unlocked with purchase of Pink charity skin
 		Pink (Rare Icon)
+			Unlocked by participating in the 2018 BCRF charity event
 		Ribbon (Rare Icon)
+			Unlocked by participating in the 2018 BCRF charity event
 		Pink (Common Spray)
+			Unlocked by participating in the 2018 BCRF charity event
 		Cure (Common Spray)
+			Unlocked by participating in the 2018 BCRF charity event
 		Ribbon (Common Spray)
+			Unlocked by participating in the 2018 BCRF charity event
 		Together (Common Spray)
+			Unlocked by participating in the 2018 BCRF charity event
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -431,52 +520,91 @@ Unlocks for Mercy
 		Should get that looked at (Common VoiceLine)
 	Summer Games Unlocks
 		Badminton (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Badminton (Common Spray)
+			Available in Summer Games Loot Boxes
 		Piece of cake (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Eidgenossin (Epic Skin)
 			After finishing her education, including her MD and PhD in Switzerland, Angela Ziegler continued her research and served as head of surgery in a prominent hospital in her home country.
+			Available in Summer Games Loot Boxes
 		Winged Victory (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Sponge or spray? (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Witch (Legendary Skin)
 			The Witch of the Wilds is a mysterious figure who appears in the tale of Dr. Junkenstein and others, offering people the object of their desire, for a price.
+			Available in Halloween Loot Boxes
 		The Witch (Rare Icon)
+			Available in Halloween Loot Boxes
 		Superstition (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Sometimes you scare me (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Angel (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Mistletoe (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Your guardian angel (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		I could use the time off (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Parasol (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		A most impressive display (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Fortune (Epic HighlightIntro)
+			Available in Lunar Loot Boxes
 		Fortune (Epic Skin)
+			Available in Lunar Loot Boxes
 		How lucky for you (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Zhuque (Legendary Skin)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Combat Medic (Common Spray)
+			Available in Archives Loot Boxes
 		Combat Medic (Rare Icon)
+			Available in Archives Loot Boxes
 		Combat Medic Ziegler (Legendary Skin)
 			When called upon, Mercy would don her Valkyrie swift-response suit to participate in Overwatch missions.
+			Available in Archives Loot Boxes
 		Take care of yourself (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Not sure why I bother (Common VoiceLine)
+			Available in Archives Loot Boxes
 		A timely intervention (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Hustle (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Questionable Judgment (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		You're welcome (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Jahrestag (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Queen of Clubs (Common Spray)
+			Available in Anniversary Loot Boxes
 		I've seen worse (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Parasol (Rare VictoryPose)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Hanzo
 	Default Unlocks
@@ -585,47 +713,83 @@ Unlocks for Hanzo
 		Simple geometry (Common VoiceLine)
 	Summer Games Unlocks
 		Archery (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Archery (Common Spray)
+			Available in Summer Games Loot Boxes
 		Ignore all distractions (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Defeat is the first step (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Target Practice (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Demon (Epic Skin)
+			Available in Halloween Loot Boxes
 		You are already dead (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Skewered (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 		Master your fears (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Kadomatsu (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		A gift for you (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Casual (Legendary Skin)
+			Available in Winter Loot Boxes
 		Cold as ice (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Casual (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Blue Dragon (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		When the moon is full (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Insolent cur (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Ramen (Common Spray)
+			Available in Archives Loot Boxes
 		Training (Epic Emote)
+			Available in Archives Loot Boxes
 		Unacceptable (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Beauty in simplicity (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Scion (Legendary Skin)
 			Over the centuries, the Shimada clan grew to profit from a lucrative trade in arms and other illegal substances.
+			Available in Archives Loot Boxes
 		Scion (Rare Icon)
+			Available in Archives Loot Boxes
 		My fate is written in blood (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Fisherman Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		An Error in Judgment (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Just so (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Kinenbi (Rare Icon)
+			Available in Anniversary Loot Boxes
 		King of Diamonds (Common Spray)
+			Available in Anniversary Loot Boxes
 		Cyberninja (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Do not rouse the dragon (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Torbjörn
 	Default Unlocks
@@ -641,7 +805,9 @@ Unlocks for Torbjörn
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
 		For the Alliance (Common VoiceLine)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		For the Horde (Common VoiceLine)
+			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -733,52 +899,92 @@ Unlocks for Torbjörn
 		Ironclad (Common VoiceLine)
 	Summer Games Unlocks
 		Water Polo (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Water Polo (Common Spray)
+			Available in Summer Games Loot Boxes
 		More where that came from (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Tre Kronor (Epic Skin)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		There's no prize for second (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		If you build it (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Viking (Legendary Skin)
+			Available in Halloween Loot Boxes
 		I smell trouble brewing (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Viking (Rare Icon)
+			Available in Halloween Loot Boxes
 		Batter Up (Epic Emote)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Workshop (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Santaclad (Legendary Skin)
 			At the gentle urging of his wife, Ingrid, Torbjörn dresses up as Santa for the Lindholm holiday celebrations.
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Santaclad (Rare Icon)
+			Available in Winter Loot Boxes
 		Made to order (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Expert craftsmanship (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Gold (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Too hot for you? (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Everyone get in here (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Brigitte (Common Spray)
+			Available in Archives Loot Boxes
 		Chief Engineer (Rare Icon)
+			Available in Archives Loot Boxes
 		Ironclad (Legendary Skin)
+			Available in Archives Loot Boxes
 		Chief Engineer Lindholm (Legendary Skin)
 			For many years, Torbjörn Lindholm served as Overwatch's chief engineer, designing many of the organization's iconic weapons and technologies.
+			Available in Archives Loot Boxes
 		My baby (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 		Poor craftsman (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Just start hammering (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Bingo! (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Hear me, baby? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Trust me (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Goldclad (Rare Icon)
+			Available in Anniversary Loot Boxes
 		King of Clubs (Common Spray)
+			Available in Anniversary Loot Boxes
 		Cybjörn (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Cybjörn (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Why didn't I think of that? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Reinhardt
 	Default Unlocks
@@ -890,48 +1096,85 @@ Unlocks for Reinhardt
 		You shame yourself (Common VoiceLine)
 	Summer Games Unlocks
 		Wrestling (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Wrestling (Common Spray)
+			Available in Summer Games Loot Boxes
 		100%% German power (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Glittering prizes! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Gridironhardt (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Gridironhardt (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Pumpkin Smash (Epic Emote)
+			Available in Halloween Loot Boxes
 		Coldhardt (Epic Skin)
+			Available in Halloween Loot Boxes
 		Smashing (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		What do we have here? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ice Fishing (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		You're on my naughty list (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Snowball Fight (Epic HighlightIntro)
+			Available in Winter Loot Boxes
 		Forgive and forget (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Lion Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Are you chicken? (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Sandy (Rare Icon)
+			Available in Lunar Loot Boxes
 		Wujing (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Fortune favors the bold (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Poster (Common Spray)
+			Available in Archives Loot Boxes
 		Lieutenant (Rare Icon)
+			Available in Archives Loot Boxes
 		Lieutenant Wilhelm (Epic Skin)
 			Lieutenant Reinhardt Wilhelm served with distinction in his time during Overwatch, notably leading the strike team that ended the King's Row uprising.
+			Available in Archives Loot Boxes
 		Easy does it (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Unstoppable (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Kneel (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		Prost (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Sweethardt (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Honor! Justice! Reinhardt! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Beer! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Goldhardt (Rare Icon)
+			Available in Anniversary Loot Boxes
 		King of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
 		Come here... (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Pharah
 	Default Unlocks
@@ -948,6 +1191,7 @@ Unlocks for Pharah
 		GOLDEN (Common WeaponSkin)
 		Security Chief (Legendary Skin)
 			Following a sterling career in the Egyptian armed forces, Pharah joined Helix Security International as one of their chief officers.
+			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -1040,44 +1284,78 @@ Unlocks for Pharah
 		The skies are clear (Common VoiceLine)
 	Summer Games Unlocks
 		Basketball (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Basketball (Common Spray)
+			Available in Summer Games Loot Boxes
 		We are in this together (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Slam Dunk (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
 		Clear skies, full hearts (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Possessed (Epic Skin)
+			Available in Halloween Loot Boxes
 		Dead or alive (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		I'm so scared (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ice Fishing (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Frostbite (Epic Skin)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		The forecast (Common VoiceLine)
+			Available in Winter Loot Boxes
 		At ease (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Happy New Year (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		I keep the peace (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Ready for some fireworks (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Qinglong (Legendary Skin)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Target Practice (Common Spray)
+			Available in Archives Loot Boxes
 		Flair (Epic Emote)
+			Available in Archives Loot Boxes
 		Don't take it personally (Common VoiceLine)
+			Available in Archives Loot Boxes
 		I am the Rocket Queen (Common VoiceLine)
+			Available in Archives Loot Boxes
 		I live for a good fight (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Rocket Guitar (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Fly casual (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Try me (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Anniversareeha (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Queen of Diamonds (Common Spray)
+			Available in Anniversary Loot Boxes
 		Bedouin (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Stay on target (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Winston
 	Default Unlocks
@@ -1093,6 +1371,7 @@ Unlocks for Winston
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
 		BlizzCon 2017 (Epic Skin)
+			Unlocked as part of the BlizzCon 2017 In-Game Goodies
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -1185,49 +1464,87 @@ Unlocks for Winston
 		Get a load of this! (Common VoiceLine)
 	Summer Games Unlocks
 		Volleyball (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Volleyball (Common Spray)
+			Available in Summer Games Loot Boxes
 		Playtime's over (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Oh, it's on! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Catcher (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Catcher (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		Shadow Puppets (Epic Emote)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		This is not a costume (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Ooh, scary (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Presents (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Yeti (Legendary Skin)
+			Available in Winter Loot Boxes
 		Yeti (Rare Icon)
+			Available in Winter Loot Boxes
 		I... got you something (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Party mode engaged (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Kite (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		That was awesome! (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Monkey (Rare Icon)
+			Available in Lunar Loot Boxes
 		Wukong (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Moon sweet home (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Sparklers (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Building (Common Spray)
+			Available in Archives Loot Boxes
 		Peanut Butter (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		Have you seen my glasses? (Common VoiceLine)
+			Available in Archives Loot Boxes
 		I have the right stuff (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Specimen 28 (Legendary Skin)
 			The gorilla known as Specimen 28 showed rapid brain development from genetic therapy, surpassing that of the other subjects.
+			Available in Archives Loot Boxes
 		Specimen 28 (Rare Icon)
+			Available in Archives Loot Boxes
 		Primal punch! (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Twist (Epic Emote)
+			Available in Anniversary Loot Boxes
 		It's my time to shine! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Oh yeah! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Goldrilla (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Jack of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
 		Can't keep a good ape down (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Widowmaker
 	Default Unlocks
@@ -1243,7 +1560,9 @@ Unlocks for Widowmaker
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
 		Noire (Legendary Skin)
+			Unlocked by pre-purchasing Overwatch
 		Kerrigan (Legendary Skin)
+			Unlocked as part of the StarCraft 20th Anniversary Celebration
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -1338,46 +1657,82 @@ Unlocks for Widowmaker
 		Rude (Common VoiceLine)
 	Summer Games Unlocks
 		Gymnastics (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Gymnastics (Common Spray)
+			Available in Summer Games Loot Boxes
 		I don't miss (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Tricolore (Epic Skin)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Côte d'Azur (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		A perfect 10 (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		The party is over (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Morning spider... (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Skiing (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Under the Mistletoe (Epic HighlightIntro)
+			Available in Winter Loot Boxes
 		Exquisite (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Merry Christmas (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Hairpin (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		You have my attention (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Barking up the wrong tree (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Black Lily (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Black Lily (Rare Icon)
+			Available in Lunar Loot Boxes
 		Fans (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Wedding (Common Spray)
+			Available in Archives Loot Boxes
 		Lacroix (Rare Icon)
+			Available in Archives Loot Boxes
 		Talon (Legendary Skin)
+			Available in Archives Loot Boxes
 		The performance begins (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Your emotions (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Always the hunters (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Ballet (Epic Emote)
+			Available in Anniversary Loot Boxes
 		What a bore (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Sorry (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		D'or (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Queen of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
 		The pleasure is mine (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Bastion
 	Default Unlocks
@@ -1395,7 +1750,9 @@ Unlocks for Bastion
 		GOLDEN (Common WeaponSkin)
 		Overgrown (Legendary Skin)
 			Damaged in one of the battles of the Omnic Crisis, this lone Bastion unit was reactivated in the Black Forest near Eichenwalde years later.
+			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 		BlizzCon 2016 (Epic Skin)
+			Unlocked as part of the BlizzCon 2016 Goody Bag
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -1488,49 +1845,86 @@ Unlocks for Bastion
 		OOH-OOO-HOO-HOO (Common VoiceLine)
 	Summer Games Unlocks
 		Boxing (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Boxing (Common Spray)
+			Available in Summer Games Loot Boxes
 		WHOO-VWEEEEEE (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Boxing (Epic Emote)
+			Available in Summer Games Loot Boxes
 		Doo-do-doo Dee! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
 			Responsible for so many deaths during the Omnic Crisis, even today Bastion units are a symbol of fear.
+			Available for credits during the Halloween Terror event
 		Tombstone (Epic Skin)
+			Available in Halloween Loot Boxes
 		W-W-Wooooo...? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Oooooooooooo... (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		FESTIVE (Common Spray)
+			Available in Winter Loot Boxes
 		ORNAMENT (Common Spray)
+			Available in Winter Loot Boxes
 		DWEE DOO HOO (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Avalanche (Legendary Skin)
+			Available in Winter Loot Boxes
 		BWOO BWOO BWOO (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Avalanche (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Bast-yum (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Woop doo woo dun woop (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Rooster (Epic Skin)
+			Available in Lunar Loot Boxes
 		Firework (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 		Doo wee doo wee woo! (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Sunken (Common Spray)
+			Available in Archives Loot Boxes
 		Null Sector (Epic Skin)
 			Bastion units were reengineered and upgraded by Null Sector and deployed during the King's Row Uprising.
+			Available in Archives Loot Boxes
 		DWEE WEE WOH (Common VoiceLine)
+			Available in Archives Loot Boxes
 		ZWEE-AH WHEEE DOO WOO (Common VoiceLine)
+			Available in Archives Loot Boxes
 		ZWING ZWING ZWING (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Robo Boogie (Epic Emote)
+			Available in Anniversary Loot Boxes
 		BEW-WOO BEW-WOO (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		DOO DUN DUN WOO (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Goldbot (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ten of Clubs (Common Spray)
+			Available in Anniversary Loot Boxes
 		Dune Buggy (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Stealth (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Stealth (Rare Icon)
+			Available in Anniversary Loot Boxes
 		ZUR ZUR EE NUM (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Symmetra
 	Default Unlocks
@@ -1639,49 +2033,87 @@ Unlocks for Symmetra
 		Supposed to be impressed (Common VoiceLine)
 	Summer Games Unlocks
 		Rhythmic Gymnastics (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Rhythmic (Common Spray)
+			Available in Summer Games Loot Boxes
 		Hard work and dedication (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Ribbon (Epic Emote)
+			Available in Summer Games Loot Boxes
 		Victory is everything (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		Vampire (Epic Skin)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		A frightening thought (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Dragon (Legendary Skin)
 			As the tales tell, the Witch of the Wilds had many powerful allies, including the draconic summoner.
+			Available in Halloween Loot Boxes
 		The treat is a lie (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		The Summoner (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowflake (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Snowflakes (Epic HighlightIntro)
+			Available in Winter Loot Boxes
 		I made you something (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Expecting a miracle? (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Lantern (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Good fortune (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Qipao (Epic Skin)
+			Available in Lunar Loot Boxes
 		Cause for celebration (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Fan (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Student (Common Spray)
+			Available in Archives Loot Boxes
 		Light Reading (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		Taken under advisement (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Kindly adjust (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Timepass (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Setting up the car wash (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Your mind works (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Vaswanniversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Nine of Diamonds (Common Spray)
+			Available in Anniversary Loot Boxes
 		Oasis (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Magician (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Magician (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Let us discuss your failures (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Zenyatta
 	Default Unlocks
@@ -1787,50 +2219,90 @@ Unlocks for Zenyatta
 		How amusing (Common VoiceLine)
 	Summer Games Unlocks
 		Taekwondo (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Strive for improvement (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medals (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Taekwondo (Common Spray)
+			Available in Summer Games Loot Boxes
 		Form is temporary (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Fastball (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Fastball (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Iris (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		Skullyatta (Epic Skin)
+			Available in Halloween Loot Boxes
 		Trick or treat? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Cultist (Legendary Skin)
+			Available in Halloween Loot Boxes
 		Frightening (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Cultist (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowball Fight (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Nutcracker (Legendary Skin)
+			Available in Winter Loot Boxes
 		Nutcracker (Rare Icon)
+			Available in Winter Loot Boxes
 		No snowflake (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Joy to the world (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Snowflake (Epic Emote)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Yut Nori (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Every rooster crows (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Sanzang (Rare Icon)
+			Available in Lunar Loot Boxes
 		Sanzang (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Fortune favors me (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Shell (Common Spray)
+			Available in Archives Loot Boxes
 		Perspective (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 		Where you're headed (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Path to enlightenment (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Your lesson for today (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Existence is mysterious (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		How disappointing (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Zeniversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 		King of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 		Patience (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Genji
 	Default Unlocks
@@ -1943,47 +2415,82 @@ Unlocks for Genji
 		My work here is done (Common VoiceLine)
 	Summer Games Unlocks
 		Fencing (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Fencing (Common Spray)
+			Available in Summer Games Loot Boxes
 		Hoping for a challenge (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Nihon (Epic Skin)
+			Available in Summer Games Loot Boxes
 		Touché (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		Pumpkin Carving (Epic HighlightIntro)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		My Halloween costume? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Happy Halloween (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Kadomatsu (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Merry Christmas! (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Count your blessings (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Green Dragon (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		To know yourself (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		All bark, no bite (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Baihu (Legendary Skin)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Ramen (Common Spray)
+			Available in Archives Loot Boxes
 		Cyborg (Rare Icon)
+			Available in Archives Loot Boxes
 		Blackwatch (Legendary Skin)
 			After agreeing to aid the organization, Genji was upgraded extensively by Overwatch's cyberneticists.
+			Available in Archives Loot Boxes
 		Meditate (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		Another! (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Life and death balance (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Your eyes deceive you (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		I'm Not Impressed (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		You seem nice (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Goldborg (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Jack of Clubs (Common Spray)
+			Available in Anniversary Loot Boxes
 		Sentai (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		You need healing (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 	Internal Unlocks
 		2018 Pacific All-Stars (Legendary Skin)
+			Unlocked with purchase of 2018 Pacific All-Stars skin
 
 Unlocks for Roadhog
 	Default Unlocks
@@ -2089,53 +2596,95 @@ Unlocks for Roadhog
 		Eat this (Common VoiceLine)
 	Summer Games Unlocks
 		Diving (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Diving (Common Spray)
+			Available in Summer Games Loot Boxes
 		What's mine is mine (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		There's no "I" in team (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Lacrosse (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Lacrosse (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Junkenstein's Monster (Legendary Skin)
 			Armed with the secret of creating artificial life, Dr. Jamison Junkenstein birthed a monster.
+			Available in Halloween Loot Boxes
 		The Monster (Rare Icon)
+			Available in Halloween Loot Boxes
 		Want some candy? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Footsteps... (Epic HighlightIntro)
+			Available in Halloween Loot Boxes
 		Boo! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		"Winter" (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Rudolph (Epic Skin)
+			Available in Winter Loot Boxes
 		Ho ho ho (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Ice Fisherman (Legendary Skin)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		I have your present right here (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Ice Fisherman (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Steamed Buns (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		You chicken? (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Pigsy (Rare Icon)
+			Available in Lunar Loot Boxes
 		Bajie (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Feast (Epic HighlightIntro)
+			Available in Lunar Loot Boxes
 		What's mine is mine (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 		It's all gone to the dogs (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Secret Friend (Epic Emote)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Chopper (Common Spray)
+			Available in Archives Loot Boxes
 		Killed for less than that (Common VoiceLine)
+			Available in Archives Loot Boxes
 		She'll be right (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Mug Shot (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		You wanna scrap with me? (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		I don't like talkers (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		I'm going hog wild! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Goldhog (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Joker (Common Spray)
+			Available in Anniversary Loot Boxes
 		That's my business (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for McCree
 	Default Unlocks
@@ -2241,54 +2790,96 @@ Unlocks for McCree
 		After you (Common VoiceLine)
 	Summer Games Unlocks
 		Equestrian (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Equestrian (Common Spray)
+			Available in Summer Games Loot Boxes
 		I don't much like losing (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		American (Epic Skin)
+			Available in Summer Games Loot Boxes
 		Lifeguard (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Boom goes the dynamite (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		It's your funeral (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Van Helsing (Legendary Skin)
+			Available in Halloween Loot Boxes
 		I hear you, pumpkin (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Van Helsing (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ugly Sweater (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Scrooge (Epic Skin)
+			Available in Winter Loot Boxes
 		Hat Trick (Epic Emote)
+			Available in Winter Loot Boxes
 		Had to break the ice (Common VoiceLine)
+			Available in Winter Loot Boxes
 		You've been snowed in (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Call It (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Calls for a celebration (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Hair of the dog (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Magistrate (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Spark (Epic HighlightIntro)
+			Available in Lunar Loot Boxes
 		Magistrate (Rare Icon)
+			Available in Lunar Loot Boxes
 		Fire in the Hole (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Target Practice (Common Spray)
+			Available in Archives Loot Boxes
 		Blackwatch (Rare Icon)
+			Available in Archives Loot Boxes
 		Blackwatch (Legendary Skin)
 			A young Jesse McCree was recruited into Blackwatch after Gabriel Reyes saw his potential and gave him a choice: join Blackwatch, or rot in prison.
+			Available in Archives Loot Boxes
 		Showdown (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		A man's gotta have rules (Common VoiceLine)
+			Available in Archives Loot Boxes
 		The Old Fashioned Way (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Don't sass me (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Line Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Buckle up (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Next round's on me (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		GAMF (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Jack of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 		Sherlock (Legendary Skin)
 			"My mind," he said, "rebels at stagnation. Give me problems, give me work, give me the most abstruse cryptogram or the most intricate analysis, and I am in my proper atmosphere."
+			Available in Anniversary Loot Boxes
 		Sherlock (Rare Icon)
+			Available in Anniversary Loot Boxes
 		How do you like me now? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Junkrat
 	Default Unlocks
@@ -2398,52 +2989,92 @@ Unlocks for Junkrat
 		Good morning! (Common VoiceLine)
 	Summer Games Unlocks
 		Tennis (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Tennis (Common Spray)
+			Available in Summer Games Loot Boxes
 		I give it a 10! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Shot Put (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
 		Cricket (Legendary Skin)
 			Junkrat gives new meaning to "the Ashes."
+			Available in Summer Games Loot Boxes
 		I give it a 3! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Dr. Junkenstein (Legendary Skin)
 			As the tale goes, Dr. Junkenstein made a deal with the Witch of the Wilds in exchange for the secret to creating life. But his triumph was short lived as he was slain by four wanderers in Adlersbrunn.
+			Available in Halloween Loot Boxes
 		The Doctor (Rare Icon)
+			Available in Halloween Loot Boxes
 		Happy Halloween (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		I'm alive! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Pumpkin (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		"WINTER" (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Merry Christmas (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Beachrat (Legendary Skin)
+			Available in Winter Loot Boxes
 		Go on... give it a shake! (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Beachrat (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		I'm flying! (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Gong Xi Fa Cai (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Firework (Epic Skin)
+			Available in Lunar Loot Boxes
 		Dud? (Epic Emote)
+			Available in Lunar Loot Boxes
 		Bad for Your Health (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 		My dog is barking (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Sidecar (Common Spray)
+			Available in Archives Loot Boxes
 		Too right (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Come the raw prawn (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Mug Shot (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		I really blew that one (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Running Rat (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Dipstick (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Oops... Dropped Something (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Goldrat (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Joker (Common Spray)
+			Available in Anniversary Loot Boxes
 		Bilgerat (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Buccaneer (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Inconspicuous! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Zarya
 	Default Unlocks
@@ -2551,52 +3182,92 @@ Unlocks for Zarya
 		Feel the burn (Common VoiceLine)
 	Summer Games Unlocks
 		Weightlifting (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Weightlifting (Common Spray)
+			Available in Summer Games Loot Boxes
 		No pain, no gain (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Champion (Legendary Skin)
 			A champion weightlifter in her home country, Zarya retired on the eve of the world championships to enlist in the Russian defense forces.
+			Available in Summer Games Loot Boxes
 		Weightlifter (Legendary Skin)
 			A champion weightlifter in her home country, Zarya retired on the eve of the world championships to enlist in the Russian defense forces.
+			Available in Summer Games Loot Boxes
 		It's only a game (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medals (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Russian judge (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Never forget the fallen (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Totally 80's (Legendary Skin)
+			Available in Halloween Loot Boxes
 		Don't be scared (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Totally 80's (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Matryoshka (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Frosted (Epic Skin)
+			Available in Winter Loot Boxes
 		Mystery Gift (Legendary Emote)
+			Available in Winter Loot Boxes
 		For the Motherland (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Cool it (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Calories (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Get pumped (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Where the dog is buried (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Xuanwu (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Big One (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		We can! (Common Spray)
+			Available in Archives Loot Boxes
 		This is strength (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		I was born in battle (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Ready to give up? (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Graviton Surge (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 		You have failed your team (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Peace through firepower (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Is that all? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Zaryanoversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ten of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 		Cyberian (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Let's get physical (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Soldier: 76
 	Default Unlocks
@@ -2613,6 +3284,7 @@ Unlocks for Soldier: 76
 		GOLDEN (Common WeaponSkin)
 		Strike Commander Morrison (Legendary Skin)
 			After the Omnic Crisis, Jack Morrison was promoted to Strike Commander of Overwatch, leading the organization for decades until it was disbanded.
+			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -2706,46 +3378,82 @@ Unlocks for Soldier: 76
 		Sit down! (Common VoiceLine)
 	Summer Games Unlocks
 		Golf (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Golf (Common Spray)
+			Available in Summer Games Loot Boxes
 		You want a medal? (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Golf Swing (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Grillmaster: 76 (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Bring the noise (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Immortal (Epic Skin)
+			Available in Halloween Loot Boxes
 		Knock knock (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Trick or treat (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Army Man: 76 (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Stay frosty (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Alpine: 76 (Legendary Skin)
+			Available in Winter Loot Boxes
 		Merry Christmas (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Alpine (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Folded Hands (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		The rooster crows (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Respect your elders (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Commando (Common Spray)
+			Available in Archives Loot Boxes
 		Push-ups (Epic Emote)
+			Available in Archives Loot Boxes
 		Not getting any younger (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Whatever you say (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Don't call me a hero (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		I'm not your father (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		You're the boss (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Gold Soldier (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ace of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 		Cyborg: 76 (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Venom (Epic Skin)
+			Available in Anniversary Loot Boxes
 		Want something done right? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Lúcio
 	Default Unlocks
@@ -2760,7 +3468,6 @@ Unlocks for Lúcio
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
-		Dance Party (Legendary Emote)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -2788,6 +3495,7 @@ Unlocks for Lúcio
 		Houston Outlaws Away (Epic Skin)
 		Florida Mayhem Away (Epic Skin)
 		Dallas Fuel Away (Epic Skin)
+		Dance Party (Legendary Emote)
 	Base Unlocks
 		Lúcio (Rare Icon)
 		Kambô (Rare Icon)
@@ -2854,52 +3562,91 @@ Unlocks for Lúcio
 		Check this out (Common VoiceLine)
 	Summer Games Unlocks
 		Football (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Football (Common Spray)
+			Available in Summer Games Loot Boxes
 		Be champions (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Juggle (Epic Emote)
+			Available in Summer Games Loot Boxes
 		Bicycle Kick (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
 		Seleção (Legendary Skin)
 			When Lúcio was younger, in addition to his first love, hockey, he also found the time to play football with the other kids in Rio de Janeiro.
+			Available in Summer Games Loot Boxes
 		Striker (Legendary Skin)
 			When Lúcio was younger, in addition to his first love, hockey, he also found the time to play football with the other kids in Rio de Janeiro.
+			Available in Summer Games Loot Boxes
 		Suboptimal (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Come on, ref! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Killed it! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Pumpkin Control (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 		So good it's scary! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Hockey (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Andes (Epic Skin)
 			When the weather gets cold, Lúcio heads to the Andes to hit the slopes.
+			Available in Winter Loot Boxes
 		Happy holidays! (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Climbing the charts! (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Keep Ups (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		I make this look good... (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Just how I like it (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Skates (Common Spray)
+			Available in Archives Loot Boxes
 		Handstand (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		Boop (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Learn to take it easy (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Equalizer (Legendary Skin)
+			Available in Archives Loot Boxes
 		Equalizer (Rare Icon)
+			Available in Archives Loot Boxes
 		Turn it up in my headphones (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Smooth (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Everyone gets their +1 (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Have some Lúcio-oh's! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Lúciouro (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Jack of Diamonds (Common Spray)
+			Available in Anniversary Loot Boxes
 		Jazzy (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Bitrate (Epic Skin)
+			Available in Anniversary Loot Boxes
 		Can you hear me now? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for D.Va
 	Default Unlocks
@@ -2915,17 +3662,29 @@ Unlocks for D.Va
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
 		Nano (Epic Skin)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Nano Cola (Rare Icon)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Enjoy! (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Refreshment (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Hi (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Twinkle (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Pat Pat (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Victory (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Angry (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Sleepy (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Grabs a Popcorn (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 		Astonished (Common Spray)
+			Unlocked by participating in D.Va's Nano Cola Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -3022,48 +3781,85 @@ Unlocks for D.Va
 		Nice try (Common VoiceLine)
 	Summer Games Unlocks
 		Cycling (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Cycling (Common Spray)
+			Available in Summer Games Loot Boxes
 		I'm #1 (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Taegeukgi (Epic Skin)
 			During her time as a professional gamer, D.Va proudly represented her country in tournaments around the world.
+			Available in Summer Games Loot Boxes
 		Scoreboard (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Waveracer (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Waveracer (Rare Icon)
+			Available in Summer Games Loot Boxes
 		D.Vacation (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Happy Halloween! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		I'm not scared (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		COOKIE (Common Spray)
+			Available in Winter Loot Boxes
 		ORNAMENT (Common Spray)
+			Available in Winter Loot Boxes
 		Festive (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		Aw, you shouldn't have (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Happy holidays (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Seesaw (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		The best things in life (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Hanbok (Rare Icon)
+			Available in Lunar Loot Boxes
 		Palanquin (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Bow (Epic Emote)
+			Available in Lunar Loot Boxes
 		Lucky Pouch (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 		Happy new year (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Handheld (Common Spray)
+			Available in Archives Loot Boxes
 		Selfie (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 		Try and keep up (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Not taking me seriously (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Amazing! (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Level up! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		No Way (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Hanaversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ten of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
 		Cruiser (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		No problem! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Mei
 	Default Unlocks
@@ -3172,53 +3968,95 @@ Unlocks for Mei
 		That looked like it hurt (Common VoiceLine)
 	Summer Games Unlocks
 		Table Tennis (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Table Tennis (Common Spray)
+			Available in Summer Games Loot Boxes
 		Overcome all obstacles (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		I tried my best (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Table Tennis (Epic Emote)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Ice Scream (Epic HighlightIntro)
+			Available in Halloween Loot Boxes
 		Scary! (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Jiangshi (Legendary Skin)
+			Available in Halloween Loot Boxes
 		Hopping (Epic Emote)
+			Available in Halloween Loot Boxes
 		Did you hear something? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Jiangshi (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Sculpting (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Mei-rry (Legendary Skin)
+			Available in Winter Loot Boxes
 		Snowman (Epic Emote)
+			Available in Winter Loot Boxes
 		I got you something! (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Don't you love surprises (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortune (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Wishing you prosperity (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Chang'e (Rare Icon)
+			Available in Lunar Loot Boxes
 		Chang'e (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Luna (Legendary Skin)
+			Available in Lunar Loot Boxes
 		So Excited (Epic Emote)
+			Available in Lunar Loot Boxes
 		Lucky! (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 		Give me a red envelope (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Pajamas (Common Spray)
+			Available in Archives Loot Boxes
 		Science this (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Scientific explanation (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Pajamei (Legendary Skin)
 			Due to a malfunction of Ecopoint: Antarctica's cryogenics facility, Mei was kept in hibernation for almost a decade and woke up to find a new, unfamiliar world.
+			Available in Archives Loot Boxes
 		Mug (Rare Icon)
+			Available in Archives Loot Boxes
 		I'm just a scientist (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Sunny Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		So mean! Honestly... (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		I was only trying to help (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		May (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ten of Diamonds (Common Spray)
+			Available in Anniversary Loot Boxes
 		Beekeeper (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Wake up, sleepyhead! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Sombra
 	Default Unlocks
@@ -3234,6 +4072,8 @@ Unlocks for Sombra
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Demon Hunter (Legendary Skin)
+			Unlocked as part of the BlizzCon 2018 In-Game Goodies
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 		Boston Uprising (Epic Skin)
@@ -3295,10 +4135,14 @@ Unlocks for Sombra
 		Virus (Epic Skin)
 		Los Muertos (Legendary Skin)
 			Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos.
+			
 		Azúcar (Legendary Skin)
 			Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos.
+			
 		Cyberspace (Legendary Skin)
+			
 		Augmented (Legendary Skin)
+			
 		Marionette (Common Spray)
 		Calavera (Common Spray)
 		Neural (Common Spray)
@@ -3331,46 +4175,81 @@ Unlocks for Sombra
 		If you hold the information (Common VoiceLine)
 	Summer Games Unlocks
 		High Jump (Rare Icon)
+			Available in Summer Games Loot Boxes
 		High Jump (Common Spray)
+			Available in Summer Games Loot Boxes
 		Try and keep up (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		What's up? (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Tulum (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Mexicana (Epic Skin)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Pumpkinette (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 		You trying to be scary? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Aw, isn't that sweet? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Puppet (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Peppermint (Epic Skin)
+			Available in Winter Loot Boxes
 		I know who's been naughty (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Rime (Legendary Skin)
+			Available in Winter Loot Boxes
 		I can be nice (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Rime (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortunate (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		You're easily impressed (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Sparklers (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 		You're in the doghouse (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Espresso (Common Spray)
+			Available in Archives Loot Boxes
 		Don't be a coward (Common VoiceLine)
+			Available in Archives Loot Boxes
 		I'd love to stay and chat (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Talon (Legendary Skin)
 			Sombra is only too happy to utilize the power and reach of Talon while pursuing her own goals.
+			Available in Archives Loot Boxes
 		Colomar (Rare Icon)
+			Available in Archives Loot Boxes
 		Back to la medianoche! (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		I need a drink (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Were you done talking? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Aniversario (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Queen of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 		Let's not do that again (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Doomfist
 	Default Unlocks
@@ -3478,45 +4357,79 @@ Unlocks for Doomfist
 		You test my patience (Common VoiceLine)
 	Summer Games Unlocks
 		Shotput (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Shot Put (Common Spray)
+			Available in Summer Games Loot Boxes
 		I make medicine sick (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Make you punch drunk (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Step into the ring (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		I have something for you (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		You should be scared (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Punch (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Did you bring me a present? (Common VoiceLine)
+			Available in Winter Loot Boxes
 		They say chivalry is dead (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortune favors the bold (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		I'll throw you a bone (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Crushing (Epic Emote)
+			Available in Lunar Loot Boxes
 		Lionfist (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Talon (Legendary Skin)
 			Doomfist rose in power in Talon after killing his mentor, Akinjide Adeyemi, the Scourge of Numbani.
+			Available in Archives Loot Boxes
 		Combo (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 		Ogundimu (Rare Icon)
+			Available in Archives Loot Boxes
 		Thumbs down (Common Spray)
+			Available in Archives Loot Boxes
 		I didn't ask for your opinion (Common VoiceLine)
+			Available in Archives Loot Boxes
 		I know you can do better (Common VoiceLine)
+			Available in Archives Loot Boxes
 		I am not your savior (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Formal (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Akandeversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Nine of Clubs (Common Spray)
+			Available in Anniversary Loot Boxes
 		Formal (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Charging (Rare VictoryPose)
+			Available in Anniversary Loot Boxes
 		Your lack of belief (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Take it on the chin (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		You can't win (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Ana
 	Default Unlocks
@@ -3627,49 +4540,88 @@ Unlocks for Ana
 		Go on... I can wait (Common VoiceLine)
 	Summer Games Unlocks
 		Shooting (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Shooting (Common Spray)
+			Available in Summer Games Loot Boxes
 		Learn from the Pain (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Beach Ball (Epic Emote)
+			Available in Summer Games Loot Boxes
 		Better than retirement (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Cabana (Legendary Skin)
+			Available in Summer Games Loot Boxes
 		Cabana (Rare Icon)
+			Available in Summer Games Loot Boxes
 		You seem stressed (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 		Candy (Epic Emote)
+			Available in Halloween Loot Boxes
 		R.I.P. (Rare VictoryPose)
+			Available for credits during the Halloween Terror event
 		Ghoul (Epic Skin)
+			Available in Halloween Loot Boxes
 		Are you scared? (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Corsair (Legendary Skin)
+			Available in Halloween Loot Boxes
 		Don't be scared (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Corsair (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Warm (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 		I'm watching out for you (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Snow Owl (Legendary Skin)
+			Available in Winter Loot Boxes
 		I'm too old for surprises (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Snow Owl (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		The moon in winter (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Tal (Epic Skin)
+			Available in Lunar Loot Boxes
 		Folded hands (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 		I make my own luck (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Newborn (Common Spray)
+			Available in Archives Loot Boxes
 		Damn (Common VoiceLine)
+			Available in Archives Loot Boxes
 		The Ghost Watches (Common VoiceLine)
+			Available in Archives Loot Boxes
 		We're not keeping score (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		The adults are talking (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Follow me (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Anaversary (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Ace of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
 		You need to learn to relax (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Orisa
 	Default Unlocks
@@ -3776,45 +4728,79 @@ Unlocks for Orisa
 		Your security (Common VoiceLine)
 	Summer Games Unlocks
 		Javelin (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Javelin (Common Spray)
+			Available in Summer Games Loot Boxes
 		Golden (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Grease to your elbow (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Goalkeeper (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Pumpkin Head (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 		Your pulse has increased (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Be careful (Common VoiceLine)
+			Available in Halloween Loot Boxes
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Star (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Puppy (Legendary Emote)
+			Available in Winter Loot Boxes
 		Can't I guide your way tonight (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Annual performance analysis (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		The moon that wanes (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Who is ready to party (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Drum Dance (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Flower (Common Spray)
+			Available in Archives Loot Boxes
 		OR14-NS (Rare Icon)
+			Available in Archives Loot Boxes
 		Null Sector (Legendary Skin)
 			During the King's Row Uprising, Null Sector employed redesigned and upgraded OR14 Idina bots to secure the power station.
+			Available in Archives Loot Boxes
 		Error: division by 0 (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Functionality still in beta (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Puppy (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		I was only trying to help (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Immovable (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Your Compliance (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Satisfied with protection (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Aurisa (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Nine of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 		Forest Spirit (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Forest Spirit (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Have a bad feeling about this (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Training Bot
 
@@ -3956,25 +4942,43 @@ Unlocks for Brigitte
 		Kneel (Epic Emote)
 	Summer Games Unlocks
 		Tre Kronor (Epic Skin)
+			Available in Summer Games Loot Boxes
 		Hammer Throw (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Hammer Throw (Common Spray)
+			Available in Summer Games Loot Boxes
 		Scandinavian style? (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Dare to Lindholm (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Archives Unlocks
 		Kneel (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		Frustrated (Common Spray)
+			Available in Archives Loot Boxes
 		Don't get caught (Common VoiceLine)
+			Available in Archives Loot Boxes
 		A chicken out of a feather (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Time to roll up my sleeves (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Shieldmaiden (Legendary Skin)
+			Available in Anniversary Loot Boxes
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Eight of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 		Jubileum (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Björn (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Leave this to an expert (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		No problem (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		It's just a flesh wound (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Moira
 	Default Unlocks
@@ -4082,38 +5086,66 @@ Unlocks for Moira
 		Facepalm (Epic Emote)
 	Summer Games Unlocks
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
 		Serve (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
 		Handball (Common Spray)
+			Available in Summer Games Loot Boxes
 		Handball (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Éireannach (Epic Skin)
+			Available in Summer Games Loot Boxes
 		Performance enhanced (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Better living through science (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Winter Unlocks
 		Chimney (Common Spray)
+			Available in Winter Loot Boxes
 		Ornament (Common Spray)
+			Available in Winter Loot Boxes
 		Happy Christmas (Common VoiceLine)
+			Available in Winter Loot Boxes
 		Absolute zero (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Sláinte (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		You've made a dogs breakfast (Common VoiceLine)
+			Available in Lunar Loot Boxes
 		Dog Person (Common Spray)
+			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Blackwatch (Legendary Skin)
 			In addition to her research as a part of Blackwatch, Moira occasionally participated in clandestine operations, including the Venice Incident.
+			Available in Archives Loot Boxes
 		O'Deorain (Rare Icon)
+			Available in Archives Loot Boxes
 		Erlenmeyer (Rare VictoryPose)
+			Available in Archives Loot Boxes
 		Foundation (Common Spray)
+			Available in Archives Loot Boxes
 		This is to my liking (Common VoiceLine)
+			Available in Archives Loot Boxes
 		Get off the stage (Common VoiceLine)
+			Available in Archives Loot Boxes
 		You're mistaken (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
 		Cothrom an Lae (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Nine of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
 		Good news, everyone (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		This was a triumph (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 		Unbelievable (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Trooper
 	Other Unlocks
@@ -4254,9 +5286,13 @@ Unlocks for Wrecking Ball
 		What he said (Common VoiceLine)
 	Summer Games Unlocks
 		Bowling (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Bowling (Common Spray)
+			Available in Summer Games Loot Boxes
 		Keep your eye on the ball (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 		Be the ball (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 
 Unlocks for Enforcer
 	Other Unlocks
@@ -4268,4 +5304,4 @@ Unlocks for Enforcer
 
 Unlocks for Boat
 
-[Core] Execution finished in 00:00:01.0749246 seconds
+[Core] Execution finished in 00:00:01.3072606 seconds
