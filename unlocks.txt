@@ -1,10 +1,10 @@
-[Core] DataTool v1.28.0.781-git-8137fdaff2056a1c4653c7177a73806d9cc503d9
+[Core] DataTool v1.29.0.783-git-d8951c347eceb847c252dbfb3a87c83ca31d4686
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\781\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.28.0.1.50951
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\783\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.29.0.1.51878
 [CASC] Initializing...
-[CMF] Using CMF procedure 50483
-[CMF] Using CMF procedure 50483
+[CMF] Using CMF procedure 51575
+[CMF] Using CMF procedure 51575
 [CASC] Mapping assets...
 [CASC] Ready
 [Core] Checking ResourceKeys
@@ -150,6 +150,8 @@ Unlocks for Reaper
 		Things are looking grim (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Dracula (Rare Icon)
+			Available in Halloween Loot Boxes
+		I'm dressed to kill (Common VoiceLine)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Stocking (Common Spray)
@@ -338,6 +340,8 @@ Unlocks for Tracer
 		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
 		Boo! (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Trick or treat (Common VoiceLine)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowboarding (Common Spray)
@@ -547,6 +551,8 @@ Unlocks for Mercy
 		Superstition (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Sometimes you scare me (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Angel (Common Spray)
@@ -918,6 +924,7 @@ Unlocks for Torbjörn
 		If you build it (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Viking (Legendary Skin)
+			After his village was burned by a dragon's fire, the viking now travels the world, hunting them.
 			Available in Halloween Loot Boxes
 		I smell trouble brewing (Common VoiceLine)
 			Available in Halloween Loot Boxes
@@ -1306,6 +1313,14 @@ Unlocks for Pharah
 			Available in Halloween Loot Boxes
 		I'm so scared (Common VoiceLine)
 			Available in Halloween Loot Boxes
+		Enchanted Armor (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Are you frightened? (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Enchanted (Rare Icon)
+			Available in Halloween Loot Boxes
+		Enchanted (Common Spray)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ice Fishing (Common Spray)
 			Available in Winter Loot Boxes
@@ -1487,6 +1502,10 @@ Unlocks for Winston
 		This is not a costume (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Ooh, scary (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Boo! (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Pumpkin (Epic HighlightIntro)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Presents (Common Spray)
@@ -1679,6 +1698,8 @@ Unlocks for Widowmaker
 			Available in Halloween Loot Boxes
 		Morning spider... (Common VoiceLine)
 			Available in Halloween Loot Boxes
+		Spider (Epic Skin)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Skiing (Common Spray)
 			Available in Winter Loot Boxes
@@ -1867,6 +1888,8 @@ Unlocks for Bastion
 		W-W-Wooooo...? (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Oooooooooooo... (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Zombie (Epic Emote)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		FESTIVE (Common Spray)
@@ -2435,6 +2458,8 @@ Unlocks for Genji
 			Available in Halloween Loot Boxes
 		Happy Halloween (Common VoiceLine)
 			Available in Halloween Loot Boxes
+		Trick or treat (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Kadomatsu (Common Spray)
 			Available in Winter Loot Boxes
@@ -2815,6 +2840,10 @@ Unlocks for McCree
 		I hear you, pumpkin (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Van Helsing (Rare Icon)
+			Available in Halloween Loot Boxes
+		Trick or treat (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Undead (Epic Skin)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ugly Sweater (Common Spray)
@@ -3402,6 +3431,12 @@ Unlocks for Soldier: 76
 			Available in Halloween Loot Boxes
 		Trick or treat (Common VoiceLine)
 			Available in Halloween Loot Boxes
+		Slasher: 76 (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Slasher (Rare Icon)
+			Available in Halloween Loot Boxes
+		Slasher (Common Spray)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Army Man: 76 (Common Spray)
 			Available in Winter Loot Boxes
@@ -3593,6 +3628,8 @@ Unlocks for Lúcio
 		Pumpkin Control (Rare VictoryPose)
 			Available in Halloween Loot Boxes
 		So good it's scary! (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Trick or treat (Common VoiceLine)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Hockey (Common Spray)
@@ -3806,6 +3843,8 @@ Unlocks for D.Va
 			Available in Halloween Loot Boxes
 		I'm not scared (Common VoiceLine)
 			Available in Halloween Loot Boxes
+		Pumpkin Selfie (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		COOKIE (Common Spray)
 			Available in Winter Loot Boxes
@@ -3995,6 +4034,8 @@ Unlocks for Mei
 		Did you hear something? (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Jiangshi (Rare Icon)
+			Available in Halloween Loot Boxes
+		Pumpkin (Epic Skin)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Sculpting (Common Spray)
@@ -4197,6 +4238,12 @@ Unlocks for Sombra
 			Available in Halloween Loot Boxes
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
+		Bride (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Bride (Rare Icon)
+			Available in Halloween Loot Boxes
+		Servants (Common Spray)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Puppet (Common Spray)
 			Available in Winter Loot Boxes
@@ -4374,6 +4421,14 @@ Unlocks for Doomfist
 		You should be scared (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
+		Swamp Monster (Common Spray)
+			Available in Halloween Loot Boxes
+		Swamp Monster (Rare Icon)
+			Available in Halloween Loot Boxes
+		Swamp Monster (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Punch (Common Spray)
@@ -4951,6 +5006,17 @@ Unlocks for Brigitte
 			Available in Summer Games Loot Boxes
 		Dare to Lindholm (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+	Halloween Unlocks
+		Supposed to scare me (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Not scared, are you (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Shield Bash (Epic HighlightIntro)
+			Available in Halloween Loot Boxes
+		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
+		Pumpkin (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 	Archives Unlocks
 		Kneel (Rare VictoryPose)
 			Available in Archives Loot Boxes
@@ -5099,6 +5165,21 @@ Unlocks for Moira
 			Available in Summer Games Loot Boxes
 		Better living through science (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+	Halloween Unlocks
+		Banshee (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Happy halloween (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Despair has its own calms (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Banshee (Rare Icon)
+			Available in Halloween Loot Boxes
+		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
+		Banshee (Common Spray)
+			Available in Halloween Loot Boxes
+		Pumpkin (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Chimney (Common Spray)
 			Available in Winter Loot Boxes
@@ -5293,6 +5374,21 @@ Unlocks for Wrecking Ball
 			Available in Summer Games Loot Boxes
 		Be the ball (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+	Halloween Unlocks
+		Trick or treat (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Heart rate increasing (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Jack-o'-lantern (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Scarecrow (Rare Icon)
+			Available in Halloween Loot Boxes
+		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
+		Jack-o'-lantern (Common Spray)
+			Available in Halloween Loot Boxes
+		Nibbling (Rare VictoryPose)
+			Available in Halloween Loot Boxes
 
 Unlocks for Enforcer
 	Other Unlocks
@@ -5304,4 +5400,4 @@ Unlocks for Enforcer
 
 Unlocks for Boat
 
-[Core] Execution finished in 00:00:01.3072606 seconds
+[Core] Execution finished in 00:00:01.3463706 seconds

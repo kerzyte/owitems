@@ -1,10 +1,10 @@
-[Core] DataTool v1.28.0.781-git-8137fdaff2056a1c4653c7177a73806d9cc503d9
+[Core] DataTool v1.29.0.783-git-d8951c347eceb847c252dbfb3a87c83ca31d4686
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\781\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.28.0.1.50951
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\783\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.29.0.1.51878
 [CASC] Initializing...
-[CMF] Using CMF procedure 50483
-[CMF] Using CMF procedure 50483
+[CMF] Using CMF procedure 51575
+[CMF] Using CMF procedure 51575
 [CASC] Mapping assets...
 [CASC] Ready
 [Core] Checking ResourceKeys
@@ -52,6 +52,8 @@
 			Unlocked by completing Competitive Deathmatch placement matches
 		Competitive 3v3 Group Elimination Competitor (Rare Icon)
 			Unlocked by completing Competitive 3v3 Group Elimination placement matches
+		Competitive Team Deathmatch Competitor (Rare Icon)
+			Unlocked by completing Competitive Team Deathmatch placement matches
 		Season 1 Hero (Rare Icon)
 		Season 2 Hero (Rare Icon)
 		Season 3 Hero (Rare Icon)
@@ -76,6 +78,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch
 		Competitive 3v3 Group Elimination Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
+		Competitive Team Deathmatch Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch
 		Season 1 Competitor (Common Spray)
 			Unlocked by completing Season 1 placement matches
 		Season 2 Competitor (Common Spray)
@@ -112,6 +116,8 @@
 			Unlocked by completing Competitive Deathmatch placement matches
 		Competitive 3v3 Group Elimination Competitor (Common Spray)
 			Unlocked by completing Competitive 3v3 Group Elimination placement matches
+		Competitive Team Deathmatch Competitor (Common Spray)
+			Unlocked by completing Competitive Team Deathmatch placement matches
 		Season 1 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking during Season 1
 		Season 2 Hero (Common Spray)
@@ -148,6 +154,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch
 		Competitive 3v3 Group Elimination Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
+		Competitive Team Deathmatch Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch
 		Dark Wanderer (Rare Icon)
 			Unlocked as part of the Diablo 20th Anniversary celebration
 		Wizard (Common Spray)
@@ -193,6 +201,13 @@
 		The Reaper (Common Spray)
 			
 		The Witch (Common Spray)
+			
+		Halloween Terror 2018 (Rare Icon)
+		Flaming Pumpkin (Common Spray)
+			
+		Zomnic (Common Spray)
+			
+		Zombardier (Common Spray)
 			
 		Winter Wonderland 2016 (Rare Icon)
 			Available in Winter Loot Boxes
@@ -246,6 +261,8 @@
 			
 		Droppachi (Common Spray)
 			
+		Summer Games 2018 (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Anniversary 2017 (Rare Icon)
 			Available in Anniversary Loot Boxes
 		Anniversary 2018 (Rare Icon)
@@ -272,8 +289,6 @@
 			Unlocked by participating in the 2018 OWL Grand Finals event
 		Living Room (Common Spray)
 			Unlocked by participating in the 2018 OWL Grand Finals event
-		Summer Games 2018 (Rare Icon)
-			Available in Summer Games Loot Boxes
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -475,9 +490,15 @@
 			Available in Halloween Loot Boxes
 		Boop! (Common Spray)
 			Available in Halloween Loot Boxes
+		Pachimummy (Rare Icon)
+			Available in Halloween Loot Boxes
 		Junkenstein's Pachimonster (Rare Icon)
 			Available in Halloween Loot Boxes
-		Pachimummy (Rare Icon)
+		Skelemari (Rare Icon)
+			Available in Halloween Loot Boxes
+		Witchymari (Rare Icon)
+			Available in Halloween Loot Boxes
+		Pumpkimari (Rare Icon)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Globe (Rare Icon)
@@ -1136,4 +1157,4 @@
 		000000000F40.0A5 (Common PortraitFrame)
 	Level 2391 Unlocks
 		000000000F41.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.4871920 seconds
+[Core] Execution finished in 00:00:00.5412247 seconds
