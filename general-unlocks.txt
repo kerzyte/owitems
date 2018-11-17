@@ -1,11 +1,10 @@
-[Core] DataTool v1.29.0.783-git-d8951c347eceb847c252dbfb3a87c83ca31d4686
+[Core] DataTool v1.30.0.792-git-cb0d4f3b29b2ca7a9a3c8af0a2f08f323047564e
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\783\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.29.0.1.51878
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\792\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.30.0.1.52926
 [CASC] Initializing...
-[CMF] Using CMF procedure 51575
-[CMF] Using CMF procedure 51575
-[CASC] Mapping assets...
+[CMF] Using CMF procedure 52926
+[CMF] Using CMF procedure 52926
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -40,6 +39,7 @@
 		Season 10 Competitor (Rare Icon)
 		Season 11 Competitor (Rare Icon)
 		Season 12 Competitor (Rare Icon)
+		Season 13 Competitor (Rare Icon)
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -66,6 +66,7 @@
 		Season 10 Hero (Rare Icon)
 		Season 11 Hero (Rare Icon)
 		Season 12 Hero (Rare Icon)
+		Season 13 Hero (Rare Icon)
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -104,6 +105,8 @@
 			Unlocked by completing Season 11 placement matches
 		Season 12 Competitor (Common Spray)
 			Unlocked by completing Season 12 placement matches
+		Season 13 Competitor (Common Spray)
+			Unlocked by completing Season 13 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -142,6 +145,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 11
 		Season 12 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 12
+		Season 13 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 13
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -175,94 +180,57 @@
 		Summer Games 2016 (Common Spray)
 			Unlocked with Summer Games 2016
 		Goal Blossom (Common Spray)
-			
 		Safe Hands (Common Spray)
-			
 		Bicycle Kick (Common Spray)
-			
 		Summer Games 2017 (Rare Icon)
 			Available in Summer Games Loot Boxes
 		Halloween Terror 2016 (Rare Icon)
 			Available in Halloween Loot Boxes
 		Junkenstein's Revenge (Common Spray)
-			
 		Rise of the Zomnics (Common Spray)
-			
 		The Reapening (Common Spray)
-			
 		Halloween Special (Common Spray)
-			
 		Halloween Terror 2017 (Rare Icon)
 			Available in Halloween Loot Boxes
 		My Creations (Common Spray)
-			
 		The Monster (Common Spray)
-			
 		The Reaper (Common Spray)
-			
 		The Witch (Common Spray)
-			
 		Halloween Terror 2018 (Rare Icon)
 		Flaming Pumpkin (Common Spray)
-			
 		Zomnic (Common Spray)
-			
 		Zombardier (Common Spray)
-			
 		Winter Wonderland 2016 (Rare Icon)
 			Available in Winter Loot Boxes
 		Snowcree (Common Spray)
-			
 		Snowmei (Common Spray)
-			
 		Snowreaper (Common Spray)
-			
 		Snowhog (Common Spray)
-			
 		Yeti Hunter (Common Spray)
-			
 		Yeti (Common Spray)
-			
 		Winter Wonderland 2017 (Rare Icon)
 			Available in Winter Loot Boxes
 		Year of the Rooster 2017 (Rare Icon)
-			Available in Lunar Loot Boxes
 		Awakened Lion (Common Spray)
-			
 		Auspicious Lion (Common Spray)
-			
 		Year of the Dog 2018 (Rare Icon)
 			Available in Lunar Loot Boxes
 		Eradicator (Common Spray)
-			
 		Nulltrooper (Common Spray)
-			
 		B73-NS (Common Spray)
-			
 		Slicer (Common Spray)
-			
 		Nullmari (Common Spray)
-			
 		OR14-NS (Common Spray)
-			
 		Uprising 2017 (Rare Icon)
 			Available in Archives Loot Boxes
 		Archives 2018 (Rare Icon)
 			Available in Archives Loot Boxes
 		Talon Trooper (Common Spray)
-			
 		Talon Enforcer (Common Spray)
-			
 		Talon Sniper (Common Spray)
-			
 		Talon Assassin (Common Spray)
-			
 		Talon Heavy Assault (Common Spray)
-			
 		Droppachi (Common Spray)
-			
-		Summer Games 2018 (Rare Icon)
-			Available in Summer Games Loot Boxes
 		Anniversary 2017 (Rare Icon)
 			Available in Anniversary Loot Boxes
 		Anniversary 2018 (Rare Icon)
@@ -279,6 +247,8 @@
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Sylvanas (Common Spray)
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
+		Summer Games 2018 (Rare Icon)
+			Available in Summer Games Loot Boxes
 		Inaugural Season (Rare Icon)
 		Inaugural Season (Common Spray)
 		#1 Fan (Common Spray)
@@ -591,7 +561,6 @@
 		Lucky Pouch (Common Spray)
 			Available in Lunar Loot Boxes
 		Good Fortune (Rare Icon)
-			Available in Lunar Loot Boxes
 		Paqingmari (Rare Icon)
 			Available in Lunar Loot Boxes
 		Paquemari (Rare Icon)
@@ -1157,4 +1126,124 @@
 		000000000F40.0A5 (Common PortraitFrame)
 	Level 2391 Unlocks
 		000000000F41.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.5412247 seconds
+	Level 2401 Unlocks
+		000000000F98.0A5 (Common PortraitFrame)
+	Level 2411 Unlocks
+		000000000F9E.0A5 (Common PortraitFrame)
+	Level 2421 Unlocks
+		000000000FA4.0A5 (Common PortraitFrame)
+	Level 2431 Unlocks
+		000000000FAA.0A5 (Common PortraitFrame)
+	Level 2441 Unlocks
+		000000000FB0.0A5 (Common PortraitFrame)
+	Level 2451 Unlocks
+		000000000FB6.0A5 (Common PortraitFrame)
+	Level 2461 Unlocks
+		000000000FBC.0A5 (Common PortraitFrame)
+	Level 2471 Unlocks
+		000000000FC2.0A5 (Common PortraitFrame)
+	Level 2481 Unlocks
+		000000000FC8.0A5 (Common PortraitFrame)
+	Level 2491 Unlocks
+		000000000F92.0A5 (Common PortraitFrame)
+	Level 2501 Unlocks
+		000000000F99.0A5 (Common PortraitFrame)
+	Level 2511 Unlocks
+		000000000F9F.0A5 (Common PortraitFrame)
+	Level 2521 Unlocks
+		000000000FA5.0A5 (Common PortraitFrame)
+	Level 2531 Unlocks
+		000000000FAB.0A5 (Common PortraitFrame)
+	Level 2541 Unlocks
+		000000000FB1.0A5 (Common PortraitFrame)
+	Level 2551 Unlocks
+		000000000FB7.0A5 (Common PortraitFrame)
+	Level 2561 Unlocks
+		000000000FBD.0A5 (Common PortraitFrame)
+	Level 2571 Unlocks
+		000000000FC3.0A5 (Common PortraitFrame)
+	Level 2581 Unlocks
+		000000000FC9.0A5 (Common PortraitFrame)
+	Level 2591 Unlocks
+		000000000F93.0A5 (Common PortraitFrame)
+	Level 2601 Unlocks
+		000000000F9A.0A5 (Common PortraitFrame)
+	Level 2611 Unlocks
+		000000000FA0.0A5 (Common PortraitFrame)
+	Level 2621 Unlocks
+		000000000FA6.0A5 (Common PortraitFrame)
+	Level 2631 Unlocks
+		000000000FAC.0A5 (Common PortraitFrame)
+	Level 2641 Unlocks
+		000000000FB2.0A5 (Common PortraitFrame)
+	Level 2651 Unlocks
+		000000000FB8.0A5 (Common PortraitFrame)
+	Level 2661 Unlocks
+		000000000FBE.0A5 (Common PortraitFrame)
+	Level 2671 Unlocks
+		000000000FC4.0A5 (Common PortraitFrame)
+	Level 2681 Unlocks
+		000000000FCA.0A5 (Common PortraitFrame)
+	Level 2691 Unlocks
+		000000000F94.0A5 (Common PortraitFrame)
+	Level 2701 Unlocks
+		000000000F9B.0A5 (Common PortraitFrame)
+	Level 2711 Unlocks
+		000000000FA1.0A5 (Common PortraitFrame)
+	Level 2721 Unlocks
+		000000000FA7.0A5 (Common PortraitFrame)
+	Level 2731 Unlocks
+		000000000FAD.0A5 (Common PortraitFrame)
+	Level 2741 Unlocks
+		000000000FB3.0A5 (Common PortraitFrame)
+	Level 2751 Unlocks
+		000000000FB9.0A5 (Common PortraitFrame)
+	Level 2761 Unlocks
+		000000000FBF.0A5 (Common PortraitFrame)
+	Level 2771 Unlocks
+		000000000FC5.0A5 (Common PortraitFrame)
+	Level 2781 Unlocks
+		000000000FCB.0A5 (Common PortraitFrame)
+	Level 2791 Unlocks
+		000000000F95.0A5 (Common PortraitFrame)
+	Level 2801 Unlocks
+		000000000F9C.0A5 (Common PortraitFrame)
+	Level 2811 Unlocks
+		000000000FA2.0A5 (Common PortraitFrame)
+	Level 2821 Unlocks
+		000000000FA8.0A5 (Common PortraitFrame)
+	Level 2831 Unlocks
+		000000000FAE.0A5 (Common PortraitFrame)
+	Level 2841 Unlocks
+		000000000FB4.0A5 (Common PortraitFrame)
+	Level 2851 Unlocks
+		000000000FBA.0A5 (Common PortraitFrame)
+	Level 2861 Unlocks
+		000000000FC0.0A5 (Common PortraitFrame)
+	Level 2871 Unlocks
+		000000000FC6.0A5 (Common PortraitFrame)
+	Level 2881 Unlocks
+		000000000FCC.0A5 (Common PortraitFrame)
+	Level 2891 Unlocks
+		000000000F96.0A5 (Common PortraitFrame)
+	Level 2901 Unlocks
+		000000000F9D.0A5 (Common PortraitFrame)
+	Level 2911 Unlocks
+		000000000FA3.0A5 (Common PortraitFrame)
+	Level 2921 Unlocks
+		000000000FA9.0A5 (Common PortraitFrame)
+	Level 2931 Unlocks
+		000000000FAF.0A5 (Common PortraitFrame)
+	Level 2941 Unlocks
+		000000000FB5.0A5 (Common PortraitFrame)
+	Level 2951 Unlocks
+		000000000FBB.0A5 (Common PortraitFrame)
+	Level 2961 Unlocks
+		000000000FC1.0A5 (Common PortraitFrame)
+	Level 2971 Unlocks
+		000000000FC7.0A5 (Common PortraitFrame)
+	Level 2981 Unlocks
+		000000000FCD.0A5 (Common PortraitFrame)
+	Level 2991 Unlocks
+		000000000F97.0A5 (Common PortraitFrame)
+[Core] Execution finished in 00:00:01.2497127 seconds

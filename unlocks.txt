@@ -1,11 +1,10 @@
-[Core] DataTool v1.29.0.783-git-d8951c347eceb847c252dbfb3a87c83ca31d4686
+[Core] DataTool v1.30.0.792-git-cb0d4f3b29b2ca7a9a3c8af0a2f08f323047564e
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\783\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.29.0.1.51878
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\792\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.30.0.1.52926
 [CASC] Initializing...
-[CMF] Using CMF procedure 51575
-[CMF] Using CMF procedure 51575
-[CASC] Mapping assets...
+[CMF] Using CMF procedure 52926
+[CMF] Using CMF procedure 52926
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -4176,14 +4175,10 @@ Unlocks for Sombra
 		Virus (Epic Skin)
 		Los Muertos (Legendary Skin)
 			Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos.
-			
 		Azúcar (Legendary Skin)
 			Orphaned after the Omnic Crisis, a young Sombra found a willing buyer for her hacking ability in Los Muertos.
-			
 		Cyberspace (Legendary Skin)
-			
 		Augmented (Legendary Skin)
-			
 		Marionette (Common Spray)
 		Calavera (Common Spray)
 		Neural (Common Spray)
@@ -5400,4 +5395,112 @@ Unlocks for Enforcer
 
 Unlocks for Boat
 
-[Core] Execution finished in 00:00:01.3463706 seconds
+Unlocks for Ashe
+	Default Unlocks
+		Heroic (Common VictoryPose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		DEFAULT (Common WeaponSkin)
+		Classic (Common Skin)
+		We have an understanding (Common VoiceLine)
+		Heroic (Common Emote)
+	Other Unlocks
+		Cute (Common Spray)
+		Pixel (Common Spray)
+		GOLDEN (Common WeaponSkin)
+		Loot (Common Spray)
+			Unlocked by watching participating streams during the November 2018 Free Trial
+		Road Closed (Common Spray)
+			Unlocked by watching participating streams during the November 2018 Free Trial
+		Triplets (Common Spray)
+			Unlocked by watching participating streams during the November 2018 Free Trial
+	OWL Unlocks
+		Boston Uprising (Epic Skin)
+		Boston Uprising Away (Epic Skin)
+		Dallas Fuel (Epic Skin)
+		Dallas Fuel Away (Epic Skin)
+		Florida Mayhem (Epic Skin)
+		Florida Mayhem Away (Epic Skin)
+		Houston Outlaws (Epic Skin)
+		Houston Outlaws Away (Epic Skin)
+		London Spitfire (Epic Skin)
+		London Spitfire Away (Epic Skin)
+		Los Angeles Gladiators (Epic Skin)
+		Los Angeles Gladiators Away (Epic Skin)
+		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant Away (Epic Skin)
+		New York Excelsior (Epic Skin)
+		New York Excelsior Away (Epic Skin)
+		Philadelphia Fusion (Epic Skin)
+		Philadelphia Fusion Away (Epic Skin)
+		San Francisco Shock (Epic Skin)
+		San Francisco Shock Away (Epic Skin)
+		Seoul Dynasty (Epic Skin)
+		Seoul Dynasty Away (Epic Skin)
+		Shanghai Dragons (Epic Skin)
+		Shanghai Dragons Away (Epic Skin)
+		Overwatch League Gray (Epic Skin)
+		Overwatch League White (Epic Skin)
+	Base Unlocks
+		Ashe (Rare Icon)
+		Bob (Rare Icon)
+		Deadlock Rebels (Rare Icon)
+		Flourish (Epic Emote)
+		Slow Clap (Epic Emote)
+		Dynamite (Epic Emote)
+		Laugh (Epic Emote)
+		Take a Knee (Epic Emote)
+		Bullet Walk (Epic HighlightIntro)
+		Ashe and Bob (Epic HighlightIntro)
+		Standoff (Epic HighlightIntro)
+		Life's little pleasures (Common VoiceLine)
+		That's rich (Common VoiceLine)
+		I run this show (Common VoiceLine)
+		How do you even live (Common VoiceLine)
+		I'm a rebel (Common VoiceLine)
+		Burn it all down (Common VoiceLine)
+		This is a stick up (Common VoiceLine)
+		Watch your language (Common VoiceLine)
+		Try and keep it together (Common VoiceLine)
+		Need me to repeat myself? (Common VoiceLine)
+		Over the Shoulder (Rare VictoryPose)
+		Relaxing (Rare VictoryPose)
+		Kneeling (Rare VictoryPose)
+		Mobster (Legendary Skin)
+		Safari (Legendary Skin)
+		Gangster (Legendary Skin)
+		Jungle (Legendary Skin)
+		Tansy (Rare Skin)
+		Paintbrush (Rare Skin)
+		Yucca (Rare Skin)
+		Sunflower (Rare Skin)
+		Thorn (Epic Skin)
+		Posh (Epic Skin)
+		Icon (Common Spray)
+		Sweat (Common Spray)
+		Moustache (Common Spray)
+		Wanted (Common Spray)
+		Bandit (Common Spray)
+		Tea Time (Common Spray)
+		Rebels (Common Spray)
+		Gotcha (Common Spray)
+		Hurry (Common Spray)
+		Exchange (Common Spray)
+		Getaway (Common Spray)
+		Fire in the Hole (Common Spray)
+		Relaxed (Common Spray)
+		Butler (Common Spray)
+		Taking Aim (Common Spray)
+		Bullet (Common Spray)
+		Outline (Common Spray)
+		Tie (Common Spray)
+		Bowler (Common Spray)
+		Back-to-Back (Common Spray)
+		Bike (Common Spray)
+		Firing (Common Spray)
+		Dashing (Common Spray)
+		Just taking out the trash (Common VoiceLine)
+
+Unlocks for Bob
+
+[Core] Execution finished in 00:00:02.4299978 seconds
