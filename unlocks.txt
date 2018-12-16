@@ -1,10 +1,10 @@
-[Core] DataTool v1.30.0.792-git-cb0d4f3b29b2ca7a9a3c8af0a2f08f323047564e
+[Core] DataTool v1.31.0.794-git-7e1040677d0ea05b0ea72b1ee2352229f52915c7
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\792\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.30.0.1.52926
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\794\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.31.0.1.53537
 [CASC] Initializing...
-[CMF] Using CMF procedure 52926
-[CMF] Using CMF procedure 52926
+[CMF] Using CMF procedure 53537
+[CMF] Using CMF procedure 53537
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -26,31 +26,57 @@ Unlocks for Reaper
 			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Reaper (Rare Icon)
 		Soul (Rare Icon)
@@ -163,6 +189,8 @@ Unlocks for Reaper
 			Available in Winter Loot Boxes
 		You're on ice (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fire Blossom (Common Spray)
 			Available in Lunar Loot Boxes
@@ -222,31 +250,57 @@ Unlocks for Tracer
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		2018 Atlantic All-Stars (Legendary Skin)
 			Unlocked with purchase of 2018 Atlantic All-Stars skin
 	Base Unlocks
@@ -355,6 +409,8 @@ Unlocks for Tracer
 			Available in Winter Loot Boxes
 		Ho ho ho! (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fan Dance (Common Spray)
 			Available in Lunar Loot Boxes
@@ -433,31 +489,57 @@ Unlocks for Mercy
 			Unlocked by participating in the 2018 BCRF charity event
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Mercy (Rare Icon)
 		Guardian Angel (Rare Icon)
@@ -566,6 +648,10 @@ Unlocks for Mercy
 			Available in Winter Loot Boxes
 		I could use the time off (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Sugar Plum Fairy (Legendary Skin)
+			Available in Winter Loot Boxes
+		Sugar Plum Fairy (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Parasol (Common Spray)
 			Available in Lunar Loot Boxes
@@ -626,31 +712,57 @@ Unlocks for Hanzo
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Hanzo (Rare Icon)
 		Storm (Rare Icon)
@@ -755,6 +867,8 @@ Unlocks for Hanzo
 			Available in Winter Loot Boxes
 		Casual (Rare Icon)
 			Available in Winter Loot Boxes
+		Out Cold (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Blue Dragon (Common Spray)
 			Available in Lunar Loot Boxes
@@ -815,31 +929,57 @@ Unlocks for Torbjörn
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Torbjörn (Rare Icon)
 		Forge (Rare Icon)
@@ -947,6 +1087,8 @@ Unlocks for Torbjörn
 			Available in Winter Loot Boxes
 		Expert craftsmanship (Common VoiceLine)
 			Available in Winter Loot Boxes
+		My Babies (Epic Emote)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Gold (Common Spray)
 			Available in Lunar Loot Boxes
@@ -1007,31 +1149,57 @@ Unlocks for Reinhardt
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Reinhardt (Rare Icon)
 		Scar (Rare Icon)
@@ -1139,6 +1307,8 @@ Unlocks for Reinhardt
 			Available in Winter Loot Boxes
 		Forgive and forget (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Festive (Epic Skin)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Lion Dance (Common Spray)
 			Available in Lunar Loot Boxes
@@ -1200,31 +1370,57 @@ Unlocks for Pharah
 			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Pharah (Rare Icon)
 		Raptora (Rare Icon)
@@ -1333,6 +1529,8 @@ Unlocks for Pharah
 			Available in Winter Loot Boxes
 		At ease (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Cool It (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Happy New Year (Common Spray)
 			Available in Lunar Loot Boxes
@@ -1388,31 +1586,57 @@ Unlocks for Winston
 			Unlocked as part of the BlizzCon 2017 In-Game Goodies
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Winston (Rare Icon)
 		Peanut Butter (Rare Icon)
@@ -1519,6 +1743,8 @@ Unlocks for Winston
 			Available in Winter Loot Boxes
 		Party mode engaged (Common VoiceLine)
 			Available in Winter Loot Boxes
+		I'm a Party Animal (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Kite (Common Spray)
 			Available in Lunar Loot Boxes
@@ -1583,31 +1809,57 @@ Unlocks for Widowmaker
 			Unlocked as part of the StarCraft 20th Anniversary Celebration
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Widowmaker (Rare Icon)
 		Grappling Hook (Rare Icon)
@@ -1712,6 +1964,12 @@ Unlocks for Widowmaker
 			Available in Winter Loot Boxes
 		Merry Christmas (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Biathlon (Rare Icon)
+			Available in Winter Loot Boxes
+		Biathlon (Legendary Skin)
+			Available in Winter Loot Boxes
+		Happy Holidays (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Hairpin (Common Spray)
 			Available in Lunar Loot Boxes
@@ -1775,31 +2033,57 @@ Unlocks for Bastion
 			Unlocked as part of the BlizzCon 2016 Goody Bag
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Bastion (Rare Icon)
 		Tank Crossing (Rare Icon)
@@ -1903,6 +2187,8 @@ Unlocks for Bastion
 			Available in Winter Loot Boxes
 		Avalanche (Rare Icon)
 			Available in Winter Loot Boxes
+		Gift Wrap (Epic Skin)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Bast-yum (Common Spray)
 			Available in Lunar Loot Boxes
@@ -1963,31 +2249,57 @@ Unlocks for Symmetra
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Symmetra (Rare Icon)
 		Vishkar (Rare Icon)
@@ -2093,6 +2405,10 @@ Unlocks for Symmetra
 			Available in Winter Loot Boxes
 		Expecting a miracle? (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Figure Skater (Legendary Skin)
+			Available in Winter Loot Boxes
+		Figure Skater (Rare Icon)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Lantern (Common Spray)
 			Available in Lunar Loot Boxes
@@ -2152,31 +2468,57 @@ Unlocks for Zenyatta
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Zenyatta (Rare Icon)
 		Harmony (Rare Icon)
@@ -2288,6 +2630,8 @@ Unlocks for Zenyatta
 			Available in Winter Loot Boxes
 		Snowflake (Epic Emote)
 			Available in Winter Loot Boxes
+		Snowball Fight? (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Yut Nori (Common Spray)
 			Available in Lunar Loot Boxes
@@ -2341,31 +2685,57 @@ Unlocks for Genji
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Genji (Rare Icon)
 		Nin (Rare Icon)
@@ -2470,6 +2840,8 @@ Unlocks for Genji
 			Available in Winter Loot Boxes
 		Count your blessings (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Paper Stars (Epic Emote)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Green Dragon (Common Spray)
 			Available in Lunar Loot Boxes
@@ -2531,31 +2903,57 @@ Unlocks for Roadhog
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Roadhog (Rare Icon)
 		Hook (Rare Icon)
@@ -2725,31 +3123,57 @@ Unlocks for McCree
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		McCree (Rare Icon)
 		Badge (Rare Icon)
@@ -2924,31 +3348,57 @@ Unlocks for Junkrat
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Junkrat (Rare Icon)
 		Have a Nice Day! (Rare Icon)
@@ -3060,6 +3510,14 @@ Unlocks for Junkrat
 			Available in Winter Loot Boxes
 		Beachrat (Rare Icon)
 			Available in Winter Loot Boxes
+		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
+		Happy Holidays (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Krampus (Rare Icon)
+			Available in Winter Loot Boxes
+		Krampus (Legendary Skin)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		I'm flying! (Common Spray)
 			Available in Lunar Loot Boxes
@@ -3119,31 +3577,57 @@ Unlocks for Zarya
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Zarya (Rare Icon)
 		Particle Barrier (Rare Icon)
@@ -3255,6 +3739,12 @@ Unlocks for Zarya
 			Available in Winter Loot Boxes
 		Cool it (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Is It Cold in Here? (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Snowboarder (Rare Icon)
+			Available in Winter Loot Boxes
+		Snowboarder (Legendary Skin)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Calories (Common Spray)
 			Available in Lunar Loot Boxes
@@ -3315,31 +3805,57 @@ Unlocks for Soldier: 76
 			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Soldier: 76 (Rare Icon)
 		Strike Commander (Rare Icon)
@@ -3504,31 +4020,57 @@ Unlocks for Lúcio
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dance Party (Legendary Emote)
 	Base Unlocks
 		Lúcio (Rare Icon)
@@ -3642,6 +4184,10 @@ Unlocks for Lúcio
 			Available in Winter Loot Boxes
 		Climbing the charts! (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Snow Fox (Rare Icon)
+			Available in Winter Loot Boxes
+		Snow Fox (Legendary Skin)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Keep Ups (Common Spray)
 			Available in Lunar Loot Boxes
@@ -3723,31 +4269,57 @@ Unlocks for D.Va
 			Unlocked by participating in D.Va's Nano Cola Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		D.Va (Rare Icon)
 		Bunny (Rare Icon)
@@ -3914,31 +4486,57 @@ Unlocks for Mei
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Mei (Rare Icon)
 		Snowball (Rare Icon)
@@ -4049,6 +4647,8 @@ Unlocks for Mei
 			Available in Winter Loot Boxes
 		Don't you love surprises (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Snowball Fight! (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortune (Common Spray)
 			Available in Lunar Loot Boxes
@@ -4116,31 +4716,57 @@ Unlocks for Sombra
 			Unlocked as part of the BlizzCon 2018 In-Game Goodies
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Sombra (Rare Icon)
 		Skull (Rare Icon)
@@ -4254,6 +4880,8 @@ Unlocks for Sombra
 			Available in Winter Loot Boxes
 		Rime (Rare Icon)
 			Available in Winter Loot Boxes
+		Merry Christmas (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortunate (Common Spray)
 			Available in Lunar Loot Boxes
@@ -4308,31 +4936,57 @@ Unlocks for Doomfist
 		Pixel (Common Spray)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Doomfist (Rare Icon)
 		Fist (Rare Icon)
@@ -4434,6 +5088,8 @@ Unlocks for Doomfist
 			Available in Winter Loot Boxes
 		They say chivalry is dead (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortune favors the bold (Common VoiceLine)
 			Available in Lunar Loot Boxes
@@ -4496,31 +5152,57 @@ Unlocks for Ana
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Ana (Rare Icon)
 		Wedjat (Rare Icon)
@@ -4688,31 +5370,57 @@ Unlocks for Orisa
 		GOLDEN (Common WeaponSkin)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Orisa (Rare Icon)
 		Protector (Rare Icon)
@@ -4905,31 +5613,57 @@ Unlocks for Brigitte
 		Pixel (Common Spray)
 	OWL Unlocks
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Katt (Rare Icon)
 		Rally (Rare Icon)
@@ -5012,6 +5746,17 @@ Unlocks for Brigitte
 			Available in Halloween Loot Boxes
 		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
+	Winter Unlocks
+		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
+		Knitting (Common Spray)
+			Available in Winter Loot Boxes
+		Ornament (Common Spray)
+			Available in Winter Loot Boxes
+		Merry Christmas (Common VoiceLine)
+			Available in Winter Loot Boxes
+		I Made That Just for You (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Archives Unlocks
 		Kneel (Rare VictoryPose)
 			Available in Archives Loot Boxes
@@ -5056,31 +5801,57 @@ Unlocks for Moira
 		Pixel (Common Spray)
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Moira (Rare Icon)
 		Knot (Rare Icon)
@@ -5184,6 +5955,10 @@ Unlocks for Moira
 			Available in Winter Loot Boxes
 		Absolute zero (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
+		The Gift of Knowledge (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Sláinte (Common VoiceLine)
 			Available in Lunar Loot Boxes
@@ -5272,31 +6047,57 @@ Unlocks for Wrecking Ball
 		Pixel (Common Spray)
 	OWL Unlocks
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Wrecking Ball (Rare Icon)
 		Rolling (Rare Icon)
@@ -5384,6 +6185,17 @@ Unlocks for Wrecking Ball
 			Available in Halloween Loot Boxes
 		Nibbling (Rare VictoryPose)
 			Available in Halloween Loot Boxes
+	Winter Unlocks
+		Stocking (Common Spray)
+			Available in Winter Loot Boxes
+		Ornament (Common Spray)
+			Available in Winter Loot Boxes
+		Festive (Epic HighlightIntro)
+			Available in Winter Loot Boxes
+		Ho. Ho. Ho. (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Deck the halls (Common VoiceLine)
+			Available in Winter Loot Boxes
 
 Unlocks for Enforcer
 	Other Unlocks
@@ -5416,31 +6228,57 @@ Unlocks for Ashe
 			Unlocked by watching participating streams during the November 2018 Free Trial
 	OWL Unlocks
 		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
 		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
 		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
 		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
 		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
 		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
 		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
 		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
 		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Ashe (Rare Icon)
 		Bob (Rare Icon)
@@ -5500,7 +6338,18 @@ Unlocks for Ashe
 		Firing (Common Spray)
 		Dashing (Common Spray)
 		Just taking out the trash (Common VoiceLine)
+	Winter Unlocks
+		Snowball Fight (Common Spray)
+			Available in Winter Loot Boxes
+		Ornament (Common Spray)
+			Available in Winter Loot Boxes
+		Winter (Epic Skin)
+			Available in Winter Loot Boxes
+		It's a giving time of year (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Girl Who Has Everything (Common VoiceLine)
+			Available in Winter Loot Boxes
 
 Unlocks for Bob
 
-[Core] Execution finished in 00:00:02.4299978 seconds
+[Core] Execution finished in 00:00:02.5518290 seconds

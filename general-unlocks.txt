@@ -1,10 +1,10 @@
-[Core] DataTool v1.30.0.792-git-cb0d4f3b29b2ca7a9a3c8af0a2f08f323047564e
+[Core] DataTool v1.31.0.794-git-7e1040677d0ea05b0ea72b1ee2352229f52915c7
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\792\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.30.0.1.52926
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\794\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.31.0.1.53537
 [CASC] Initializing...
-[CMF] Using CMF procedure 52926
-[CMF] Using CMF procedure 52926
+[CMF] Using CMF procedure 53537
+[CMF] Using CMF procedure 53537
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -40,6 +40,7 @@
 		Season 11 Competitor (Rare Icon)
 		Season 12 Competitor (Rare Icon)
 		Season 13 Competitor (Rare Icon)
+		Season 14 Competitor (Rare Icon)
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -67,6 +68,7 @@
 		Season 11 Hero (Rare Icon)
 		Season 12 Hero (Rare Icon)
 		Season 13 Hero (Rare Icon)
+		Season 14 Hero (Rare Icon)
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -107,6 +109,8 @@
 			Unlocked by completing Season 12 placement matches
 		Season 13 Competitor (Common Spray)
 			Unlocked by completing Season 13 placement matches
+		Season 14 Competitor (Common Spray)
+			Unlocked by completing Season 14 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -147,6 +151,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 12
 		Season 13 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 13
+		Season 14 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 14
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -259,6 +265,10 @@
 			Unlocked by participating in the 2018 OWL Grand Finals event
 		Living Room (Common Spray)
 			Unlocked by participating in the 2018 OWL Grand Finals event
+		Winter Wonderland 2018 (Rare Icon)
+		Bonk (Common Spray)
+		Frozen Throne (Common Spray)
+		Yeti Rage (Common Spray)
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -518,6 +528,12 @@
 		2018 (Rare Icon)
 			Available in Winter Loot Boxes
 		Yetimari (Rare Icon)
+			Available in Winter Loot Boxes
+		2019 (Rare Icon)
+			Available in Winter Loot Boxes
+		Pachicracker (Rare Icon)
+			Available in Winter Loot Boxes
+		Snowimari (Rare Icon)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Peachimari (Rare Icon)
@@ -1246,4 +1262,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.2497127 seconds
+[Core] Execution finished in 00:00:01.2496905 seconds
