@@ -1,10 +1,10 @@
-[Core] DataTool v1.31.0.794-git-7e1040677d0ea05b0ea72b1ee2352229f52915c7
+[Core] DataTool v1.31.0.797-git-be89b3e52d58b2a6f1987ce4764a9e80511ad5b4
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\794\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.31.0.1.53537
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\797\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.32.0.1.54052
 [CASC] Initializing...
-[CMF] Using CMF procedure 53537
-[CMF] Using CMF procedure 53537
+[CMF] Using CMF procedure 54052
+[CMF] Using CMF procedure 54052
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -76,6 +76,38 @@ Unlocks for Reaper
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Reaper (Rare Icon)
@@ -303,6 +335,38 @@ Unlocks for Tracer
 			Unlocking includes both home and away skins
 		2018 Atlantic All-Stars (Legendary Skin)
 			Unlocked with purchase of 2018 Atlantic All-Stars skin
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Tracer (Rare Icon)
 		Pulse Bomb (Rare Icon)
@@ -425,7 +489,6 @@ Unlocks for Tracer
 		I'm over the moon (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Fireworks (Rare VictoryPose)
-			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Slipstream (Common Spray)
 			Available in Archives Loot Boxes
@@ -539,6 +602,38 @@ Unlocks for Mercy
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Mercy (Rare Icon)
@@ -763,6 +858,38 @@ Unlocks for Hanzo
 			Unlocking includes both home and away skins
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Hanzo (Rare Icon)
 		Storm (Rare Icon)
@@ -979,6 +1106,38 @@ Unlocks for Torbjörn
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Torbjörn (Rare Icon)
@@ -1200,6 +1359,38 @@ Unlocks for Reinhardt
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Reinhardt (Rare Icon)
 		Scar (Rare Icon)
@@ -1302,8 +1493,6 @@ Unlocks for Reinhardt
 		Toast (Rare VictoryPose)
 			Available in Winter Loot Boxes
 		You're on my naughty list (Common VoiceLine)
-			Available in Winter Loot Boxes
-		Snowball Fight (Epic HighlightIntro)
 			Available in Winter Loot Boxes
 		Forgive and forget (Common VoiceLine)
 			Available in Winter Loot Boxes
@@ -1420,6 +1609,38 @@ Unlocks for Pharah
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Pharah (Rare Icon)
@@ -1637,6 +1858,38 @@ Unlocks for Winston
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Winston (Rare Icon)
 		Peanut Butter (Rare Icon)
@@ -1759,7 +2012,6 @@ Unlocks for Winston
 		Moon sweet home (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Sparklers (Rare VictoryPose)
-			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Building (Common Spray)
 			Available in Archives Loot Boxes
@@ -1859,6 +2111,38 @@ Unlocks for Widowmaker
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Widowmaker (Rare Icon)
@@ -1980,11 +2264,9 @@ Unlocks for Widowmaker
 		Barking up the wrong tree (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Black Lily (Legendary Skin)
-			Available in Lunar Loot Boxes
 		Black Lily (Rare Icon)
 			Available in Lunar Loot Boxes
 		Fans (Rare VictoryPose)
-			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Wedding (Common Spray)
 			Available in Archives Loot Boxes
@@ -2083,6 +2365,38 @@ Unlocks for Bastion
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Bastion (Rare Icon)
@@ -2300,6 +2614,38 @@ Unlocks for Symmetra
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Symmetra (Rare Icon)
 		Vishkar (Rare Icon)
@@ -2421,7 +2767,6 @@ Unlocks for Symmetra
 		Cause for celebration (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Fan (Rare VictoryPose)
-			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Student (Common Spray)
 			Available in Archives Loot Boxes
@@ -2518,6 +2863,38 @@ Unlocks for Zenyatta
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Zenyatta (Rare Icon)
@@ -2735,6 +3112,38 @@ Unlocks for Genji
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Genji (Rare Icon)
@@ -2954,6 +3363,38 @@ Unlocks for Roadhog
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Roadhog (Rare Icon)
 		Hook (Rare Icon)
@@ -3082,7 +3523,6 @@ Unlocks for Roadhog
 		It's all gone to the dogs (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Secret Friend (Epic Emote)
-			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Chopper (Common Spray)
 			Available in Archives Loot Boxes
@@ -3173,6 +3613,38 @@ Unlocks for McCree
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		McCree (Rare Icon)
@@ -3293,11 +3765,9 @@ Unlocks for McCree
 		Magistrate (Legendary Skin)
 			Available in Lunar Loot Boxes
 		Spark (Epic HighlightIntro)
-			Available in Lunar Loot Boxes
 		Magistrate (Rare Icon)
 			Available in Lunar Loot Boxes
 		Fire in the Hole (Rare VictoryPose)
-			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Target Practice (Common Spray)
 			Available in Archives Loot Boxes
@@ -3398,6 +3868,38 @@ Unlocks for Junkrat
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Junkrat (Rare Icon)
@@ -3628,6 +4130,38 @@ Unlocks for Zarya
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Zarya (Rare Icon)
 		Particle Barrier (Rare Icon)
@@ -3757,7 +4291,6 @@ Unlocks for Zarya
 		Xuanwu (Legendary Skin)
 			Available in Lunar Loot Boxes
 		Big One (Rare VictoryPose)
-			Available in Lunar Loot Boxes
 	Archives Unlocks
 		We can! (Common Spray)
 			Available in Archives Loot Boxes
@@ -3803,6 +4336,8 @@ Unlocks for Soldier: 76
 		Strike Commander Morrison (Legendary Skin)
 			After the Omnic Crisis, Jack Morrison was promoted to Strike Commander of Overwatch, leading the organization for decades until it was disbanded.
 			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
+		Jack and Vincent (Common Spray)
+			Unlocked by watching participating streams during Ana's Bastet Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -3855,6 +4390,38 @@ Unlocks for Soldier: 76
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Soldier: 76 (Rare Icon)
@@ -4072,6 +4639,38 @@ Unlocks for Lúcio
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Dance Party (Legendary Emote)
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Lúcio (Rare Icon)
 		Kambô (Rare Icon)
@@ -4320,6 +4919,38 @@ Unlocks for D.Va
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		D.Va (Rare Icon)
 		Bunny (Rare Icon)
@@ -4536,6 +5167,38 @@ Unlocks for Mei
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Mei (Rare Icon)
@@ -4767,6 +5430,38 @@ Unlocks for Sombra
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Sombra (Rare Icon)
 		Skull (Rare Icon)
@@ -4987,6 +5682,38 @@ Unlocks for Doomfist
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Doomfist (Rare Icon)
 		Fist (Rare Icon)
@@ -5096,7 +5823,6 @@ Unlocks for Doomfist
 		I'll throw you a bone (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Crushing (Epic Emote)
-			Available in Lunar Loot Boxes
 		Lionfist (Common Spray)
 			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
@@ -5150,6 +5876,19 @@ Unlocks for Ana
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Bastet (Epic Skin)
+			They say that a masked vigilante named Bastet stalks the streets of Cairo, striking fear into the hearts of the corrupt.
+			Unlocked by participating in Ana's Bastet Challenge
+		Kneeling (Rare VictoryPose)
+			Unlocked by participating in Ana's Bastet Challenge
+		Bastet (Rare Icon)
+			Unlocked by participating in Ana's Bastet Challenge
+		Protector (Common Spray)
+			Unlocked by watching participating streams during Ana's Bastet Challenge
+		Mask (Common Spray)
+			Unlocked by watching participating streams during Ana's Bastet Challenge
+		On the Prowl (Common Spray)
+			Unlocked by watching participating streams during Ana's Bastet Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -5202,6 +5941,38 @@ Unlocks for Ana
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Ana (Rare Icon)
@@ -5420,6 +6191,38 @@ Unlocks for Orisa
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Orisa (Rare Icon)
@@ -5664,6 +6467,38 @@ Unlocks for Brigitte
 			Unlocking includes both home and away skins
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Katt (Rare Icon)
 		Rally (Rare Icon)
@@ -5851,6 +6686,38 @@ Unlocks for Moira
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
 		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 	Base Unlocks
 		Moira (Rare Icon)
@@ -6098,6 +6965,38 @@ Unlocks for Wrecking Ball
 			Unlocking includes both home and away skins
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Wrecking Ball (Rare Icon)
 		Rolling (Rare Icon)
@@ -6279,6 +7178,38 @@ Unlocks for Ashe
 			Unlocking includes both home and away skins
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
 	Base Unlocks
 		Ashe (Rare Icon)
 		Bob (Rare Icon)
@@ -6352,4 +7283,4 @@ Unlocks for Ashe
 
 Unlocks for Bob
 
-[Core] Execution finished in 00:00:02.5518290 seconds
+[Core] Execution finished in 00:00:03.2057352 seconds

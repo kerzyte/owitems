@@ -1,10 +1,10 @@
-[Core] DataTool v1.31.0.794-git-7e1040677d0ea05b0ea72b1ee2352229f52915c7
+[Core] DataTool v1.31.0.797-git-be89b3e52d58b2a6f1987ce4764a9e80511ad5b4
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\794\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.31.0.1.53537
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\797\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.32.0.1.54052
 [CASC] Initializing...
-[CMF] Using CMF procedure 53537
-[CMF] Using CMF procedure 53537
+[CMF] Using CMF procedure 54052
+[CMF] Using CMF procedure 54052
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -45,8 +45,8 @@
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
 			Unlocked by completing Copa Lúcioball 2018 placement matches
-		Competitive CTF Competitor (Rare Icon)
-			Unlocked by completing Competitive Capture the Flag placement matches
+		Competitive CTF Competitor 2018 (Rare Icon)
+			Unlocked by completing Competitive Capture the Flag 2018 placement matches
 		Competitive 6v6 Elimination Competitor (Rare Icon)
 			Unlocked by completing Competitive 6v6 Elimination placement matches
 		Competitive Deathmatch Competitor (Rare Icon)
@@ -73,8 +73,8 @@
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
-		Competitive CTF Hero (Rare Icon)
-			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag
+		Competitive CTF Hero 2018 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2018
 		Competitive 6v6 Elimination Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination
 		Competitive Deathmatch Hero (Rare Icon)
@@ -115,8 +115,8 @@
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
 			Unlocked by completing Copa Lúcioball 2018 placement matches
-		Competitive CTF Competitor (Common Spray)
-			Unlocked by completing Competitive Capture the Flag placement matches
+		Competitive CTF Competitor 2018 (Common Spray)
+			Unlocked by completing Competitive Capture the Flag 2018 placement matches
 		Competitive 6v6 Elimination Competitor (Common Spray)
 			Unlocked by completing Competitive 6v6 Elimination placement matches
 		Competitive Deathmatch Competitor (Common Spray)
@@ -157,8 +157,8 @@
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
-		Competitive CTF Hero (Common Spray)
-			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag
+		Competitive CTF Hero 2018 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2018
 		Competitive 6v6 Elimination Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination
 		Competitive Deathmatch Hero (Common Spray)
@@ -269,6 +269,8 @@
 		Bonk (Common Spray)
 		Frozen Throne (Common Spray)
 		Yeti Rage (Common Spray)
+		Bastet (Common Spray)
+			Unlocked by watching participating streams during Ana's Bastet Challenge
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -663,6 +665,22 @@
 		Shanghai Dragons Logo (Common Spray)
 		2018 Atlantic All-Stars (Rare Icon)
 		2018 Pacific All-Stars (Rare Icon)
+		Atlanta Reign (Rare Icon)
+		Chengdu Hunters (Rare Icon)
+		Guangzhou Charge (Rare Icon)
+		Hangzhou Spark (Rare Icon)
+		Paris Eternal (Rare Icon)
+		Toronto Defiant (Rare Icon)
+		Vancouver Titans (Rare Icon)
+		Washington Justice (Rare Icon)
+		Atlanta Reign Logo (Common Spray)
+		Chengdu Hunters Logo (Common Spray)
+		Guangzhou Charge Logo (Common Spray)
+		Hangzhou Spark Logo (Common Spray)
+		Paris Eternal Logo (Common Spray)
+		Toronto Defiant Logo (Common Spray)
+		Vancouver Titans Logo (Common Spray)
+		Washington Justice Logo (Common Spray)
 	Level 11 Unlocks
 		000000000919.0A5 (Common PortraitFrame)
 	Level 21 Unlocks
@@ -1262,4 +1280,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.2496905 seconds
+[Core] Execution finished in 00:00:01.2949623 seconds
