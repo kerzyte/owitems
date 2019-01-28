@@ -1,10 +1,10 @@
-[Core] DataTool v1.31.0.797-git-be89b3e52d58b2a6f1987ce4764a9e80511ad5b4
+[Core] DataTool v1.31.0.798-git-1a5f5c951fd1e4f58dba5232ddf2d4a4d7646117
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\797\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.32.0.1.54052
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\798\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.32.1.1.54255
 [CASC] Initializing...
-[CMF] Using CMF procedure 54052
-[CMF] Using CMF procedure 54052
+[CMF] Using CMF procedure 54255
+[CMF] Using CMF procedure 54255
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -47,6 +47,8 @@
 			Unlocked by completing Copa Lúcioball 2018 placement matches
 		Competitive CTF Competitor 2018 (Rare Icon)
 			Unlocked by completing Competitive Capture the Flag 2018 placement matches
+		Competitive CTF Competitor 2019 (Rare Icon)
+			Unlocked by completing Competitive Capture the Flag 2019 placement matches
 		Competitive 6v6 Elimination Competitor (Rare Icon)
 			Unlocked by completing Competitive 6v6 Elimination placement matches
 		Competitive Deathmatch Competitor (Rare Icon)
@@ -75,6 +77,8 @@
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
 		Competitive CTF Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2018
+		Competitive CTF Hero 2019 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2019
 		Competitive 6v6 Elimination Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination
 		Competitive Deathmatch Hero (Rare Icon)
@@ -117,6 +121,8 @@
 			Unlocked by completing Copa Lúcioball 2018 placement matches
 		Competitive CTF Competitor 2018 (Common Spray)
 			Unlocked by completing Competitive Capture the Flag 2018 placement matches
+		Competitive CTF Competitor 2019 (Common Spray)
+			Unlocked by completing Competitive Capture the Flag 2019 placement matches
 		Competitive 6v6 Elimination Competitor (Common Spray)
 			Unlocked by completing Competitive 6v6 Elimination placement matches
 		Competitive Deathmatch Competitor (Common Spray)
@@ -159,6 +165,8 @@
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
 		Competitive CTF Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2018
+		Competitive CTF Hero 2019 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2019
 		Competitive 6v6 Elimination Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination
 		Competitive Deathmatch Hero (Common Spray)
@@ -266,9 +274,12 @@
 		Living Room (Common Spray)
 			Unlocked by participating in the 2018 OWL Grand Finals event
 		Winter Wonderland 2018 (Rare Icon)
+		Year of the Pig 2019 (Rare Icon)
 		Bonk (Common Spray)
 		Frozen Throne (Common Spray)
 		Yeti Rage (Common Spray)
+		Captured Flag (Common Spray)
+		Interrupted Delivery (Common Spray)
 		Bastet (Common Spray)
 			Unlocked by watching participating streams during Ana's Bastet Challenge
 	Base Unlocks
@@ -598,6 +609,20 @@
 		Year of the Dog (Common Spray)
 			Available in Lunar Loot Boxes
 		Good Fortune (Common Spray)
+			Available in Lunar Loot Boxes
+		Lü Bu (Rare Icon)
+			Available in Lunar Loot Boxes
+		Guan Yu (Rare Icon)
+			Available in Lunar Loot Boxes
+		Zhang Fei (Rare Icon)
+			Available in Lunar Loot Boxes
+		Huang Zhong (Rare Icon)
+			Available in Lunar Loot Boxes
+		Zhuge Liang (Rare Icon)
+			Available in Lunar Loot Boxes
+		Hong Gildong (Rare Icon)
+			Available in Lunar Loot Boxes
+		Piggimari (Rare Icon)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		B73-NS (Rare Icon)
@@ -1280,4 +1305,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.2949623 seconds
+[Core] Execution finished in 00:00:01.8054945 seconds

@@ -1,10 +1,10 @@
-[Core] DataTool v1.31.0.797-git-be89b3e52d58b2a6f1987ce4764a9e80511ad5b4
+[Core] DataTool v1.31.0.798-git-1a5f5c951fd1e4f58dba5232ddf2d4a4d7646117
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\797\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.32.0.1.54052
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\798\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.32.1.1.54255
 [CASC] Initializing...
-[CMF] Using CMF procedure 54052
-[CMF] Using CMF procedure 54052
+[CMF] Using CMF procedure 54255
+[CMF] Using CMF procedure 54255
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -231,6 +231,12 @@ Unlocks for Reaper
 		Now those are fireworks (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		I have the devil's own luck (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Stockpile (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		Lü Bu (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Reaping General (Rare Icon)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Commando (Common Spray)
@@ -489,6 +495,11 @@ Unlocks for Tracer
 		I'm over the moon (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Fireworks (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		Hong Gildong (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Noble Thief (Rare Icon)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Slipstream (Common Spray)
 			Available in Archives Loot Boxes
@@ -1005,6 +1016,14 @@ Unlocks for Hanzo
 			Available in Lunar Loot Boxes
 		Insolent cur (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Firework (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		Huang Zhong (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Pointless frivolity (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Hanzhong (Rare Icon)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Ramen (Common Spray)
 			Available in Archives Loot Boxes
@@ -1257,6 +1276,10 @@ Unlocks for Torbjörn
 			Available in Lunar Loot Boxes
 		Everyone get in here (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Zhang Fei (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Serpent Spear (Rare Icon)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Brigitte (Common Spray)
 			Available in Archives Loot Boxes
@@ -1494,6 +1517,8 @@ Unlocks for Reinhardt
 			Available in Winter Loot Boxes
 		You're on my naughty list (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Snowball Fight (Epic HighlightIntro)
+			Available in Winter Loot Boxes
 		Forgive and forget (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Festive (Epic Skin)
@@ -1510,6 +1535,10 @@ Unlocks for Reinhardt
 		Wujing (Legendary Skin)
 			Available in Lunar Loot Boxes
 		Fortune favors the bold (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Guan Yu (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Beautiful Beard (Rare Icon)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Poster (Common Spray)
@@ -2012,6 +2041,9 @@ Unlocks for Winston
 		Moon sweet home (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Sparklers (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		To the moon and back (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Building (Common Spray)
 			Available in Archives Loot Boxes
@@ -2264,9 +2296,11 @@ Unlocks for Widowmaker
 		Barking up the wrong tree (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Black Lily (Legendary Skin)
+			Available in Lunar Loot Boxes
 		Black Lily (Rare Icon)
 			Available in Lunar Loot Boxes
 		Fans (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Wedding (Common Spray)
 			Available in Archives Loot Boxes
@@ -2767,6 +2801,7 @@ Unlocks for Symmetra
 		Cause for celebration (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Fan (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Student (Common Spray)
 			Available in Archives Loot Boxes
@@ -3021,6 +3056,10 @@ Unlocks for Zenyatta
 		Sanzang (Legendary Skin)
 			Available in Lunar Loot Boxes
 		Fortune favors me (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Zhuge Liang (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Crouching Dragon (Rare Icon)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Shell (Common Spray)
@@ -3523,6 +3562,7 @@ Unlocks for Roadhog
 		It's all gone to the dogs (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Secret Friend (Epic Emote)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Chopper (Common Spray)
 			Available in Archives Loot Boxes
@@ -3765,9 +3805,13 @@ Unlocks for McCree
 		Magistrate (Legendary Skin)
 			Available in Lunar Loot Boxes
 		Spark (Epic HighlightIntro)
+			Available in Lunar Loot Boxes
 		Magistrate (Rare Icon)
 			Available in Lunar Loot Boxes
 		Fire in the Hole (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		How's that for fireworks (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Target Practice (Common Spray)
 			Available in Archives Loot Boxes
@@ -4035,6 +4079,8 @@ Unlocks for Junkrat
 			Available in Lunar Loot Boxes
 		My dog is barking (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Happy New Year (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Sidecar (Common Spray)
 			Available in Archives Loot Boxes
@@ -4291,6 +4337,7 @@ Unlocks for Zarya
 		Xuanwu (Legendary Skin)
 			Available in Lunar Loot Boxes
 		Big One (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		We can! (Common Spray)
 			Available in Archives Loot Boxes
@@ -4542,6 +4589,8 @@ Unlocks for Soldier: 76
 		The rooster crows (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Respect your elders (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Rattle Drum (Epic Emote)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Commando (Common Spray)
@@ -4795,6 +4844,10 @@ Unlocks for Lúcio
 		I make this look good... (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Just how I like it (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Drumming (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		Drumming (Epic HighlightIntro)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Skates (Common Spray)
@@ -5823,9 +5876,12 @@ Unlocks for Doomfist
 		I'll throw you a bone (Common VoiceLine)
 			Available in Lunar Loot Boxes
 		Crushing (Epic Emote)
+			Available in Lunar Loot Boxes
 		Lionfist (Common Spray)
 			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		Fireworks (Rare VictoryPose)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Talon (Legendary Skin)
@@ -6103,6 +6159,8 @@ Unlocks for Ana
 			Available in Lunar Loot Boxes
 		I make my own luck (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Yut Nori (Epic Emote)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Newborn (Common Spray)
 			Available in Archives Loot Boxes
@@ -6326,6 +6384,10 @@ Unlocks for Orisa
 		Drum Dance (Common Spray)
 			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		Sanye (Epic Skin)
+			Available in Lunar Loot Boxes
+		Sanye (Rare Icon)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Flower (Common Spray)
@@ -6592,6 +6654,17 @@ Unlocks for Brigitte
 			Available in Winter Loot Boxes
 		I Made That Just for You (Common VoiceLine)
 			Available in Winter Loot Boxes
+	Lunar New Year Unlocks
+		Feast (Common Spray)
+			Available in Lunar Loot Boxes
+		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		All that glitters (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Who's ready to party (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		General (Epic Skin)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Kneel (Rare VictoryPose)
 			Available in Archives Loot Boxes
@@ -7095,6 +7168,17 @@ Unlocks for Wrecking Ball
 			Available in Winter Loot Boxes
 		Deck the halls (Common VoiceLine)
 			Available in Winter Loot Boxes
+	Lunar New Year Unlocks
+		Armament (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		Snacks (Common Spray)
+			Available in Lunar Loot Boxes
+		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		Engaging festive mode (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Assessing luck (Common VoiceLine)
+			Available in Lunar Loot Boxes
 
 Unlocks for Enforcer
 	Other Unlocks
@@ -7280,7 +7364,18 @@ Unlocks for Ashe
 			Available in Winter Loot Boxes
 		Girl Who Has Everything (Common VoiceLine)
 			Available in Winter Loot Boxes
+	Lunar New Year Unlocks
+		Lighting the fuse (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		Red Envelopes (Common Spray)
+			Available in Lunar Loot Boxes
+		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		No one likes a squealer (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Ready for the fireworks (Common VoiceLine)
+			Available in Lunar Loot Boxes
 
 Unlocks for Bob
 
-[Core] Execution finished in 00:00:03.2057352 seconds
+[Core] Execution finished in 00:00:03.1972776 seconds
