@@ -1,6 +1,6 @@
-[Core] DataTool v1.31.0.798-git-1a5f5c951fd1e4f58dba5232ddf2d4a4d7646117
+[Core] DataTool v1.33.0.804-git-1f18f2af6387db2336e134d8f180ba0fe8c0e242
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\798\toolchain-release\DataTool.exe.args
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\804\toolchain-release\DataTool.exe.args
 [CASC] Overwatch build 1.32.1.1.54255
 [CASC] Initializing...
 [CMF] Using CMF procedure 54255
@@ -27,88 +27,130 @@ Unlocks for Reaper
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Reaper (Rare Icon)
 		Soul (Rare Icon)
@@ -289,90 +331,133 @@ Unlocks for Tracer
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		2018 Atlantic All-Stars (Legendary Skin)
 			Unlocked with purchase of 2018 Atlantic All-Stars skin
+			Team: All-Star
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Tracer (Rare Icon)
 		Pulse Bomb (Rare Icon)
@@ -564,88 +649,130 @@ Unlocks for Mercy
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Mercy (Rare Icon)
 		Guardian Angel (Rare Icon)
@@ -819,88 +946,130 @@ Unlocks for Hanzo
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Hanzo (Rare Icon)
 		Storm (Rare Icon)
@@ -1076,88 +1245,130 @@ Unlocks for Torbjörn
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Torbjörn (Rare Icon)
 		Forge (Rare Icon)
@@ -1332,88 +1543,130 @@ Unlocks for Reinhardt
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Reinhardt (Rare Icon)
 		Scar (Rare Icon)
@@ -1589,88 +1842,130 @@ Unlocks for Pharah
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Pharah (Rare Icon)
 		Raptora (Rare Icon)
@@ -1837,88 +2132,130 @@ Unlocks for Winston
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Winston (Rare Icon)
 		Peanut Butter (Rare Icon)
@@ -2094,88 +2431,130 @@ Unlocks for Widowmaker
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Widowmaker (Rare Icon)
 		Grappling Hook (Rare Icon)
@@ -2350,88 +2729,130 @@ Unlocks for Bastion
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Bastion (Rare Icon)
 		Tank Crossing (Rare Icon)
@@ -2598,88 +3019,130 @@ Unlocks for Symmetra
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Symmetra (Rare Icon)
 		Vishkar (Rare Icon)
@@ -2849,88 +3312,130 @@ Unlocks for Zenyatta
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Zenyatta (Rare Icon)
 		Harmony (Rare Icon)
@@ -3102,88 +3607,130 @@ Unlocks for Genji
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Genji (Rare Icon)
 		Nin (Rare Icon)
@@ -3335,6 +3882,7 @@ Unlocks for Genji
 	Internal Unlocks
 		2018 Pacific All-Stars (Legendary Skin)
 			Unlocked with purchase of 2018 Pacific All-Stars skin
+			Team: All-Star
 
 Unlocks for Roadhog
 	Default Unlocks
@@ -3352,88 +3900,130 @@ Unlocks for Roadhog
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Roadhog (Rare Icon)
 		Hook (Rare Icon)
@@ -3604,88 +4194,130 @@ Unlocks for McCree
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		McCree (Rare Icon)
 		Badge (Rare Icon)
@@ -3863,88 +4495,130 @@ Unlocks for Junkrat
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Junkrat (Rare Icon)
 		Have a Nice Day! (Rare Icon)
@@ -4126,88 +4800,130 @@ Unlocks for Zarya
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Zarya (Rare Icon)
 		Particle Barrier (Rare Icon)
@@ -4388,88 +5104,130 @@ Unlocks for Soldier: 76
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Soldier: 76 (Rare Icon)
 		Strike Commander (Rare Icon)
@@ -4637,89 +5395,132 @@ Unlocks for Lúcio
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Dance Party (Legendary Emote)
+			Team: Overwatch League
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Lúcio (Rare Icon)
 		Kambô (Rare Icon)
@@ -4922,88 +5723,130 @@ Unlocks for D.Va
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		D.Va (Rare Icon)
 		Bunny (Rare Icon)
@@ -5171,88 +6014,130 @@ Unlocks for Mei
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Mei (Rare Icon)
 		Snowball (Rare Icon)
@@ -5433,88 +6318,130 @@ Unlocks for Sombra
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Sombra (Rare Icon)
 		Skull (Rare Icon)
@@ -5685,88 +6612,130 @@ Unlocks for Doomfist
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Doomfist (Rare Icon)
 		Fist (Rare Icon)
@@ -5948,88 +6917,130 @@ Unlocks for Ana
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Ana (Rare Icon)
 		Wedjat (Rare Icon)
@@ -6200,88 +7211,130 @@ Unlocks for Orisa
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Orisa (Rare Icon)
 		Protector (Rare Icon)
@@ -6479,88 +7532,130 @@ Unlocks for Brigitte
 	OWL Unlocks
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Katt (Rare Icon)
 		Rally (Rare Icon)
@@ -6710,88 +7805,130 @@ Unlocks for Moira
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Moira (Rare Icon)
 		Knot (Rare Icon)
@@ -6988,88 +8125,130 @@ Unlocks for Wrecking Ball
 	OWL Unlocks
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Wrecking Ball (Rare Icon)
 		Rolling (Rare Icon)
@@ -7212,88 +8391,130 @@ Unlocks for Ashe
 	OWL Unlocks
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Boston Uprising
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Dallas Fuel
 		Florida Mayhem (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Florida Mayhem Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Houston Outlaws
 		London Spitfire (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		London Spitfire Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: London Spitfire
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
 		Los Angeles Valiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		Los Angeles Valiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: New York Excelsior
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
 		San Francisco Shock (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Overwatch League
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Washington Justice Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Washington Justice
 		Vancouver Titans (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Vancouver Titans
 		Toronto Defiant (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Toronto Defiant Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Toronto Defiant
 		Paris Eternal (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Paris Eternal Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Paris Eternal
 		Hangzhou Spark (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Hangzhou Spark Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
 		Guangzhou Charge (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Chengdu Hunters Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
 		Atlanta Reign (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
+			Team: Atlanta Reign
 	Base Unlocks
 		Ashe (Rare Icon)
 		Bob (Rare Icon)
@@ -7378,4 +8599,4 @@ Unlocks for Ashe
 
 Unlocks for Bob
 
-[Core] Execution finished in 00:00:03.1972776 seconds
+[Core] Execution finished in 00:00:04.1877781 seconds

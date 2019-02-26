@@ -1,6 +1,6 @@
-[Core] DataTool v1.31.0.798-git-1a5f5c951fd1e4f58dba5232ddf2d4a4d7646117
+[Core] DataTool v1.33.0.804-git-1f18f2af6387db2336e134d8f180ba0fe8c0e242
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\798\toolchain-release\DataTool.exe.args
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\804\toolchain-release\DataTool.exe.args
 [CASC] Overwatch build 1.32.1.1.54255
 [CASC] Initializing...
 [CMF] Using CMF procedure 54255
@@ -1305,4 +1305,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.8054945 seconds
+[Core] Execution finished in 00:00:01.5638349 seconds
