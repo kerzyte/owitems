@@ -1,10 +1,10 @@
 [Core] DataTool v1.33.0.804-git-1f18f2af6387db2336e134d8f180ba0fe8c0e242
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
 [Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\804\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.32.1.1.54255
+[CASC] Overwatch build 1.33.0.1.54983
 [CASC] Initializing...
-[CMF] Using CMF procedure 54255
-[CMF] Using CMF procedure 54255
+[CMF] Using CMF procedure 54983
+[CMF] Using CMF procedure 54983
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -23,7 +23,7 @@ Unlocks for Reaper
 		GOLDEN (Common WeaponSkin)
 		Blackwatch Reyes (Legendary Skin)
 			Gabriel Reyes was the leader of the original Overwatch strike team during the Omnic Crisis, and later commanded Blackwatch, the organization's covert ops division.
-			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
+			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -323,7 +323,7 @@ Unlocks for Tracer
 		GOLDEN (Common WeaponSkin)
 		Slipstream (Legendary Skin)
 			Before becoming an active agent of Overwatch, Tracer was a test pilot, until a mishap with the prototype Slipstream teleporting fighter.
-			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
+			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 		Horde Banner (Epic Emote)
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Alliance Banner (Epic Emote)
@@ -1838,7 +1838,7 @@ Unlocks for Pharah
 		GOLDEN (Common WeaponSkin)
 		Security Chief (Legendary Skin)
 			Following a sterling career in the Egyptian armed forces, Pharah joined Helix Security International as one of their chief officers.
-			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
+			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -2723,7 +2723,7 @@ Unlocks for Bastion
 		GOLDEN (Common WeaponSkin)
 		Overgrown (Legendary Skin)
 			Damaged in one of the battles of the Omnic Crisis, this lone Bastion unit was reactivated in the Black Forest near Eichenwalde years later.
-			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
+			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 		BlizzCon 2016 (Epic Skin)
 			Unlocked as part of the BlizzCon 2016 Goody Bag
 	OWL Unlocks
@@ -5098,7 +5098,7 @@ Unlocks for Soldier: 76
 		GOLDEN (Common WeaponSkin)
 		Strike Commander Morrison (Legendary Skin)
 			After the Omnic Crisis, Jack Morrison was promoted to Strike Commander of Overwatch, leading the organization for decades until it was disbanded.
-			Unlocked with purchase of Overwatch: Origins Edition or Overwatch: Game of the Year Edition
+			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 		Jack and Vincent (Common Spray)
 			Unlocked by watching participating streams during Ana's Bastet Challenge
 	OWL Unlocks
@@ -8599,4 +8599,4 @@ Unlocks for Ashe
 
 Unlocks for Bob
 
-[Core] Execution finished in 00:00:04.1877781 seconds
+[Core] Execution finished in 00:00:03.6374723 seconds

@@ -1,10 +1,10 @@
 [Core] DataTool v1.33.0.804-git-1f18f2af6387db2336e134d8f180ba0fe8c0e242
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
 [Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\804\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.32.1.1.54255
+[CASC] Overwatch build 1.33.0.1.54983
 [CASC] Initializing...
-[CMF] Using CMF procedure 54255
-[CMF] Using CMF procedure 54255
+[CMF] Using CMF procedure 54983
+[CMF] Using CMF procedure 54983
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -41,6 +41,7 @@
 		Season 12 Competitor (Rare Icon)
 		Season 13 Competitor (Rare Icon)
 		Season 14 Competitor (Rare Icon)
+		Season 15 Competitor (Rare Icon)
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -71,6 +72,7 @@
 		Season 12 Hero (Rare Icon)
 		Season 13 Hero (Rare Icon)
 		Season 14 Hero (Rare Icon)
+		Season 15 Hero (Rare Icon)
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -115,6 +117,8 @@
 			Unlocked by completing Season 13 placement matches
 		Season 14 Competitor (Common Spray)
 			Unlocked by completing Season 14 placement matches
+		Season 15 Competitor (Common Spray)
+			Unlocked by completing Season 15 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -159,6 +163,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 13
 		Season 14 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 14
+		Season 15 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 15
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -1305,4 +1311,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.5638349 seconds
+[Core] Execution finished in 00:00:01.4844167 seconds
