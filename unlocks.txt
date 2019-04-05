@@ -1,10 +1,10 @@
-[Core] DataTool v1.33.0.804-git-1f18f2af6387db2336e134d8f180ba0fe8c0e242
+[Core] DataTool v1.34.0.810-git-cf86a7dbacc7e1e423d2f0e232f059e329f29dee
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\804\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.33.0.1.54983
+[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\810\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.34.0.1.55918
 [CASC] Initializing...
-[CMF] Using CMF procedure 54983
-[CMF] Using CMF procedure 54983
+[CMF] Using CMF procedure 55918
+[CMF] Using CMF procedure 55918
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -8599,4 +8599,198 @@ Unlocks for Ashe
 
 Unlocks for Bob
 
-[Core] Execution finished in 00:00:03.6374723 seconds
+Unlocks for Baptiste
+	Default Unlocks
+		Heroic (Common VictoryPose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		DEFAULT (Common WeaponSkin)
+		Classic (Common Skin)
+		Bandage (Common VoiceLine)
+		Heroic (Common Emote)
+	Other Unlocks
+		GOLDEN (Common WeaponSkin)
+		Cute (Common Spray)
+		Pixel (Common Spray)
+	OWL Unlocks
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Atlanta Reign
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Atlanta Reign
+		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Boston Uprising
+		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Boston Uprising
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Dallas Fuel
+		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Dallas Fuel
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
+		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Houston Outlaws
+		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Houston Outlaws
+		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: London Spitfire
+		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: London Spitfire
+		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
+		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: New York Excelsior
+		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: New York Excelsior
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Paris Eternal
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Paris Eternal
+		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
+		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
+		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
+		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
+		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Toronto Defiant
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Toronto Defiant
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Washington Justice
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Washington Justice
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Vancouver Titans
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Vancouver Titans
+	Base Unlocks
+		Baptiste (Rare Icon)
+		Goddess (Rare Icon)
+		Kraken (Rare Icon)
+		Nice smile (Epic Emote)
+		Good one (Epic Emote)
+		Scout (Epic Emote)
+		Come at me (Epic Emote)
+		Take a knee (Epic Emote)
+		Peace Out (Rare VictoryPose)
+		On Alert (Rare VictoryPose)
+		Say Cheese (Rare VictoryPose)
+		Closeup (Epic HighlightIntro)
+		Blast Off (Epic HighlightIntro)
+		Safe Zone (Epic HighlightIntro)
+		Expert opinion (Common VoiceLine)
+		Buy you a drink (Common VoiceLine)
+		Appreciation (Common VoiceLine)
+		Some kind of angel (Common VoiceLine)
+		Going to sting (Common VoiceLine)
+		Time's up, pencils down (Common VoiceLine)
+		An apple a day (Common VoiceLine)
+		Settle down (Common VoiceLine)
+		Damn (Common VoiceLine)
+		What are you trying to pull (Common VoiceLine)
+		Vèt (Rare Skin)
+		Wouj (Rare Skin)
+		Vyolèt (Rare Skin)
+		Ble (Rare Skin)
+		Wasteland (Epic Skin)
+		Camouflage (Epic Skin)
+		Spec Ops (Legendary Skin)
+		Desert Ops (Legendary Skin)
+		Pirate (Legendary Skin)
+		Buccaneer (Legendary Skin)
+		Icon (Common Spray)
+		Too powerful! (Common Spray)
+		Tropical (Common Spray)
+		Immortal (Common Spray)
+		Hey there (Common Spray)
+		Goddess (Common Spray)
+		Helmet (Common Spray)
+		Attention (Common Spray)
+		Origin (Common Spray)
+		Hammock (Common Spray)
+		Taunt (Common Spray)
+		Schematic (Common Spray)
+		Cool story (Common Spray)
+		Baptiste (Common Spray)
+		Watchful (Common Spray)
+		One Up (Common Spray)
+		Long shadows (Common Spray)
+		Maneuvers (Common Spray)
+		Do you even lift (Common Spray)
+		Close shave (Common Spray)
+		Choices (Common Spray)
+		Mission complete (Common Spray)
+		Lieutenant Augustin (Common Spray)
+		Survival Tip (Common VoiceLine)
+
+[Core] Execution finished in 00:00:03.0897188 seconds
