@@ -1,10 +1,10 @@
-[Core] DataTool v1.34.0.810-git-cf86a7dbacc7e1e423d2f0e232f059e329f29dee
+[Core] DataTool v1.35.0.814-git-3600de037549d690df462d3cbf9d678a6f23ce1e
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\810\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.34.0.1.55918
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\814\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.35.0.1.57230
 [CASC] Initializing...
-[CMF] Using CMF procedure 55918
-[CMF] Using CMF procedure 55918
+[CMF] Using CMF procedure 57230
+[CMF] Using CMF procedure 57230
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -17,6 +17,7 @@ Unlocks for Reaper
 		Classic (Common Skin)
 		What are you looking at (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -317,6 +318,7 @@ Unlocks for Tracer
 		Classic (Common Skin)
 		You got it (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -628,6 +630,7 @@ Unlocks for Mercy
 		Classic (Common Skin)
 		I have my eye on you (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -914,6 +917,8 @@ Unlocks for Mercy
 			Available in Archives Loot Boxes
 		A timely intervention (Common VoiceLine)
 			Available in Archives Loot Boxes
+		I'm needed somewhere (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Hustle (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -939,6 +944,7 @@ Unlocks for Hanzo
 		Classic (Common Skin)
 		Expect nothing less (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -1209,6 +1215,10 @@ Unlocks for Hanzo
 			Available in Archives Loot Boxes
 		My fate is written in blood (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Storm Arrow (Epic HighlightIntro)
+			Available in Archives Loot Boxes
+		History forged by the sword (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Fisherman Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -1234,6 +1244,7 @@ Unlocks for Torbjörn
 		Classic (Common Skin)
 		Hard work pays off (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -1536,6 +1547,7 @@ Unlocks for Reinhardt
 		Classic (Common Skin)
 		I salute you (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -1832,6 +1844,7 @@ Unlocks for Pharah
 		Classic (Common Skin)
 		Security in my hands (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -2098,6 +2111,8 @@ Unlocks for Pharah
 			Available in Archives Loot Boxes
 		I live for a good fight (Common VoiceLine)
 			Available in Archives Loot Boxes
+		From my mother (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Rocket Guitar (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -2123,6 +2138,7 @@ Unlocks for Winston
 		Classic (Common Skin)
 		Curious (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -2420,6 +2436,7 @@ Unlocks for Widowmaker
 		Classic (Common Skin)
 		A single death (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -2693,6 +2710,8 @@ Unlocks for Widowmaker
 			Available in Archives Loot Boxes
 		Always the hunters (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Surveillance (Rare VictoryPose)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Ballet (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -2717,6 +2736,7 @@ Unlocks for Bastion
 		Doo-woo (Common VoiceLine)
 		Heroic (Common Emote)
 		Toast (Rare VictoryPose)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -2983,6 +3003,11 @@ Unlocks for Bastion
 			Available in Archives Loot Boxes
 		ZWING ZWING ZWING (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Gwishin (Legendary Skin)
+			The Gwishin omnic colossus rose from the omnium in the East China Sea. The Mobile Exo-Force of the Korean Army, or MEKA, was formed in response to the Gwishin's constant attacks.
+			Available in Archives Loot Boxes
+		Gwishin (Rare Icon)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Robo Boogie (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -3012,6 +3037,7 @@ Unlocks for Symmetra
 		Classic (Common Skin)
 		Such a lack of imagination (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -3276,6 +3302,8 @@ Unlocks for Symmetra
 			Available in Archives Loot Boxes
 		Timepass (Common VoiceLine)
 			Available in Archives Loot Boxes
+		What the future holds (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -3305,6 +3333,7 @@ Unlocks for Zenyatta
 		Classic (Common Skin)
 		We are in harmony (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -3577,6 +3606,10 @@ Unlocks for Zenyatta
 			Available in Archives Loot Boxes
 		Your lesson for today (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Meditation (Rare VictoryPose)
+			Available in Archives Loot Boxes
+		Not ready to learn (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -3600,6 +3633,7 @@ Unlocks for Genji
 		Classic (Common Skin)
 		A steady blade (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -3893,6 +3927,7 @@ Unlocks for Roadhog
 		Classic (Common Skin)
 		The apocalypse (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -4187,6 +4222,7 @@ Unlocks for McCree
 		Classic (Common Skin)
 		Watch and learn (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -4460,6 +4496,13 @@ Unlocks for McCree
 			Available in Archives Loot Boxes
 		Don't sass me (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Deadlock (Legendary Skin)
+			In their younger days, Jesse McCree and Elizabeth "Calamity" Ashe co-founded the Deadlock Gang.
+			Available in Archives Loot Boxes
+		Gathering no moss (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Deadlock McCree (Rare Icon)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Line Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -4488,6 +4531,7 @@ Unlocks for Junkrat
 		Classic (Common Skin)
 		Tick-tock-tick-tock (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -4766,6 +4810,8 @@ Unlocks for Junkrat
 			Available in Archives Loot Boxes
 		I really blew that one (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Circus (Epic Skin)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Running Rat (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -4793,6 +4839,7 @@ Unlocks for Zarya
 		Classic (Common Skin)
 		Strong as the mountain (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -5067,6 +5114,8 @@ Unlocks for Zarya
 			Available in Archives Loot Boxes
 		You have failed your team (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Racer (Epic Skin)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -5092,6 +5141,7 @@ Unlocks for Soldier: 76
 		Classic (Common Skin)
 		I've still got it (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -5361,6 +5411,11 @@ Unlocks for Soldier: 76
 			Available in Archives Loot Boxes
 		Don't call me a hero (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Formal: 76 (Legendary Skin)
+			During his service in Overwatch, Jack Morrison received many commendations for his leadership.
+			Available in Archives Loot Boxes
+		Formal: 76 (Rare Icon)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -5388,6 +5443,7 @@ Unlocks for Lúcio
 		Classic (Common Skin)
 		To the rhythm (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -5692,6 +5748,7 @@ Unlocks for D.Va
 		Classic (Common Skin)
 		Love, D.Va (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -6007,6 +6064,7 @@ Unlocks for Mei
 		Classic (Common Skin)
 		Hang in there (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -6283,6 +6341,8 @@ Unlocks for Mei
 			Available in Archives Loot Boxes
 		I'm just a scientist (Common VoiceLine)
 			Available in Archives Loot Boxes
+		A new adventure (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Sunny Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -6309,6 +6369,7 @@ Unlocks for Sombra
 		Playing Fair (Common VoiceLine)
 		Heroic (Common Emote)
 		Toast (Rare VictoryPose)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -6582,6 +6643,10 @@ Unlocks for Sombra
 			Available in Archives Loot Boxes
 		Back to la medianoche! (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Data Cube (Rare VictoryPose)
+			Available in Archives Loot Boxes
+		Nice working with you (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -6605,6 +6670,7 @@ Unlocks for Doomfist
 		Classic (Common Skin)
 		Try Me (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
@@ -6868,6 +6934,8 @@ Unlocks for Doomfist
 			Available in Archives Loot Boxes
 		I am not your savior (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Seismic Slam (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Formal (Legendary Skin)
 			Available in Anniversary Loot Boxes
@@ -6897,6 +6965,7 @@ Unlocks for Ana
 		Classic (Common Skin)
 		Justice delivered (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -7204,6 +7273,7 @@ Unlocks for Orisa
 		Classic (Common Skin)
 		Following My Programming (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Pixel (Common Spray)
 		Cute (Common Spray)
@@ -7525,6 +7595,7 @@ Unlocks for Brigitte
 		Classic (Common Skin)
 		You won't be disappointed (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
@@ -7771,6 +7842,8 @@ Unlocks for Brigitte
 			Available in Archives Loot Boxes
 		Time to roll up my sleeves (Common VoiceLine)
 			Available in Archives Loot Boxes
+		If you make your bed, lie in it (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Shieldmaiden (Legendary Skin)
 			Available in Anniversary Loot Boxes
@@ -7798,6 +7871,7 @@ Unlocks for Moira
 		Classic (Common Skin)
 		What an interesting hypothesis (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
@@ -8061,6 +8135,13 @@ Unlocks for Moira
 			Available in Archives Loot Boxes
 		You're mistaken (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Scientist (Legendary Skin)
+			To this day, Dr. O'Deorain remains a controversial figure in genetic research. Her brilliance was never in question; her ethics, almost always.
+			Available in Archives Loot Boxes
+		Faith in science (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Coinín (Rare Icon)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -8118,6 +8199,7 @@ Unlocks for Wrecking Ball
 		Classic (Common Skin)
 		Shut down (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
@@ -8358,6 +8440,21 @@ Unlocks for Wrecking Ball
 			Available in Lunar Loot Boxes
 		Assessing luck (Common VoiceLine)
 			Available in Lunar Loot Boxes
+	Archives Unlocks
+		Dramatic (Epic HighlightIntro)
+			Available in Archives Loot Boxes
+		High Roller (Epic Skin)
+			Available in Archives Loot Boxes
+		Access denied (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Translation not found (Common VoiceLine)
+			Available in Archives Loot Boxes
+		K.O. (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Laughter (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Exercise (Common Spray)
+			Available in Archives Loot Boxes
 
 Unlocks for Enforcer
 	Other Unlocks
@@ -8378,6 +8475,7 @@ Unlocks for Ashe
 		Classic (Common Skin)
 		We have an understanding (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		Cute (Common Spray)
 		Pixel (Common Spray)
@@ -8596,6 +8694,20 @@ Unlocks for Ashe
 			Available in Lunar Loot Boxes
 		Ready for the fireworks (Common VoiceLine)
 			Available in Lunar Loot Boxes
+	Archives Unlocks
+		Socialite (Legendary Skin)
+			As the daughter of socialites, Ashe feels just as comfortable at charity balls as she does on a motorcycle.
+			Available in Archives Loot Boxes
+		Do you trust me? (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Mind your manners (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Fetch my butler (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Butler (Rare Icon)
+			Available in Archives Loot Boxes
+		Playground Victory (Common Spray)
+			Available in Archives Loot Boxes
 
 Unlocks for Bob
 
@@ -8608,6 +8720,7 @@ Unlocks for Baptiste
 		Classic (Common Skin)
 		Bandage (Common VoiceLine)
 		Heroic (Common Emote)
+		RANDOM (Common VictoryPose)
 	Other Unlocks
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
@@ -8792,5 +8905,19 @@ Unlocks for Baptiste
 		Mission complete (Common Spray)
 		Lieutenant Augustin (Common Spray)
 		Survival Tip (Common VoiceLine)
+	Archives Unlocks
+		Talon (Legendary Skin)
+			After his service in the Caribbean Coalition was complete, Baptiste struggled to find a demand for his unique skills. Talon was more than happy to help. 
+			Available in Archives Loot Boxes
+		Caribbean Coalition (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Lieutenant Augustin (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Associates (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Lieutenant Augustin (Rare Icon)
+			Available in Archives Loot Boxes
+		Carry (Common Spray)
+			Available in Archives Loot Boxes
 
-[Core] Execution finished in 00:00:03.0897188 seconds
+[Core] Execution finished in 00:00:03.3734943 seconds

@@ -1,10 +1,10 @@
-[Core] DataTool v1.34.0.810-git-cf86a7dbacc7e1e423d2f0e232f059e329f29dee
+[Core] DataTool v1.35.0.814-git-3600de037549d690df462d3cbf9d678a6f23ce1e
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\Overtool\810\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.34.0.1.55918
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\814\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.35.0.1.57230
 [CASC] Initializing...
-[CMF] Using CMF procedure 55918
-[CMF] Using CMF procedure 55918
+[CMF] Using CMF procedure 57230
+[CMF] Using CMF procedure 57230
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -42,6 +42,7 @@
 		Season 13 Competitor (Rare Icon)
 		Season 14 Competitor (Rare Icon)
 		Season 15 Competitor (Rare Icon)
+		Season 16 Competitor (Rare Icon)
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -54,8 +55,8 @@
 			Unlocked by completing Competitive 6v6 Elimination 2018 placement matches
 		Competitive 6v6 Elimination Competitor 2019 (Rare Icon)
 			Unlocked by completing Competitive 6v6 Elimination 2019 placement matches
-		Competitive Deathmatch Competitor (Rare Icon)
-			Unlocked by completing Competitive Deathmatch placement matches
+		Competitive Deathmatch Competitor 2018 (Rare Icon)
+			Unlocked by completing Competitive Deathmatch 2018 placement matches
 		Competitive 3v3 Group Elimination Competitor (Rare Icon)
 			Unlocked by completing Competitive 3v3 Group Elimination placement matches
 		Competitive Team Deathmatch Competitor (Rare Icon)
@@ -75,6 +76,7 @@
 		Season 13 Hero (Rare Icon)
 		Season 14 Hero (Rare Icon)
 		Season 15 Hero (Rare Icon)
+		Season 16 Hero (Rare Icon)
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -87,8 +89,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2018
 		Competitive 6v6 Elimination Hero 2019 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2019
-		Competitive Deathmatch Hero (Rare Icon)
-			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch
+		Competitive Deathmatch Hero 2018 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive 3v3 Group Elimination Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
 		Competitive Team Deathmatch Hero (Rare Icon)
@@ -123,6 +125,8 @@
 			Unlocked by completing Season 14 placement matches
 		Season 15 Competitor (Common Spray)
 			Unlocked by completing Season 15 placement matches
+		Season 16 Competitor (Common Spray)
+			Unlocked by completing Season 16 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -135,8 +139,8 @@
 			Unlocked by completing Competitive 6v6 Elimination 2018 placement matches
 		Competitive 6v6 Elimination Competitor 2019 (Common Spray)
 			Unlocked by completing Competitive 6v6 Elimination 2019 placement matches
-		Competitive Deathmatch Competitor (Common Spray)
-			Unlocked by completing Competitive Deathmatch placement matches
+		Competitive Deathmatch Competitor 2018 (Common Spray)
+			Unlocked by completing Competitive Deathmatch placement matches 2018
 		Competitive 3v3 Group Elimination Competitor (Common Spray)
 			Unlocked by completing Competitive 3v3 Group Elimination placement matches
 		Competitive Team Deathmatch Competitor (Common Spray)
@@ -171,6 +175,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 14
 		Season 15 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 15
+		Season 16 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 16
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -183,8 +189,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2018
 		Competitive 6v6 Elimination Hero 2019 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2019
-		Competitive Deathmatch Hero (Common Spray)
-			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch
+		Competitive Deathmatch Hero 2018 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive 3v3 Group Elimination Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
 		Competitive Team Deathmatch Hero (Common Spray)
@@ -253,12 +259,22 @@
 			Available in Archives Loot Boxes
 		Archives 2018 (Rare Icon)
 			Available in Archives Loot Boxes
+		Archives 2019 (Rare Icon)
+			Available in Archives Loot Boxes
 		Talon Trooper (Common Spray)
 		Talon Enforcer (Common Spray)
 		Talon Sniper (Common Spray)
 		Talon Assassin (Common Spray)
 		Talon Heavy Assault (Common Spray)
 		Droppachi (Common Spray)
+		Light the Way (Common Spray)
+		Ambush (Common Spray)
+		Hot Pursuit (Common Spray)
+		Cut the Brakes (Common Spray)
+		Almendrón (Common Spray)
+		Big Plans (Common Spray)
+		The Broker (Common Spray)
+		New Strike Team (Common Spray)
 		Anniversary 2017 (Rare Icon)
 			Available in Anniversary Loot Boxes
 		Anniversary 2018 (Rare Icon)
@@ -1319,4 +1335,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.3277130 seconds
+[Core] Execution finished in 00:00:01.3287054 seconds
