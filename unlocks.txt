@@ -1,10 +1,10 @@
-[Core] DataTool v1.36.0.817-git-2bcdf008884404fc9440be759eed42d74199b193
+[Core] DataTool v1.37.0.820-git-0eccf65fd570b80632ff9878378bcf9d1c01e92c
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\817\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.36.0.1.58155
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\820\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.37.0.1.59008
 [CASC] Initializing...
-[CMF] Using CMF procedure 58155
-[CMF] Using CMF procedure 58155
+[CMF] Using CMF procedure 59008
+[CMF] Using CMF procedure 59008
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -4252,7 +4252,7 @@ Unlocks for Roadhog
 			Available in Anniversary Loot Boxes
 		Toxic (Rare Icon)
 			Available in Anniversary Loot Boxes
-		You're a talker (Common VoiceLine)
+		I'm beached as, bro (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for McCree
@@ -7943,7 +7943,7 @@ Unlocks for Brigitte
 			Available in Anniversary Loot Boxes
 		Riot Police (Rare Icon)
 			Available in Anniversary Loot Boxes
-		Take a hike (Common VoiceLine)
+		Get out of here (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Moira
@@ -8839,6 +8839,27 @@ Unlocks for Baptiste
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
 		Pixel (Common Spray)
+		Combat Medic (Epic Skin)
+			After leaving Talon, Baptiste aided in humanitarian efforts around the globe. But he never stayed in one place for too long.
+			Unlocked by participating in Baptiste's Reunion Challenge
+		Combat Medic (Rare Icon)
+			Unlocked by participating in Baptiste's Reunion Challenge
+		Combat Medic (Common Spray)
+			Unlocked by participating in Baptiste's Reunion Challenge
+		Mauga (Common Spray)
+			Unlocked by participating in Baptiste's Reunion Challenge
+		So done (Common Spray)
+			Unlocked by watching participating streams during Baptiste's Reunion Challenge
+		Working vacation (Common Spray)
+			Unlocked by watching participating streams during Baptiste's Reunion Challenge
+		Old Buddies (Common Spray)
+			Unlocked by watching participating streams during Baptiste's Reunion Challenge
+		Analyst Nguyen (Common Spray)
+			Unlocked by watching participating streams during Baptiste's Reunion Challenge
+		Getaway (Common Spray)
+			Unlocked by watching participating streams during Baptiste's Reunion Challenge
+		So Fresh (Common Spray)
+			Unlocked by watching participating streams during Baptiste's Reunion Challenge
 	OWL Unlocks
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
@@ -8960,6 +8981,9 @@ Unlocks for Baptiste
 		Vancouver Titans Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Vancouver Titans
+		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Overwatch League
 	Base Unlocks
 		Baptiste (Rare Icon)
 		Goddess (Rare Icon)
@@ -9047,4 +9071,4 @@ Unlocks for Baptiste
 		Now that is funny (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
-[Core] Execution finished in 00:00:04.1691533 seconds
+[Core] Execution finished in 00:00:03.9164234 seconds
