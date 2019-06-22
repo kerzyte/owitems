@@ -1,10 +1,10 @@
-[Core] DataTool v1.35.0.814-git-3600de037549d690df462d3cbf9d678a6f23ce1e
+[Core] DataTool v1.36.0.817-git-2bcdf008884404fc9440be759eed42d74199b193
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\814\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.35.0.1.57230
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\817\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.36.0.1.58155
 [CASC] Initializing...
-[CMF] Using CMF procedure 57230
-[CMF] Using CMF procedure 57230
+[CMF] Using CMF procedure 58155
+[CMF] Using CMF procedure 58155
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -279,6 +279,8 @@
 			Available in Anniversary Loot Boxes
 		Anniversary 2018 (Rare Icon)
 			Available in Anniversary Loot Boxes
+		Anniversary 2019 (Rare Icon)
+			Available in Anniversary Loot Boxes
 		Kul Tiras (Rare Icon)
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Zandalar (Rare Icon)
@@ -312,6 +314,8 @@
 		Interrupted Delivery (Common Spray)
 		Bastet (Common Spray)
 			Unlocked by watching participating streams during Ana's Bastet Challenge
+		2019 Atlantic All-Stars (Rare Icon)
+		2019 Pacific All-Stars (Rare Icon)
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -683,6 +687,8 @@
 		Anniversary (Common Spray)
 			Available in Anniversary Loot Boxes
 		Pachiversary (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Cupachicake (Rare Icon)
 			Available in Anniversary Loot Boxes
 	Level 0 Unlocks
 		Logo (Common Spray)
@@ -1335,4 +1341,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.3287054 seconds
+[Core] Execution finished in 00:00:01.4247393 seconds

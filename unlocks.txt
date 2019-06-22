@@ -1,10 +1,10 @@
-[Core] DataTool v1.35.0.814-git-3600de037549d690df462d3cbf9d678a6f23ce1e
+[Core] DataTool v1.36.0.817-git-2bcdf008884404fc9440be759eed42d74199b193
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\814\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.35.0.1.57230
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\817\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.36.0.1.58155
 [CASC] Initializing...
-[CMF] Using CMF procedure 57230
-[CMF] Using CMF procedure 57230
+[CMF] Using CMF procedure 58155
+[CMF] Using CMF procedure 58155
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -307,6 +307,8 @@ Unlocks for Reaper
 		Ace of Clubs (Common Spray)
 			Available in Anniversary Loot Boxes
 		Pathetic (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Ready for Action (Rare VictoryPose)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Tracer
@@ -620,6 +622,8 @@ Unlocks for Tracer
 			Available in Anniversary Loot Boxes
 		Wink (Rare VictoryPose)
 			Available in Anniversary Loot Boxes
+		I love this part! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Mercy
 	Default Unlocks
@@ -776,6 +780,9 @@ Unlocks for Mercy
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		2019 Atlantic All-Stars (Legendary Skin)
+			Unlocked with purchase of 2019 Atlantic All-Stars skin
+			Team: All-Star
 	Base Unlocks
 		Mercy (Rare Icon)
 		Guardian Angel (Rare Icon)
@@ -933,6 +940,8 @@ Unlocks for Mercy
 		I've seen worse (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		Parasol (Rare VictoryPose)
+			Available in Anniversary Loot Boxes
+		Call the whambulance (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Hanzo
@@ -1233,6 +1242,8 @@ Unlocks for Hanzo
 		Cyberninja (Legendary Skin)
 			Available in Anniversary Loot Boxes
 		Do not rouse the dragon (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		The only destiny I know (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Torbjörn
@@ -1537,6 +1548,8 @@ Unlocks for Torbjörn
 			Available in Anniversary Loot Boxes
 		Why didn't I think of that? (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Try my meatballs (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Reinhardt
 	Default Unlocks
@@ -1834,6 +1847,8 @@ Unlocks for Reinhardt
 			Available in Anniversary Loot Boxes
 		Come here... (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Fetch me my hammer! (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Pharah
 	Default Unlocks
@@ -2127,6 +2142,12 @@ Unlocks for Pharah
 		Bedouin (Legendary Skin)
 			Available in Anniversary Loot Boxes
 		Stay on target (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Orbital (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Orbital (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Carbon Fiber (Epic Skin)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Winston
@@ -2426,6 +2447,10 @@ Unlocks for Winston
 			Available in Anniversary Loot Boxes
 		Can't keep a good ape down (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Gargoyle (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Gargoyle (Rare Icon)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Widowmaker
 	Default Unlocks
@@ -2724,6 +2749,10 @@ Unlocks for Widowmaker
 		Queen of Hearts (Common Spray)
 			Available in Anniversary Loot Boxes
 		The pleasure is mine (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Electric (Epic Skin)
+			Available in Anniversary Loot Boxes
+		Lucky and good (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Bastion
@@ -3323,6 +3352,8 @@ Unlocks for Symmetra
 			Available in Anniversary Loot Boxes
 		Let us discuss your failures (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		So dramatic (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Zenyatta
 	Default Unlocks
@@ -3623,6 +3654,8 @@ Unlocks for Zenyatta
 			Available in Anniversary Loot Boxes
 		Patience (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Your flaws are revealed (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Genji
 	Default Unlocks
@@ -3765,6 +3798,9 @@ Unlocks for Genji
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		2018 Pacific All-Stars (Legendary Skin)
+			Unlocked with purchase of 2018 Pacific All-Stars skin
+			Team: All-Star
 	Base Unlocks
 		Genji (Rare Icon)
 		Nin (Rare Icon)
@@ -3913,10 +3949,10 @@ Unlocks for Genji
 			Available in Anniversary Loot Boxes
 		You need healing (Common VoiceLine)
 			Available in Anniversary Loot Boxes
-	Internal Unlocks
-		2018 Pacific All-Stars (Legendary Skin)
-			Unlocked with purchase of 2018 Pacific All-Stars skin
-			Team: All-Star
+		Over the Shoulder (Rare VictoryPose)
+			Available in Anniversary Loot Boxes
+		An elegant weapon (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Roadhog
 	Default Unlocks
@@ -4211,6 +4247,12 @@ Unlocks for Roadhog
 		Joker (Common Spray)
 			Available in Anniversary Loot Boxes
 		That's my business (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Toxic (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Toxic (Rare Icon)
+			Available in Anniversary Loot Boxes
+		You're a talker (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for McCree
@@ -4521,6 +4563,8 @@ Unlocks for McCree
 			Available in Anniversary Loot Boxes
 		How do you like me now? (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Both kinds of music (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Junkrat
 	Default Unlocks
@@ -4829,6 +4873,8 @@ Unlocks for Junkrat
 			Available in Anniversary Loot Boxes
 		Inconspicuous! (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		That was the bomb (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Zarya
 	Default Unlocks
@@ -5130,6 +5176,8 @@ Unlocks for Zarya
 		Cyberian (Legendary Skin)
 			Available in Anniversary Loot Boxes
 		Let's get physical (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Fitness secret (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Soldier: 76
@@ -5433,6 +5481,8 @@ Unlocks for Soldier: 76
 			Available in Anniversary Loot Boxes
 		Want something done right? (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		I've died a hero (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Lúcio
 	Default Unlocks
@@ -5577,6 +5627,9 @@ Unlocks for Lúcio
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		2019 Pacific All-Stars (Legendary Skin)
+			Unlocked with purchase of 2019 Pacific All-Stars skin
+			Team: All-Star
 	Base Unlocks
 		Lúcio (Rare Icon)
 		Kambô (Rare Icon)
@@ -6054,6 +6107,17 @@ Unlocks for D.Va
 			Available in Anniversary Loot Boxes
 		No problem! (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Academy (Legendary Skin)
+			While she was in high school, Hana "D.Va" Song held the #1 rank in Mecha Guardian V and won the world championship, surpassing her teammate, Yuna "D.mon" Lee, and her biggest rival, Kyung-soo "King" Han.
+			Available in Anniversary Loot Boxes
+		Academy (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Hagwon (Rare Icon)
+			Available in Anniversary Loot Boxes
+		I know my KDR (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Midnight (Epic Skin)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Mei
 	Default Unlocks
@@ -6358,6 +6422,12 @@ Unlocks for Mei
 			Available in Anniversary Loot Boxes
 		Wake up, sleepyhead! (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Honeydew (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Honeydew (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Apologies (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Sombra
 	Default Unlocks
@@ -6660,6 +6730,8 @@ Unlocks for Sombra
 			Available in Anniversary Loot Boxes
 		Let's not do that again (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Oro (Epic Skin)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Doomfist
 	Default Unlocks
@@ -6954,6 +7026,8 @@ Unlocks for Doomfist
 		Take it on the chin (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		You can't win (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Carbon Fiber (Epic Skin)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Ana
@@ -7547,6 +7621,10 @@ Unlocks for Orisa
 			Available in Anniversary Loot Boxes
 		Have a bad feeling about this (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Beacon (Rare VictoryPose)
+			Available in Anniversary Loot Boxes
+		If lost, please return to Efi (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Training Bot
 
@@ -7861,6 +7939,12 @@ Unlocks for Brigitte
 			Available in Anniversary Loot Boxes
 		It's just a flesh wound (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Riot Police (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Riot Police (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Take a hike (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Moira
 	Default Unlocks
@@ -8154,6 +8238,8 @@ Unlocks for Moira
 		This was a triumph (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		Unbelievable (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Evolution's gifts (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Trooper
@@ -8455,6 +8541,19 @@ Unlocks for Wrecking Ball
 			Available in Archives Loot Boxes
 		Exercise (Common Spray)
 			Available in Archives Loot Boxes
+	Anniversary Unlocks
+		Hamster Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
+		Eight of Clubs (Common Spray)
+			Available in Anniversary Loot Boxes
+		Gold Ball (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Rolled (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Victory (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Self-assessment (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Enforcer
 	Other Unlocks
@@ -8708,6 +8807,21 @@ Unlocks for Ashe
 			Available in Archives Loot Boxes
 		Playground Victory (Common Spray)
 			Available in Archives Loot Boxes
+	Anniversary Unlocks
+		Line Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
+		Rich Ashe (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Eight of Diamonds (Common Spray)
+			Available in Anniversary Loot Boxes
+		Seven of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
+		Life is a highway (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		You wanna try me? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		I'm an easy rider (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Bob
 
@@ -8919,5 +9033,18 @@ Unlocks for Baptiste
 			Available in Archives Loot Boxes
 		Carry (Common Spray)
 			Available in Archives Loot Boxes
+	Anniversary Unlocks
+		Konpa Dance (Epic Emote)
+			Available in Anniversary Loot Boxes
+		Lò (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Eight of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
+		Not my problem (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		I'd recommend bed rest (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Now that is funny (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
-[Core] Execution finished in 00:00:03.3734943 seconds
+[Core] Execution finished in 00:00:04.1691533 seconds
