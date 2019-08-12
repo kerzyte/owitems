@@ -1,10 +1,10 @@
-[Core] DataTool v1.37.0.820-git-0eccf65fd570b80632ff9878378bcf9d1c01e92c
+[Core] DataTool v1.38.0.829-git-4331859d6795535d53f9671f02dc65d9e9fecf74
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\820\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.37.0.1.59008
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\829\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.38.0.3.60547
 [CASC] Initializing...
-[CMF] Using CMF procedure 59008
-[CMF] Using CMF procedure 59008
+[CMF] Using CMF procedure 60547
+[CMF] Using CMF procedure 60547
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -25,6 +25,8 @@ Unlocks for Reaper
 		Blackwatch Reyes (Legendary Skin)
 			Gabriel Reyes was the leader of the original Overwatch strike team during the Omnic Crisis, and later commanded Blackwatch, the organization's covert ops division.
 			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
+		American (Epic Skin)
+			Unlocked by participating in the Summer Games 2019 week 1 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -541,6 +543,8 @@ Unlocks for Tracer
 		Time out! (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
+		Bit dodgy (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
@@ -1163,6 +1167,10 @@ Unlocks for Hanzo
 			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
 			Available in Summer Games Loot Boxes
+		Wave (Legendary Skin)
+			Available in Summer Games Loot Boxes
+		Wave (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
@@ -1466,6 +1474,10 @@ Unlocks for Torbjörn
 			Available in Summer Games Loot Boxes
 		There's no prize for second (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+		Surf 'n' Splash (Legendary Skin)
+			Available in Summer Games Loot Boxes
+		Surf 'n' Splash (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
@@ -1565,6 +1577,8 @@ Unlocks for Reinhardt
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Bundesadler (Epic Skin)
+			Unlocked by participating in the Summer Games 2019 week 3 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -2069,6 +2083,8 @@ Unlocks for Pharah
 		Slam Dunk (Epic HighlightIntro)
 			Available in Summer Games Loot Boxes
 		Clear skies, full hearts (Common VoiceLine)
+			Available in Summer Games Loot Boxes
+		On autopilot (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
@@ -2677,6 +2693,8 @@ Unlocks for Widowmaker
 			Available in Summer Games Loot Boxes
 		A perfect 10 (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+		Dame chance (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
@@ -3276,6 +3294,8 @@ Unlocks for Symmetra
 			Available in Summer Games Loot Boxes
 		Medal (Rare VictoryPose)
 			Available in Summer Games Loot Boxes
+		Reality is my playground (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
@@ -3496,6 +3516,8 @@ Unlocks for Zenyatta
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Zen-nakji (Legendary Skin)
+			Team: Overwatch League
 	Base Unlocks
 		Zenyatta (Rare Icon)
 		Harmony (Rare Icon)
@@ -3574,6 +3596,8 @@ Unlocks for Zenyatta
 		Fastball (Rare Icon)
 			Available in Summer Games Loot Boxes
 		Iris (Rare Icon)
+			Available in Summer Games Loot Boxes
+		What weighs upon your mind (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		R.I.P. (Rare VictoryPose)
@@ -3880,6 +3904,10 @@ Unlocks for Genji
 		Nihon (Epic Skin)
 			Available in Summer Games Loot Boxes
 		Touché (Common VoiceLine)
+			Available in Summer Games Loot Boxes
+		Kendoka (Legendary Skin)
+			Available in Summer Games Loot Boxes
+		Kendoka (Rare Icon)
 			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
@@ -5100,6 +5128,10 @@ Unlocks for Zarya
 			Available in Summer Games Loot Boxes
 		Russian judge (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+		Burpees (Epic Emote)
+			Available in Summer Games Loot Boxes
+		Strongest woman (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
@@ -6133,6 +6165,8 @@ Unlocks for Mei
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Zhongguo (Epic Skin)
+			Unlocked by participating in the Summer Games 2019 week 2 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -7268,6 +7302,10 @@ Unlocks for Ana
 			Available in Summer Games Loot Boxes
 		You seem stressed (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
+		Do less (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
@@ -7552,6 +7590,10 @@ Unlocks for Orisa
 		Grease to your elbow (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 		Goalkeeper (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
+		Dressage (Epic Emote)
+			Available in Summer Games Loot Boxes
+		Thank you for understanding (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Pumpkin Head (Rare VictoryPose)
@@ -7875,6 +7917,8 @@ Unlocks for Brigitte
 		Scandinavian style? (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 		Dare to Lindholm (Common VoiceLine)
+			Available in Summer Games Loot Boxes
+		Medal (Rare VictoryPose)
 			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Supposed to scare me (Common VoiceLine)
@@ -8489,6 +8533,12 @@ Unlocks for Wrecking Ball
 			Available in Summer Games Loot Boxes
 		Be the ball (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+		Lúcioball (Legendary Skin)
+			Available in Summer Games Loot Boxes
+		Lúcioball (Rare Icon)
+			Available in Summer Games Loot Boxes
+		More power! (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Trick or treat (Common VoiceLine)
 			Available in Halloween Loot Boxes
@@ -8771,6 +8821,13 @@ Unlocks for Ashe
 		Firing (Common Spray)
 		Dashing (Common Spray)
 		Just taking out the trash (Common VoiceLine)
+	Summer Games Unlocks
+		Shooting (Common Spray)
+			Available in Summer Games Loot Boxes
+		Medal (Rare VictoryPose)
+			Available in Summer Games Loot Boxes
+		Shooting (Rare Icon)
+			Available in Summer Games Loot Boxes
 	Winter Unlocks
 		Snowball Fight (Common Spray)
 			Available in Winter Loot Boxes
@@ -9043,6 +9100,19 @@ Unlocks for Baptiste
 		Mission complete (Common Spray)
 		Lieutenant Augustin (Common Spray)
 		Survival Tip (Common VoiceLine)
+	Summer Games Unlocks
+		Discus (Epic HighlightIntro)
+			Available in Summer Games Loot Boxes
+		Pole vault (Common Spray)
+			Available in Summer Games Loot Boxes
+		Pole Vault (Rare Icon)
+			Available in Summer Games Loot Boxes
+		It's your lucky day (Common VoiceLine)
+			Available in Summer Games Loot Boxes
+		Still looks bad (Common VoiceLine)
+			Available in Summer Games Loot Boxes
+		No point rushing in (Common VoiceLine)
+			Available in Summer Games Loot Boxes
 	Archives Unlocks
 		Talon (Legendary Skin)
 			After his service in the Caribbean Coalition was complete, Baptiste struggled to find a demand for his unique skills. Talon was more than happy to help. 
@@ -9071,4 +9141,4 @@ Unlocks for Baptiste
 		Now that is funny (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
-[Core] Execution finished in 00:00:03.9164234 seconds
+[Core] Execution finished in 00:00:03.6794883 seconds

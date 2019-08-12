@@ -1,10 +1,10 @@
-[Core] DataTool v1.37.0.820-git-0eccf65fd570b80632ff9878378bcf9d1c01e92c
+[Core] DataTool v1.38.0.829-git-4331859d6795535d53f9671f02dc65d9e9fecf74
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\820\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.37.0.1.59008
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\829\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.38.0.3.60547
 [CASC] Initializing...
-[CMF] Using CMF procedure 59008
-[CMF] Using CMF procedure 59008
+[CMF] Using CMF procedure 60547
+[CMF] Using CMF procedure 60547
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -43,10 +43,13 @@
 		Season 14 Competitor (Rare Icon)
 		Season 15 Competitor (Rare Icon)
 		Season 16 Competitor (Rare Icon)
+		Season 17 Competitor (Rare Icon)
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
 			Unlocked by completing Copa Lúcioball 2018 placement matches
+		Copa Lúcioball Competitor 2019 (Rare Icon)
+			Unlocked by completing Copa Lúcioball 2019 placement matches
 		Competitive CTF Competitor 2018 (Rare Icon)
 			Unlocked by completing Competitive Capture the Flag 2018 placement matches
 		Competitive CTF Competitor 2019 (Rare Icon)
@@ -57,6 +60,8 @@
 			Unlocked by completing Competitive 6v6 Elimination 2019 placement matches
 		Competitive Deathmatch Competitor 2018 (Rare Icon)
 			Unlocked by completing Competitive Deathmatch 2018 placement matches
+		Competitive Deathmatch Competitor 2019 (Rare Icon)
+			Unlocked by completing Competitive Deathmatch 2019 placement matches
 		Competitive 3v3 Group Elimination Competitor (Rare Icon)
 			Unlocked by completing Competitive 3v3 Group Elimination placement matches
 		Competitive Team Deathmatch Competitor (Rare Icon)
@@ -77,10 +82,13 @@
 		Season 14 Hero (Rare Icon)
 		Season 15 Hero (Rare Icon)
 		Season 16 Hero (Rare Icon)
+		Season 17 Hero (Rare Icon)
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
+		Copa Lúcioball Hero 2019 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2019
 		Competitive CTF Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2018
 		Competitive CTF Hero 2019 (Rare Icon)
@@ -91,6 +99,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2019
 		Competitive Deathmatch Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
+		Competitive Deathmatch Hero 2019 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2019
 		Competitive 3v3 Group Elimination Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
 		Competitive Team Deathmatch Hero (Rare Icon)
@@ -127,10 +137,14 @@
 			Unlocked by completing Season 15 placement matches
 		Season 16 Competitor (Common Spray)
 			Unlocked by completing Season 16 placement matches
+		Season 17 Competitor (Common Spray)
+			Unlocked by completing Season 17 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
 			Unlocked by completing Copa Lúcioball 2018 placement matches
+		Copa Lúcioball Competitor 2019 (Common Spray)
+			Unlocked by completing Copa Lúcioball 2019 placement matches
 		Competitive CTF Competitor 2018 (Common Spray)
 			Unlocked by completing Competitive Capture the Flag 2018 placement matches
 		Competitive CTF Competitor 2019 (Common Spray)
@@ -141,6 +155,8 @@
 			Unlocked by completing Competitive 6v6 Elimination 2019 placement matches
 		Competitive Deathmatch Competitor 2018 (Common Spray)
 			Unlocked by completing Competitive Deathmatch placement matches 2018
+		Competitive Deathmatch Competitor 2019 (Common Spray)
+			Unlocked by completing Competitive Deathmatch 2019 placement matches
 		Competitive 3v3 Group Elimination Competitor (Common Spray)
 			Unlocked by completing Competitive 3v3 Group Elimination placement matches
 		Competitive Team Deathmatch Competitor (Common Spray)
@@ -177,10 +193,14 @@
 			Unlocked by achieving top 500 ranking at the end of Season 15
 		Season 16 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 16
+		Season 17 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 17
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2018
+		Copa Lúcioball Hero 2019 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball 2019
 		Competitive CTF Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Capture the Flag 2018
 		Competitive CTF Hero 2019 (Common Spray)
@@ -191,6 +211,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2019
 		Competitive Deathmatch Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
+		Competitive Deathmatch Hero 2019 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2019
 		Competitive 3v3 Group Elimination Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
 		Competitive Team Deathmatch Hero (Common Spray)
@@ -316,6 +338,20 @@
 			Unlocked by watching participating streams during Ana's Bastet Challenge
 		2019 Atlantic All-Stars (Rare Icon)
 		2019 Pacific All-Stars (Rare Icon)
+		Summer Games 2019 (Rare Icon)
+			Available in Summer Games Loot Boxes
+		Punchimari (Rare Icon)
+			Unlocked by participating in the Summer Games 2019 week 1 challenge
+		Tennismari (Rare Icon)
+			Unlocked by participating in the Summer Games 2019 week 2 challenge
+		Footballmari (Rare Icon)
+			Unlocked by participating in the Summer Games 2019 week 3 challenge
+		Shark Attack (Common Spray)
+			Unlocked by participating in the Summer Games 2019 week 1 challenge
+		Snorkling (Common Spray)
+			Unlocked by participating in the Summer Games 2019 week 2 challenge
+		Sand Castle (Common Spray)
+			Unlocked by participating in the Summer Games 2019 week 3 challenge
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -1341,4 +1377,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.6642217 seconds
+[Core] Execution finished in 00:00:01.4800307 seconds
