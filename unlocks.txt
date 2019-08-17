@@ -1,10 +1,10 @@
-[Core] DataTool v1.38.0.829-git-4331859d6795535d53f9671f02dc65d9e9fecf74
+[Core] DataTool v1.39.0.830-git-d43f26b7e2a0297c3d2cbfefb20df830c2df5ff9
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\829\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.38.0.3.60547
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\830\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.39.1.0.60993
 [CASC] Initializing...
-[CMF] Using CMF procedure 60547
-[CMF] Using CMF procedure 60547
+[CMF] Using CMF procedure 60993
+[CMF] Using CMF procedure 60993
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -2309,6 +2309,8 @@ Unlocks for Winston
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Flying Ace (Legendary Skin)
+			Team: Overwatch League
 	Base Unlocks
 		Winston (Rare Icon)
 		Peanut Butter (Rare Icon)
@@ -8708,10 +8710,10 @@ Unlocks for Ashe
 		Shanghai Dragons Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Shanghai Dragons
-		Overwatch League Gray (Epic Skin)
+		Overwatch League Promo Skins (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Overwatch League
-		Overwatch League White (Epic Skin)
+		Overwatch League Promo Skins Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Overwatch League
 		Washington Justice (Epic Skin)
@@ -9141,4 +9143,199 @@ Unlocks for Baptiste
 		Now that is funny (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
-[Core] Execution finished in 00:00:03.6794883 seconds
+Unlocks for Sigma
+	Default Unlocks
+		Heroic (Common VictoryPose)
+		RANDOM (Common VictoryPose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		DEFAULT (Common WeaponSkin)
+		Classic (Common Skin)
+		Gravity of the situation (Common VoiceLine)
+		Heroic (Common Emote)
+	Other Unlocks
+		GOLDEN (Common WeaponSkin)
+		Cute (Common Spray)
+		Pixel (Common Spray)
+	OWL Unlocks
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Washington Justice
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Washington Justice
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Vancouver Titans
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Vancouver Titans
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Toronto Defiant
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Toronto Defiant
+		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
+		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
+		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
+		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
+		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Paris Eternal
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Paris Eternal
+		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: New York Excelsior
+		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: New York Excelsior
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
+		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
+		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: London Spitfire
+		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: London Spitfire
+		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Houston Outlaws
+		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Houston Outlaws
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Dallas Fuel
+		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Dallas Fuel
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
+		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Boston Uprising
+		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Boston Uprising
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Atlanta Reign
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Atlanta Reign
+	Base Unlocks
+		Sigma (Rare Icon)
+		Hypersphere (Rare Icon)
+		Black Hole (Rare Icon)
+		Applause (Epic Emote)
+		Laugh (Epic Emote)
+		Observations (Epic Emote)
+		Relaxation (Epic Emote)
+		Inconsequential (Epic Emote)
+		Poised (Rare VictoryPose)
+		Observations (Rare VictoryPose)
+		Relaxation (Rare VictoryPose)
+		What comes up (Epic HighlightIntro)
+		Accretion (Epic HighlightIntro)
+		Kinetic Grasp (Epic HighlightIntro)
+		Fascinating (Common VoiceLine)
+		Approaching escape velocity (Common VoiceLine)
+		Beyond our stars (Common VoiceLine)
+		Just act normal (Common VoiceLine)
+		Humming (Common VoiceLine)
+		Hold it together (Common VoiceLine)
+		I've got it! (Common VoiceLine)
+		The beauty of the universe (Common VoiceLine)
+		Can you hear that music? (Common VoiceLine)
+		A pattern forms (Common VoiceLine)
+		Groen (Rare Skin)
+		Blauw (Rare Skin)
+		Oranje (Rare Skin)
+		Roze (Rare Skin)
+		Dr. de Kuiper (Epic Skin)
+		Talon (Epic Skin)
+		Subject Sigma (Legendary Skin)
+		Asylum (Legendary Skin)
+		Prophet (Legendary Skin)
+		Oracle (Legendary Skin)
+		Icon (Common Spray)
+		Fractured (Common Spray)
+		Cerebral (Common Spray)
+		Zero gravity (Common Spray)
+		Equations (Common Spray)
+		Galileo (Common Spray)
+		Sigma (Common Spray)
+		Accretion (Common Spray)
+		Spaghettification (Common Spray)
+		Harnessed (Common Spray)
+		Schrödinger's cat (Common Spray)
+		Maatjesharing (Common Spray)
+		Damage (Common Spray)
+		Fall (Common Spray)
+		Flux (Common Spray)
+		Sigma's Apple (Common Spray)
+		Escher (Common Spray)
+		Diagnosis (Common Spray)
+		Rise (Common Spray)
+		Unstoppable force (Common Spray)
+		Night sky (Common Spray)
+		Symphony (Common Spray)
+		Hypersphere (Common Spray)
+		If you can't handle criticism (Common VoiceLine)
+
+[Core] Execution finished in 00:00:03.6730522 seconds

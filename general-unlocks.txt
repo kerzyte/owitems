@@ -1,10 +1,10 @@
-[Core] DataTool v1.38.0.829-git-4331859d6795535d53f9671f02dc65d9e9fecf74
+[Core] DataTool v1.39.0.830-git-d43f26b7e2a0297c3d2cbfefb20df830c2df5ff9
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\829\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.38.0.3.60547
+[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\830\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.39.1.0.60993
 [CASC] Initializing...
-[CMF] Using CMF procedure 60547
-[CMF] Using CMF procedure 60547
+[CMF] Using CMF procedure 60993
+[CMF] Using CMF procedure 60993
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -44,6 +44,7 @@
 		Season 15 Competitor (Rare Icon)
 		Season 16 Competitor (Rare Icon)
 		Season 17 Competitor (Rare Icon)
+		Season 18 Competitor (Rare Icon)
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -83,6 +84,7 @@
 		Season 15 Hero (Rare Icon)
 		Season 16 Hero (Rare Icon)
 		Season 17 Hero (Rare Icon)
+		Season 18 Hero (Rare Icon)
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -139,6 +141,8 @@
 			Unlocked by completing Season 16 placement matches
 		Season 17 Competitor (Common Spray)
 			Unlocked by completing Season 17 placement matches
+		Season 18 Competitor (Common Spray)
+			Unlocked by completing Season 18 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -195,6 +199,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 16
 		Season 17 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 17
+		Season 18 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 18
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -1377,4 +1383,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.4800307 seconds
+[Core] Execution finished in 00:00:01.5331795 seconds
