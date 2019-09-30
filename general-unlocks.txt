@@ -1,10 +1,10 @@
-[Core] DataTool v1.39.0.830-git-d43f26b7e2a0297c3d2cbfefb20df830c2df5ff9
+[Core] DataTool v1.40.0.841-git-2cab57760fa38cbcfaf28a9311ac24fa1fe13f08
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\830\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.39.1.0.60993
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\841\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.40.1.0.62591
 [CASC] Initializing...
-[CMF] Using CMF procedure 60993
-[CMF] Using CMF procedure 60993
+[CMF] Using CMF procedure 62591
+[CMF] Using CMF procedure 62591
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -358,6 +358,14 @@
 			Unlocked by participating in the Summer Games 2019 week 2 challenge
 		Sand Castle (Common Spray)
 			Unlocked by participating in the Summer Games 2019 week 3 challenge
+		Watching Ball (Common Spray)
+			Unlocked by participating in the 2019 OWL Grand Finals event
+		Tailgate (Common Spray)
+			Unlocked by participating in the 2019 OWL Grand Finals event
+		Grand Finals 2019 (Rare Icon)
+			Unlocked by participating in the 2019 OWL Grand Finals event
+		Path to Pro 2019 (Common Spray)
+		Path to Pro (Rare Icon)
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -1383,4 +1391,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.5331795 seconds
+[Core] Execution finished in 00:00:01.3185433 seconds

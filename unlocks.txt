@@ -1,10 +1,10 @@
-[Core] DataTool v1.39.0.830-git-d43f26b7e2a0297c3d2cbfefb20df830c2df5ff9
+[Core] DataTool v1.40.0.841-git-2cab57760fa38cbcfaf28a9311ac24fa1fe13f08
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Downloads\Overwatch\OWLib\830\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.39.1.0.60993
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\841\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.40.1.0.62591
 [CASC] Initializing...
-[CMF] Using CMF procedure 60993
-[CMF] Using CMF procedure 60993
+[CMF] Using CMF procedure 62591
+[CMF] Using CMF procedure 62591
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -334,6 +334,8 @@ Unlocks for Tracer
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		Alliance Banner (Epic Emote)
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
+		Tracer Minifig (Rare Icon)
+			Unlocked by watching participating streams during Bastion's Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -657,6 +659,8 @@ Unlocks for Mercy
 			Unlocked by participating in the 2018 BCRF charity event
 		Together (Common Spray)
 			Unlocked by participating in the 2018 BCRF charity event
+		Reconstruction (Common Spray)
+			Unlocked by participating in the Bastion’s Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -962,6 +966,10 @@ Unlocks for Hanzo
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Hanzo Minifig (Rare Icon)
+			Unlocked by watching participating streams during Bastion's Brick Challenge
+		Brick Dragon (Common Spray)
+			Unlocked by watching participating streams during Bastion's Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -1881,6 +1889,8 @@ Unlocks for Pharah
 		Security Chief (Legendary Skin)
 			Following a sterling career in the Egyptian armed forces, Pharah joined Helix Security International as one of their chief officers.
 			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
+		Bricks Rain from Above (Common Spray)
+			Unlocked by participating in the Bastion’s Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -2488,6 +2498,8 @@ Unlocks for Widowmaker
 			Unlocked by pre-purchasing Overwatch
 		Kerrigan (Legendary Skin)
 			Unlocked as part of the StarCraft 20th Anniversary Celebration
+		Widowmaker Minifig (Rare Icon)
+			Unlocked by watching participating streams during Bastion's Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -2795,6 +2807,12 @@ Unlocks for Bastion
 			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 		BlizzCon 2016 (Epic Skin)
 			Unlocked as part of the BlizzCon 2016 Goody Bag
+		Brick (Legendary Skin)
+			Unlocked by participating in the Bastion’s Brick Challenge
+		Brickstion (Rare Icon)
+			Unlocked by participating in the Bastion’s Brick Challenge
+		Brick Ganymede (Rare Icon)
+			Unlocked by participating in the Bastion’s Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -3697,6 +3715,10 @@ Unlocks for Genji
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Genji Minifig (Rare Icon)
+			Unlocked by watching participating streams during Bastion's Brick Challenge
+		Brickblade (Common Spray)
+			Unlocked by watching participating streams during Bastion's Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -5864,6 +5886,8 @@ Unlocks for D.Va
 			Unlocked by participating in D.Va's Nano Cola Challenge
 		Astonished (Common Spray)
 			Unlocked by participating in D.Va's Nano Cola Challenge
+		Piece (Common Spray)
+			Unlocked by watching participating streams during Bastion's Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -9278,6 +9302,12 @@ Unlocks for Sigma
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Overwatch League Gray (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Overwatch League
+		Overwatch League White (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Overwatch League
 	Base Unlocks
 		Sigma (Rare Icon)
 		Hypersphere (Rare Icon)
@@ -9310,6 +9340,7 @@ Unlocks for Sigma
 		Dr. de Kuiper (Epic Skin)
 		Talon (Epic Skin)
 		Subject Sigma (Legendary Skin)
+			Brilliant astrophysicist Siebren de Kuiper gained the ability to control gravity when an experiment went terribly wrong. Now, Talon manipulates him to their own ends.
 		Asylum (Legendary Skin)
 		Prophet (Legendary Skin)
 		Oracle (Legendary Skin)
@@ -9338,4 +9369,4 @@ Unlocks for Sigma
 		Hypersphere (Common Spray)
 		If you can't handle criticism (Common VoiceLine)
 
-[Core] Execution finished in 00:00:03.6730522 seconds
+[Core] Execution finished in 00:00:02.8692409 seconds
