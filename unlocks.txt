@@ -1,10 +1,10 @@
-[Core] DataTool v1.40.0.841-git-2cab57760fa38cbcfaf28a9311ac24fa1fe13f08
+[Core] DataTool v1.41.0.843-git-c156bd83a3db68586ea181503aa8ab3fc68a52bf
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\841\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.40.1.0.62591
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\843\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.41.0.0.62906
 [CASC] Initializing...
-[CMF] Using CMF procedure 62591
-[CMF] Using CMF procedure 62591
+[CMF] Using CMF procedure 62906
+[CMF] Using CMF procedure 62906
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -254,6 +254,8 @@ Unlocks for Reaper
 		Dracula (Rare Icon)
 			Available in Halloween Loot Boxes
 		I'm dressed to kill (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Too edgy for you? (Common VoiceLine)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Stocking (Common Spray)
@@ -560,6 +562,12 @@ Unlocks for Tracer
 		Boo! (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Trick or treat (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Will-o'-Wisp (Common Spray)
+			Available in Halloween Loot Boxes
+		Will-o'-Wisp (Rare Icon)
+			Available in Halloween Loot Boxes
+		Will-o'-Wisp (Legendary Skin)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowboarding (Common Spray)
@@ -886,6 +894,8 @@ Unlocks for Mercy
 			Available in Halloween Loot Boxes
 		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
+		I'll cast a spell on you (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Angel (Common Spray)
 			Available in Winter Loot Boxes
@@ -968,7 +978,7 @@ Unlocks for Hanzo
 		GOLDEN (Common WeaponSkin)
 		Hanzo Minifig (Rare Icon)
 			Unlocked by watching participating streams during Bastion's Brick Challenge
-		Brick Dragon (Common Spray)
+		Brickstrike (Common Spray)
 			Unlocked by watching participating streams during Bastion's Brick Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
@@ -1502,6 +1512,8 @@ Unlocks for Torbjörn
 			Available in Halloween Loot Boxes
 		Batter Up (Epic Emote)
 			Available in Halloween Loot Boxes
+		Mind the beard (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Workshop (Common Spray)
 			Available in Winter Loot Boxes
@@ -1807,6 +1819,8 @@ Unlocks for Reinhardt
 		Smashing (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		What do we have here? (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ice Fishing (Common Spray)
@@ -2114,6 +2128,8 @@ Unlocks for Pharah
 		Enchanted (Rare Icon)
 			Available in Halloween Loot Boxes
 		Enchanted (Common Spray)
+			Available in Halloween Loot Boxes
+		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ice Fishing (Common Spray)
@@ -2720,6 +2736,14 @@ Unlocks for Widowmaker
 			Available in Halloween Loot Boxes
 		Spider (Epic Skin)
 			Available in Halloween Loot Boxes
+		Scorpion (Legendary Skin)
+			Available in Halloween Loot Boxes
+		In your dreams (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Scorpion (Common Spray)
+			Available in Halloween Loot Boxes
+		Scorpion (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Skiing (Common Spray)
 			Available in Winter Loot Boxes
@@ -3109,6 +3133,8 @@ Unlocks for Symmetra
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Tyrande (Legendary Skin)
+			Unlocked as part of the BlizzCon 2019 In-Game Goodies
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -3331,6 +3357,8 @@ Unlocks for Symmetra
 		The treat is a lie (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		The Summoner (Rare Icon)
+			Available in Halloween Loot Boxes
+		Everything you see (Common VoiceLine)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowflake (Common Spray)
@@ -3634,6 +3662,10 @@ Unlocks for Zenyatta
 			Available in Halloween Loot Boxes
 		Cultist (Rare Icon)
 			Available in Halloween Loot Boxes
+		Stretch (Epic Emote)
+			Available in Halloween Loot Boxes
+		Look in the mirror (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowball Fight (Common Spray)
 			Available in Winter Loot Boxes
@@ -3715,6 +3747,8 @@ Unlocks for Genji
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Illidan (Legendary Skin)
+			Unlocked as part of the BlizzCon 2019 In-Game Goodies
 		Genji Minifig (Rare Icon)
 			Unlocked by watching participating streams during Bastion's Brick Challenge
 		Brickblade (Common Spray)
@@ -4542,6 +4576,10 @@ Unlocks for McCree
 			Available in Halloween Loot Boxes
 		Undead (Epic Skin)
 			Available in Halloween Loot Boxes
+		Undertaker (Epic HighlightIntro)
+			Available in Halloween Loot Boxes
+		Already dead (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Ugly Sweater (Common Spray)
 			Available in Winter Loot Boxes
@@ -4632,6 +4670,12 @@ Unlocks for Junkrat
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Inferno (Epic Skin)
+			Unlocked by participating in the Halloween Terror 2019 week 1 challenge
+		Inferno (Common Spray)
+			Unlocked by participating in the Halloween Terror 2019 week 1 challenge
+		Inferno (Rare Icon)
+			Unlocked by participating in the Halloween Terror 2019 week 1 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -5478,6 +5522,8 @@ Unlocks for Soldier: 76
 			Available in Halloween Loot Boxes
 		Slasher (Common Spray)
 			Available in Halloween Loot Boxes
+		Not much of a living (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Army Man: 76 (Common Spray)
 			Available in Winter Loot Boxes
@@ -5785,6 +5831,12 @@ Unlocks for Lúcio
 		So good it's scary! (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Trick or treat (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Gorgon (Epic Skin)
+			Available in Halloween Loot Boxes
+		Gorgon (Common Spray)
+			Available in Halloween Loot Boxes
+		Gorgon (Rare Icon)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Hockey (Common Spray)
@@ -6417,6 +6469,8 @@ Unlocks for Mei
 			Available in Halloween Loot Boxes
 		Pumpkin (Epic Skin)
 			Available in Halloween Loot Boxes
+		You scared me (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Sculpting (Common Spray)
 			Available in Winter Loot Boxes
@@ -6505,7 +6559,11 @@ Unlocks for Sombra
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
 		Demon Hunter (Legendary Skin)
-			Unlocked as part of the BlizzCon 2018 In-Game Goodies
+			Unlocked as part of the BlizzCon 2018 In-Game Goodies or by participating in the Halloween Terror 2019 week 3 challenge
+		Demon Hunter (Rare Icon)
+			Unlocked by participating in the Halloween Terror 2019 week 3 challenge
+		Demon Hunter (Common Spray)
+			Unlocked by participating in the Halloween Terror 2019 week 3 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -7349,6 +7407,12 @@ Unlocks for Ana
 			Available in Halloween Loot Boxes
 		Corsair (Rare Icon)
 			Available in Halloween Loot Boxes
+		Pharaoh (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Mummy (Common Spray)
+			Available in Halloween Loot Boxes
+		Mummy (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Warm (Common Spray)
 			Available in Winter Loot Boxes
@@ -7629,6 +7693,12 @@ Unlocks for Orisa
 		Be careful (Common VoiceLine)
 			Available in Halloween Loot Boxes
 		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
+		Demon (Rare Icon)
+			Available in Halloween Loot Boxes
+		Demon (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Demon (Common Spray)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Star (Common Spray)
@@ -8251,6 +8321,8 @@ Unlocks for Moira
 			Available in Halloween Loot Boxes
 		Pumpkin (Rare VictoryPose)
 			Available in Halloween Loot Boxes
+		Ignorance frightens me (Common VoiceLine)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Chimney (Common Spray)
 			Available in Winter Loot Boxes
@@ -8854,6 +8926,19 @@ Unlocks for Ashe
 			Available in Summer Games Loot Boxes
 		Shooting (Rare Icon)
 			Available in Summer Games Loot Boxes
+	Halloween Unlocks
+		Warlock (Legendary Skin)
+			Available in Halloween Loot Boxes
+		Scream Queen (Epic HighlightIntro)
+			Available in Halloween Loot Boxes
+		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
+		Warlock (Common Spray)
+			Available in Halloween Loot Boxes
+		Warlock (Rare Icon)
+			Available in Halloween Loot Boxes
+		Summoned (Rare Icon)
+			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snowball Fight (Common Spray)
 			Available in Winter Loot Boxes
@@ -8943,6 +9028,12 @@ Unlocks for Baptiste
 			Unlocked by watching participating streams during Baptiste's Reunion Challenge
 		So Fresh (Common Spray)
 			Unlocked by watching participating streams during Baptiste's Reunion Challenge
+		Vampire (Common Spray)
+			Unlocked by participating in the Halloween Terror 2019 week 2 challenge
+		Vampire (Epic Skin)
+			Unlocked by participating in the Halloween Terror 2019 week 2 challenge
+		Vampire (Rare Icon)
+			Unlocked by participating in the Halloween Terror 2019 week 2 challenge
 	OWL Unlocks
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
@@ -9139,6 +9230,15 @@ Unlocks for Baptiste
 			Available in Summer Games Loot Boxes
 		No point rushing in (Common VoiceLine)
 			Available in Summer Games Loot Boxes
+	Halloween Unlocks
+		Don't cry (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Bandage or bullet? (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Don't die on me (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
 	Archives Unlocks
 		Talon (Legendary Skin)
 			After his service in the Caribbean Coalition was complete, Baptiste struggled to find a demand for his unique skills. Talon was more than happy to help. 
@@ -9368,5 +9468,16 @@ Unlocks for Sigma
 		Symphony (Common Spray)
 		Hypersphere (Common Spray)
 		If you can't handle criticism (Common VoiceLine)
+	Halloween Unlocks
+		Pumpkin (Rare VictoryPose)
+			Available in Halloween Loot Boxes
+		Trick or Treat (Common Spray)
+			Available in Halloween Loot Boxes
+		The knives are sharpened (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Mouth full of teeth (Common VoiceLine)
+			Available in Halloween Loot Boxes
+		Frightful (Common VoiceLine)
+			Available in Halloween Loot Boxes
 
-[Core] Execution finished in 00:00:02.8692409 seconds
+[Core] Execution finished in 00:00:01.0695038 seconds

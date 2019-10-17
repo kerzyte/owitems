@@ -1,10 +1,10 @@
-[Core] DataTool v1.40.0.841-git-2cab57760fa38cbcfaf28a9311ac24fa1fe13f08
+[Core] DataTool v1.41.0.843-git-c156bd83a3db68586ea181503aa8ab3fc68a52bf
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\841\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.40.1.0.62591
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\843\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.41.0.0.62906
 [CASC] Initializing...
-[CMF] Using CMF procedure 62591
-[CMF] Using CMF procedure 62591
+[CMF] Using CMF procedure 62906
+[CMF] Using CMF procedure 62906
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -63,8 +63,10 @@
 			Unlocked by completing Competitive Deathmatch 2018 placement matches
 		Competitive Deathmatch Competitor 2019 (Rare Icon)
 			Unlocked by completing Competitive Deathmatch 2019 placement matches
-		Competitive 3v3 Group Elimination Competitor (Rare Icon)
-			Unlocked by completing Competitive 3v3 Group Elimination placement matches
+		Competitive 3v3 Elimination Competitor 2018 (Rare Icon)
+			Unlocked by completing Competitive 3v3 Elimination 2018 placement matches
+		Competitive 3v3 Elimination Competitor 2019 (Rare Icon)
+			Unlocked by completing Competitive 3v3 Elimination 2019 placement matches
 		Competitive Team Deathmatch Competitor (Rare Icon)
 			Unlocked by completing Competitive Team Deathmatch placement matches
 		Season 1 Hero (Rare Icon)
@@ -103,8 +105,10 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive Deathmatch Hero 2019 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2019
-		Competitive 3v3 Group Elimination Hero (Rare Icon)
-			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
+		Competitive 3v3 Elimination Hero 2018 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2018
+		Competitive 3v3 Elimination Hero 2019 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2019
 		Competitive Team Deathmatch Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch
 		Season 1 Competitor (Common Spray)
@@ -161,8 +165,10 @@
 			Unlocked by completing Competitive Deathmatch placement matches 2018
 		Competitive Deathmatch Competitor 2019 (Common Spray)
 			Unlocked by completing Competitive Deathmatch 2019 placement matches
-		Competitive 3v3 Group Elimination Competitor (Common Spray)
-			Unlocked by completing Competitive 3v3 Group Elimination placement matches
+		Competitive 3v3 Elimination Competitor 2018 (Common Spray)
+			Unlocked by completing Competitive 3v3 Elimination 2018 placement matches
+		Competitive 3v3 Elimination Competitor 2019 (Common Spray)
+			Unlocked by completing Competitive 3v3 Elimination 2019 placement matches
 		Competitive Team Deathmatch Competitor (Common Spray)
 			Unlocked by completing Competitive Team Deathmatch placement matches
 		Season 1 Hero (Common Spray)
@@ -219,8 +225,10 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive Deathmatch Hero 2019 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2019
-		Competitive 3v3 Group Elimination Hero (Common Spray)
-			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Group Elimination
+		Competitive 3v3 Elimination Hero 2018 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2018
+		Competitive 3v3 Elimination Hero 2019 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2019
 		Competitive Team Deathmatch Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch
 		Dark Wanderer (Rare Icon)
@@ -344,6 +352,24 @@
 			Unlocked by watching participating streams during Ana's Bastet Challenge
 		2019 Atlantic All-Stars (Rare Icon)
 		2019 Pacific All-Stars (Rare Icon)
+		Arthas (Rare Icon)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Kel'Thuzad (Rare Icon)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Thrall (Rare Icon)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Tyrande (Rare Icon)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Lich King (Rare Icon)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Footman (Common Spray)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Ghoul (Common Spray)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Grunt (Common Spray)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
+		Archer (Common Spray)
+			Unlocked with purchase of Warcraft III: Reforged Spoils of War Edition
 		Summer Games 2019 (Rare Icon)
 			Available in Summer Games Loot Boxes
 		Punchimari (Rare Icon)
@@ -366,6 +392,7 @@
 			Unlocked by participating in the 2019 OWL Grand Finals event
 		Path to Pro 2019 (Common Spray)
 		Path to Pro (Rare Icon)
+		Halloween Terror 2019 (Rare Icon)
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -576,6 +603,8 @@
 		Witchymari (Rare Icon)
 			Available in Halloween Loot Boxes
 		Pumpkimari (Rare Icon)
+			Available in Halloween Loot Boxes
+		Kittymari (Rare Icon)
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Globe (Rare Icon)
@@ -1391,4 +1420,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.3185433 seconds
+[Core] Execution finished in 00:00:00.9200607 seconds
