@@ -1,10 +1,10 @@
-[Core] DataTool v1.41.0.843-git-c156bd83a3db68586ea181503aa8ab3fc68a52bf
+[Core] DataTool v1.42.0.852-git-04b54b600943f861cb1bdf0e80b8d28709afdce9
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\843\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.41.0.0.62906
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\852\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.42.0.0.63778
 [CASC] Initializing...
-[CMF] Using CMF procedure 62906
-[CMF] Using CMF procedure 62906
+[CMF] Using CMF procedure 63778
+[CMF] Using CMF procedure 63778
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -9480,4 +9480,4 @@ Unlocks for Sigma
 		Frightful (Common VoiceLine)
 			Available in Halloween Loot Boxes
 
-[Core] Execution finished in 00:00:01.0695038 seconds
+[Core] Execution finished in 00:00:01.1579045 seconds

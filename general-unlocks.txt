@@ -1,10 +1,10 @@
-[Core] DataTool v1.41.0.843-git-c156bd83a3db68586ea181503aa8ab3fc68a52bf
+[Core] DataTool v1.42.0.852-git-04b54b600943f861cb1bdf0e80b8d28709afdce9
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\843\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.41.0.0.62906
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\852\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.42.0.0.63778
 [CASC] Initializing...
-[CMF] Using CMF procedure 62906
-[CMF] Using CMF procedure 62906
+[CMF] Using CMF procedure 63778
+[CMF] Using CMF procedure 63778
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -67,8 +67,8 @@
 			Unlocked by completing Competitive 3v3 Elimination 2018 placement matches
 		Competitive 3v3 Elimination Competitor 2019 (Rare Icon)
 			Unlocked by completing Competitive 3v3 Elimination 2019 placement matches
-		Competitive Team Deathmatch Competitor (Rare Icon)
-			Unlocked by completing Competitive Team Deathmatch placement matches
+		Competitive Team Deathmatch Competitor 2018 (Rare Icon)
+			Unlocked by completing Competitive Team Deathmatch 2018 placement matches
 		Season 1 Hero (Rare Icon)
 		Season 2 Hero (Rare Icon)
 		Season 3 Hero (Rare Icon)
@@ -109,8 +109,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2018
 		Competitive 3v3 Elimination Hero 2019 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2019
-		Competitive Team Deathmatch Hero (Rare Icon)
-			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch
+		Competitive Team Deathmatch Hero 2018 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2018
 		Season 1 Competitor (Common Spray)
 			Unlocked by completing Season 1 placement matches
 		Season 2 Competitor (Common Spray)
@@ -169,8 +169,8 @@
 			Unlocked by completing Competitive 3v3 Elimination 2018 placement matches
 		Competitive 3v3 Elimination Competitor 2019 (Common Spray)
 			Unlocked by completing Competitive 3v3 Elimination 2019 placement matches
-		Competitive Team Deathmatch Competitor (Common Spray)
-			Unlocked by completing Competitive Team Deathmatch placement matches
+		Competitive Team Deathmatch Competitor 2018 (Common Spray)
+			Unlocked by completing Competitive Team Deathmatch 2018 placement matches
 		Season 1 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking during Season 1
 		Season 2 Hero (Common Spray)
@@ -229,8 +229,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2018
 		Competitive 3v3 Elimination Hero 2019 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2019
-		Competitive Team Deathmatch Hero (Common Spray)
-			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch
+		Competitive Team Deathmatch Hero 2018 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2018
 		Dark Wanderer (Rare Icon)
 			Unlocked as part of the Diablo 20th Anniversary celebration
 		Wizard (Common Spray)
@@ -1420,4 +1420,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.9200607 seconds
+[Core] Execution finished in 00:00:00.9554212 seconds
