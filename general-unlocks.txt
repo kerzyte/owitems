@@ -1,10 +1,10 @@
-[Core] DataTool v1.42.0.852-git-04b54b600943f861cb1bdf0e80b8d28709afdce9
+[Core] DataTool v1.42.0.855-git-75497e17c0afb455b9aee19c9748faa43c08aa35
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\852\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.42.0.0.63778
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\855\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.42.0.0.63869
 [CASC] Initializing...
-[CMF] Using CMF procedure 63778
-[CMF] Using CMF procedure 63778
+[CMF] Using CMF procedure 63869
+[CMF] Using CMF procedure 63869
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -45,6 +45,8 @@
 		Season 16 Competitor (Rare Icon)
 		Season 17 Competitor (Rare Icon)
 		Season 18 Competitor (Rare Icon)
+		Season 19 Competitor (Rare Icon)
+			Unlocked by completing Season 19 placement matches
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -69,6 +71,8 @@
 			Unlocked by completing Competitive 3v3 Elimination 2019 placement matches
 		Competitive Team Deathmatch Competitor 2018 (Rare Icon)
 			Unlocked by completing Competitive Team Deathmatch 2018 placement matches
+		Competitive Team Deathmatch Competitor 2019 (Rare Icon)
+			Unlocked by completing Competitive Team Deathmatch 2019 placement matches
 		Season 1 Hero (Rare Icon)
 		Season 2 Hero (Rare Icon)
 		Season 3 Hero (Rare Icon)
@@ -87,6 +91,8 @@
 		Season 16 Hero (Rare Icon)
 		Season 17 Hero (Rare Icon)
 		Season 18 Hero (Rare Icon)
+		Season 19 Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Season 19
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -111,6 +117,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2019
 		Competitive Team Deathmatch Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2018
+		Competitive Team Deathmatch Hero 2019 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2019
 		Season 1 Competitor (Common Spray)
 			Unlocked by completing Season 1 placement matches
 		Season 2 Competitor (Common Spray)
@@ -147,6 +155,8 @@
 			Unlocked by completing Season 17 placement matches
 		Season 18 Competitor (Common Spray)
 			Unlocked by completing Season 18 placement matches
+		Season 19 Competitor (Common Spray)
+			Unlocked by completing Season 19 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -171,6 +181,8 @@
 			Unlocked by completing Competitive 3v3 Elimination 2019 placement matches
 		Competitive Team Deathmatch Competitor 2018 (Common Spray)
 			Unlocked by completing Competitive Team Deathmatch 2018 placement matches
+		Competitive Team Deathmatch Competitor 2019 (Common Spray)
+			Unlocked by completing Competitive Team Deathmatch placement matches 2019
 		Season 1 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking during Season 1
 		Season 2 Hero (Common Spray)
@@ -207,6 +219,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 17
 		Season 18 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 18
+		Season 19 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 19
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -231,6 +245,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2019
 		Competitive Team Deathmatch Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2018
+		Competitive Team Deathmatch Hero 2019 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Team Deathmatch 2019
 		Dark Wanderer (Rare Icon)
 			Unlocked as part of the Diablo 20th Anniversary celebration
 		Wizard (Common Spray)
@@ -1420,4 +1436,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.9554212 seconds
+[Core] Execution finished in 00:00:00.9873168 seconds

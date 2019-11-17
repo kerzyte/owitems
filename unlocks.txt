@@ -1,10 +1,10 @@
-[Core] DataTool v1.42.0.852-git-04b54b600943f861cb1bdf0e80b8d28709afdce9
+[Core] DataTool v1.42.0.855-git-75497e17c0afb455b9aee19c9748faa43c08aa35
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\852\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.42.0.0.63778
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\855\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.42.0.0.63869
 [CASC] Initializing...
-[CMF] Using CMF procedure 63778
-[CMF] Using CMF procedure 63778
+[CMF] Using CMF procedure 63869
+[CMF] Using CMF procedure 63869
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -669,6 +669,26 @@ Unlocks for Mercy
 			Unlocked by participating in the 2018 BCRF charity event
 		Reconstruction (Common Spray)
 			Unlocked by participating in the Bastion’s Brick Challenge
+		Evaluation (Common Spray)
+			Unlocked by participating in Mercy's Recall Challenge
+		Lab Coat (Common Spray)
+			Unlocked by participating in Mercy's Recall Challenge
+		Dr. Ziegler (Legendary Skin)
+			Unlocked by participating in Mercy's Recall Challenge
+		Dr. Ziegler (Rare Icon)
+			Unlocked by participating in Mercy's Recall Challenge
+		On the clock (Common Spray)
+			Unlocked by watching participating streams during Mercy's Recall Challenge
+		Healing touch (Common Spray)
+			Unlocked by watching participating streams during Mercy's Recall Challenge
+		Hanan (Common Spray)
+			Unlocked by watching participating streams during Mercy's Recall Challenge
+		Suit fitting (Common Spray)
+			Unlocked by watching participating streams during Mercy's Recall Challenge
+		Late night (Common Spray)
+			Unlocked by watching participating streams during Mercy's Recall Challenge
+		Ascent (Common Spray)
+			Unlocked by watching participating streams during Mercy's Recall Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -9480,4 +9500,4 @@ Unlocks for Sigma
 		Frightful (Common VoiceLine)
 			Available in Halloween Loot Boxes
 
-[Core] Execution finished in 00:00:01.1579045 seconds
+[Core] Execution finished in 00:00:01.0716787 seconds
