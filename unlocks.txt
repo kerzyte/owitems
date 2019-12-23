@@ -1,10 +1,10 @@
-[Core] DataTool v1.42.0.855-git-75497e17c0afb455b9aee19c9748faa43c08aa35
+[Core] DataTool v1.43.0.858-git-7df896aa214f93a4165c50ba690775381a7b8735
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\855\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.42.0.0.63869
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\858\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.43.0.0.64719
 [CASC] Initializing...
-[CMF] Using CMF procedure 63869
-[CMF] Using CMF procedure 63869
+[CMF] Using CMF procedure 64719
+[CMF] Using CMF procedure 64719
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -269,6 +269,12 @@ Unlocks for Reaper
 		You're on ice (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
+		Rat King (Legendary Skin)
+			Available in Winter Loot Boxes
+		Rat King (Rare Icon)
+			Available in Winter Loot Boxes
+		Rat King (Common Spray)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fire Blossom (Common Spray)
@@ -689,6 +695,12 @@ Unlocks for Mercy
 			Unlocked by watching participating streams during Mercy's Recall Challenge
 		Ascent (Common Spray)
 			Unlocked by watching participating streams during Mercy's Recall Challenge
+		Snow Angel (Rare Icon)
+			Unlocked by participating in the Winter Wonderland 2019 week 3 challenge
+		Winter spell (Common Spray)
+			Unlocked by participating in the Winter Wonderland 2019 week 3 challenge
+		Snow Angel (Epic Skin)
+			Unlocked by participating in the Winter Wonderland 2019 week 3 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -930,7 +942,6 @@ Unlocks for Mercy
 		I could use the time off (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Sugar Plum Fairy (Legendary Skin)
-			Available in Winter Loot Boxes
 		Sugar Plum Fairy (Rare Icon)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
@@ -1230,11 +1241,9 @@ Unlocks for Hanzo
 		A gift for you (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Casual (Legendary Skin)
-			Available in Winter Loot Boxes
 		Cold as ice (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Casual (Rare Icon)
-			Available in Winter Loot Boxes
 		Out Cold (Common VoiceLine)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
@@ -1852,7 +1861,6 @@ Unlocks for Reinhardt
 		You're on my naughty list (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Snowball Fight (Epic HighlightIntro)
-			Available in Winter Loot Boxes
 		Forgive and forget (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Festive (Epic Skin)
@@ -2465,6 +2473,8 @@ Unlocks for Winston
 			Available in Winter Loot Boxes
 		I'm a Party Animal (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Hello, My Name Is (Epic Emote)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Kite (Common Spray)
 			Available in Lunar Loot Boxes
@@ -2780,7 +2790,6 @@ Unlocks for Widowmaker
 		Biathlon (Rare Icon)
 			Available in Winter Loot Boxes
 		Biathlon (Legendary Skin)
-			Available in Winter Loot Boxes
 		Happy Holidays (Common VoiceLine)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
@@ -3082,13 +3091,10 @@ Unlocks for Bastion
 		DWEE DOO HOO (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Avalanche (Legendary Skin)
-			Available in Winter Loot Boxes
 		BWOO BWOO BWOO (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Avalanche (Rare Icon)
-			Available in Winter Loot Boxes
 		Gift Wrap (Epic Skin)
-			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Bast-yum (Common Spray)
 			Available in Lunar Loot Boxes
@@ -3392,8 +3398,11 @@ Unlocks for Symmetra
 		Expecting a miracle? (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Figure Skater (Legendary Skin)
-			Available in Winter Loot Boxes
 		Figure Skater (Rare Icon)
+			Available in Winter Loot Boxes
+		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
+		Finding beauty (Common VoiceLine)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Lantern (Common Spray)
@@ -3704,6 +3713,8 @@ Unlocks for Zenyatta
 		Snowflake (Epic Emote)
 			Available in Winter Loot Boxes
 		Snowball Fight? (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Nutcracker (Common Spray)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Yut Nori (Common Spray)
@@ -4304,12 +4315,12 @@ Unlocks for Roadhog
 		Ho ho ho (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Ice Fisherman (Legendary Skin)
-			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
 			Available in Winter Loot Boxes
 		I have your present right here (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Ice Fisherman (Rare Icon)
+		Sweet as (Common VoiceLine)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Steamed Buns (Common Spray)
@@ -4612,6 +4623,10 @@ Unlocks for McCree
 		Had to break the ice (Common VoiceLine)
 			Available in Winter Loot Boxes
 		You've been snowed in (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Mountain Man (Legendary Skin)
+			Available in Winter Loot Boxes
+		Mountain Man (Rare Icon)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Call It (Common Spray)
@@ -4929,11 +4944,9 @@ Unlocks for Junkrat
 		Merry Christmas (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Beachrat (Legendary Skin)
-			Available in Winter Loot Boxes
 		Go on... give it a shake! (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Beachrat (Rare Icon)
-			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
 			Available in Winter Loot Boxes
 		Happy Holidays (Common VoiceLine)
@@ -4941,6 +4954,7 @@ Unlocks for Junkrat
 		Krampus (Rare Icon)
 			Available in Winter Loot Boxes
 		Krampus (Legendary Skin)
+		Season's greetings! (Common VoiceLine)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		I'm flying! (Common Spray)
@@ -5253,6 +5267,7 @@ Unlocks for Zarya
 		Snowboarder (Rare Icon)
 			Available in Winter Loot Boxes
 		Snowboarder (Legendary Skin)
+		Happy New Year! (Common VoiceLine)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Calories (Common Spray)
@@ -5319,6 +5334,12 @@ Unlocks for Soldier: 76
 			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 		Jack and Vincent (Common Spray)
 			Unlocked by watching participating streams during Ana's Bastet Challenge
+		Ugly Sweater (Rare Icon)
+			Unlocked by participating in the Winter Wonderland 2019 week 1 challenge
+		Ugly Sweater (Common Spray)
+			Unlocked by participating in the Winter Wonderland 2019 week 1 challenge
+		Ugly Sweater: 76 (Epic Skin)
+			Unlocked by participating in the Winter Wonderland 2019 week 1 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -5554,11 +5575,9 @@ Unlocks for Soldier: 76
 		Stay frosty (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Alpine: 76 (Legendary Skin)
-			Available in Winter Loot Boxes
 		Merry Christmas (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Alpine (Rare Icon)
-			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Folded Hands (Common Spray)
 			Available in Lunar Loot Boxes
@@ -5873,6 +5892,7 @@ Unlocks for Lúcio
 		Snow Fox (Rare Icon)
 			Available in Winter Loot Boxes
 		Snow Fox (Legendary Skin)
+		Toast (Rare VictoryPose)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Keep Ups (Common Spray)
@@ -6506,6 +6526,8 @@ Unlocks for Mei
 			Available in Winter Loot Boxes
 		Snowball Fight! (Common VoiceLine)
 			Available in Winter Loot Boxes
+		Festive (Epic HighlightIntro)
+			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortune (Common Spray)
 			Available in Lunar Loot Boxes
@@ -6819,12 +6841,12 @@ Unlocks for Sombra
 		I know who's been naughty (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Rime (Legendary Skin)
-			Available in Winter Loot Boxes
 		I can be nice (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Rime (Rare Icon)
-			Available in Winter Loot Boxes
 		Merry Christmas (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Regifted (Epic Emote)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortunate (Common Spray)
@@ -7106,14 +7128,16 @@ Unlocks for Doomfist
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Snow Punch (Common Spray)
-			Available in Winter Loot Boxes
 		Ornament (Common Spray)
-			Available in Winter Loot Boxes
 		Did you bring me a present? (Common VoiceLine)
 			Available in Winter Loot Boxes
 		They say chivalry is dead (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Toast (Rare VictoryPose)
+			Available in Winter Loot Boxes
+		Jötunn (Legendary Skin)
+			Available in Winter Loot Boxes
+		Jötunn (Rare Icon)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Fortune favors the bold (Common VoiceLine)
@@ -7443,11 +7467,9 @@ Unlocks for Ana
 		I'm watching out for you (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Snow Owl (Legendary Skin)
-			Available in Winter Loot Boxes
 		I'm too old for surprises (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Snow Owl (Rare Icon)
-			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Dance (Common Spray)
 			Available in Lunar Loot Boxes
@@ -7722,9 +7744,7 @@ Unlocks for Orisa
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Star (Common Spray)
-			Available in Winter Loot Boxes
 		Ornament (Common Spray)
-			Available in Winter Loot Boxes
 		Puppy (Legendary Emote)
 			Available in Winter Loot Boxes
 		Can't I guide your way tonight (Common VoiceLine)
@@ -8120,6 +8140,12 @@ Unlocks for Moira
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
 		Pixel (Common Spray)
+		Coinín Nollag (Rare Icon)
+			Unlocked by participating in the Winter Wonderland 2019 week 2 challenge
+		Presents (Common Spray)
+			Unlocked by participating in the Winter Wonderland 2019 week 2 challenge
+		Holly (Epic Skin)
+			Unlocked by participating in the Winter Wonderland 2019 week 2 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -8345,9 +8371,7 @@ Unlocks for Moira
 			Available in Halloween Loot Boxes
 	Winter Unlocks
 		Chimney (Common Spray)
-			Available in Winter Loot Boxes
 		Ornament (Common Spray)
-			Available in Winter Loot Boxes
 		Happy Christmas (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Absolute zero (Common VoiceLine)
@@ -8682,6 +8706,10 @@ Unlocks for Wrecking Ball
 		Ho. Ho. Ho. (Common VoiceLine)
 			Available in Winter Loot Boxes
 		Deck the halls (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Jingle bells (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Imbibe (Rare VictoryPose)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Armament (Rare VictoryPose)
@@ -9259,6 +9287,17 @@ Unlocks for Baptiste
 			Available in Halloween Loot Boxes
 		Trick or Treat (Common Spray)
 			Available in Halloween Loot Boxes
+	Winter Unlocks
+		Snowball Fight (Common Spray)
+			Available in Winter Loot Boxes
+		Ornament (Common Spray)
+			Available in Winter Loot Boxes
+		A little T.L.C. (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Today, I give you a choice (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Some kind of angel (Common VoiceLine)
+			Available in Winter Loot Boxes
 	Archives Unlocks
 		Talon (Legendary Skin)
 			After his service in the Caribbean Coalition was complete, Baptiste struggled to find a demand for his unique skills. Talon was more than happy to help. 
@@ -9499,5 +9538,20 @@ Unlocks for Sigma
 			Available in Halloween Loot Boxes
 		Frightful (Common VoiceLine)
 			Available in Halloween Loot Boxes
+	Winter Unlocks
+		Rime (Legendary Skin)
+			Available in Winter Loot Boxes
+		Ice Statue (Common Spray)
+			Available in Winter Loot Boxes
+		Ornament (Common Spray)
+			Available in Winter Loot Boxes
+		Glorious (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Party guy (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Happy Christmas! (Common VoiceLine)
+			Available in Winter Loot Boxes
+		Rime (Rare Icon)
+			Available in Winter Loot Boxes
 
-[Core] Execution finished in 00:00:01.0716787 seconds
+[Core] Execution finished in 00:00:01.1790914 seconds

@@ -1,10 +1,10 @@
-[Core] DataTool v1.42.0.855-git-75497e17c0afb455b9aee19c9748faa43c08aa35
+[Core] DataTool v1.43.0.858-git-7df896aa214f93a4165c50ba690775381a7b8735
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\855\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.42.0.0.63869
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\858\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.43.0.0.64719
 [CASC] Initializing...
-[CMF] Using CMF procedure 63869
-[CMF] Using CMF procedure 63869
+[CMF] Using CMF procedure 64719
+[CMF] Using CMF procedure 64719
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -47,6 +47,8 @@
 		Season 18 Competitor (Rare Icon)
 		Season 19 Competitor (Rare Icon)
 			Unlocked by completing Season 19 placement matches
+		Season 20 Competitor (Rare Icon)
+			Unlocked by completing Season 20 placement matches
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -93,6 +95,8 @@
 		Season 18 Hero (Rare Icon)
 		Season 19 Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Season 19
+		Season 20 Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Season 20
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -157,6 +161,8 @@
 			Unlocked by completing Season 18 placement matches
 		Season 19 Competitor (Common Spray)
 			Unlocked by completing Season 19 placement matches
+		Season 20 Competitor (Common Spray)
+			Unlocked by completing Season 20 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -221,6 +227,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 18
 		Season 19 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 19
+		Season 20 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 20
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -295,7 +303,6 @@
 		Yeti Hunter (Common Spray)
 		Yeti (Common Spray)
 		Winter Wonderland 2017 (Rare Icon)
-			Available in Winter Loot Boxes
 		Year of the Rooster 2017 (Rare Icon)
 		Awakened Lion (Common Spray)
 		Auspicious Lion (Common Spray)
@@ -357,11 +364,14 @@
 			Unlocked by participating in the 2018 OWL Grand Finals event
 		Living Room (Common Spray)
 			Unlocked by participating in the 2018 OWL Grand Finals event
-		Winter Wonderland 2018 (Rare Icon)
-		Year of the Pig 2019 (Rare Icon)
 		Bonk (Common Spray)
+		Winter Wonderland 2018 (Rare Icon)
 		Frozen Throne (Common Spray)
 		Yeti Rage (Common Spray)
+		Jötunn (Common Spray)
+		Mountain Man (Common Spray)
+		Ice Spheres (Common Spray)
+		Year of the Pig 2019 (Rare Icon)
 		Captured Flag (Common Spray)
 		Interrupted Delivery (Common Spray)
 		Bastet (Common Spray)
@@ -409,6 +419,13 @@
 		Path to Pro 2019 (Common Spray)
 		Path to Pro (Rare Icon)
 		Halloween Terror 2019 (Rare Icon)
+		Winter Wonderland 2019 (Rare Icon)
+		Holiday surprise (Common Spray)
+			Unlocked by logging into the game during the Winter Wonderland 2019 event
+		Snow snow snow (Common Spray)
+			Unlocked by logging into the game during the Winter Wonderland 2019 event
+		Polar bear (Common Spray)
+			Unlocked by logging into the game during the Winter Wonderland 2019 event
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -668,14 +685,14 @@
 		Winter Wonderland (Common Spray)
 			Available in Winter Loot Boxes
 		2018 (Rare Icon)
-			Available in Winter Loot Boxes
 		Yetimari (Rare Icon)
-			Available in Winter Loot Boxes
 		2019 (Rare Icon)
 			Available in Winter Loot Boxes
 		Pachicracker (Rare Icon)
 			Available in Winter Loot Boxes
 		Snowimari (Rare Icon)
+			Available in Winter Loot Boxes
+		2020 (Rare Icon)
 			Available in Winter Loot Boxes
 	Lunar New Year Unlocks
 		Peachimari (Rare Icon)
@@ -1436,4 +1453,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.9873168 seconds
+[Core] Execution finished in 00:00:00.9049106 seconds
