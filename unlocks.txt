@@ -1,10 +1,10 @@
-[Core] DataTool v1.43.0.858-git-7df896aa214f93a4165c50ba690775381a7b8735
+[Core] DataTool v1.44.0.861-git-4c7b11c7a11ac041e4f4e3c52f6d9f1892d0e565
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\858\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.43.0.0.64719
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\861\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.44.0.1.65513
 [CASC] Initializing...
-[CMF] Using CMF procedure 64719
-[CMF] Using CMF procedure 64719
+[CMF] Using CMF procedure 65513
+[CMF] Using CMF procedure 65513
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -43,10 +43,10 @@ Unlocks for Reaper
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -55,7 +55,7 @@ Unlocks for Reaper
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -76,7 +76,7 @@ Unlocks for Reaper
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -85,7 +85,7 @@ Unlocks for Reaper
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -97,7 +97,7 @@ Unlocks for Reaper
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -154,6 +154,24 @@ Unlocks for Reaper
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Reaper (Rare Icon)
 		Soul (Rare Icon)
@@ -360,10 +378,10 @@ Unlocks for Tracer
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -372,7 +390,7 @@ Unlocks for Tracer
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -393,7 +411,7 @@ Unlocks for Tracer
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Dallas Fuel
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws Away (Epic Skin)
@@ -405,7 +423,7 @@ Unlocks for Tracer
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		New York Excelsior Away (Epic Skin)
@@ -414,7 +432,7 @@ Unlocks for Tracer
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Philadelphia Fusion
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty Away (Epic Skin)
@@ -474,6 +492,24 @@ Unlocks for Tracer
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Tracer (Rare Icon)
 		Pulse Bomb (Rare Icon)
@@ -717,10 +753,10 @@ Unlocks for Mercy
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -729,7 +765,7 @@ Unlocks for Mercy
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -750,7 +786,7 @@ Unlocks for Mercy
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -759,7 +795,7 @@ Unlocks for Mercy
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -771,7 +807,7 @@ Unlocks for Mercy
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -831,6 +867,24 @@ Unlocks for Mercy
 		2019 Atlantic All-Stars (Legendary Skin)
 			Unlocked with purchase of 2019 Atlantic All-Stars skin
 			Team: All-Star
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Mercy (Rare Icon)
 		Guardian Angel (Rare Icon)
@@ -959,6 +1013,8 @@ Unlocks for Mercy
 			Available in Lunar Loot Boxes
 		Zhuque (Legendary Skin)
 			Available in Lunar Loot Boxes
+		How are you feeling (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Combat Medic (Common Spray)
 			Available in Archives Loot Boxes
@@ -1027,10 +1083,10 @@ Unlocks for Hanzo
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -1039,7 +1095,7 @@ Unlocks for Hanzo
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -1060,7 +1116,7 @@ Unlocks for Hanzo
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -1069,7 +1125,7 @@ Unlocks for Hanzo
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -1081,7 +1137,7 @@ Unlocks for Hanzo
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -1138,6 +1194,24 @@ Unlocks for Hanzo
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Hanzo (Rare Icon)
 		Storm (Rare Icon)
@@ -1263,6 +1337,8 @@ Unlocks for Hanzo
 			Available in Lunar Loot Boxes
 		Hanzhong (Rare Icon)
 			Available in Lunar Loot Boxes
+		Sky Lantern (Epic Emote)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Ramen (Common Spray)
 			Available in Archives Loot Boxes
@@ -1335,10 +1411,10 @@ Unlocks for Torbjörn
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -1347,7 +1423,7 @@ Unlocks for Torbjörn
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -1371,7 +1447,7 @@ Unlocks for Torbjörn
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -1380,7 +1456,7 @@ Unlocks for Torbjörn
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -1392,7 +1468,7 @@ Unlocks for Torbjörn
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -1446,6 +1522,24 @@ Unlocks for Torbjörn
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Torbjörn (Rare Icon)
 		Forge (Rare Icon)
@@ -1574,6 +1668,8 @@ Unlocks for Torbjörn
 			Available in Lunar Loot Boxes
 		Serpent Spear (Rare Icon)
 			Available in Lunar Loot Boxes
+		Firework (Rare VictoryPose)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Brigitte (Common Spray)
 			Available in Archives Loot Boxes
@@ -1644,10 +1740,10 @@ Unlocks for Reinhardt
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -1656,7 +1752,7 @@ Unlocks for Reinhardt
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -1680,7 +1776,7 @@ Unlocks for Reinhardt
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -1689,7 +1785,7 @@ Unlocks for Reinhardt
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -1701,7 +1797,7 @@ Unlocks for Reinhardt
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -1755,6 +1851,24 @@ Unlocks for Reinhardt
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Reinhardt (Rare Icon)
 		Scar (Rare Icon)
@@ -1949,10 +2063,10 @@ Unlocks for Pharah
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -1961,7 +2075,7 @@ Unlocks for Pharah
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -1982,7 +2096,7 @@ Unlocks for Pharah
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -1991,7 +2105,7 @@ Unlocks for Pharah
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -2003,7 +2117,7 @@ Unlocks for Pharah
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -2060,6 +2174,24 @@ Unlocks for Pharah
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Pharah (Rare Icon)
 		Raptora (Rare Icon)
@@ -2185,6 +2317,10 @@ Unlocks for Pharah
 			Available in Lunar Loot Boxes
 		Qinglong (Legendary Skin)
 			Available in Lunar Loot Boxes
+		Lion Mask (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		I don't think so (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Target Practice (Common Spray)
 			Available in Archives Loot Boxes
@@ -2236,6 +2372,12 @@ Unlocks for Winston
 		GOLDEN (Common WeaponSkin)
 		BlizzCon 2017 (Epic Skin)
 			Unlocked as part of the BlizzCon 2017 In-Game Goodies
+		Ancient Bronze (Rare Icon)
+			Unlocked by participating in the Year of the Rat 2020 week 2 challenge
+		Ancient Bronze (Common Spray)
+			Unlocked by participating in the Year of the Rat 2020 week 2 challenge
+		Ancient Bronze (Epic Skin)
+			Unlocked by participating in the Year of the Rat 2020 week 2 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -2252,10 +2394,10 @@ Unlocks for Winston
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -2264,7 +2406,7 @@ Unlocks for Winston
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -2288,7 +2430,7 @@ Unlocks for Winston
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -2297,7 +2439,7 @@ Unlocks for Winston
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -2309,7 +2451,7 @@ Unlocks for Winston
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -2365,6 +2507,24 @@ Unlocks for Winston
 			Team: Atlanta Reign
 		Flying Ace (Legendary Skin)
 			Team: Overwatch League
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Winston (Rare Icon)
 		Peanut Butter (Rare Icon)
@@ -2562,10 +2722,10 @@ Unlocks for Widowmaker
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -2574,7 +2734,7 @@ Unlocks for Widowmaker
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -2595,7 +2755,7 @@ Unlocks for Widowmaker
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -2604,7 +2764,7 @@ Unlocks for Widowmaker
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -2616,7 +2776,7 @@ Unlocks for Widowmaker
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -2673,6 +2833,24 @@ Unlocks for Widowmaker
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Widowmaker (Rare Icon)
 		Grappling Hook (Rare Icon)
@@ -2882,10 +3060,10 @@ Unlocks for Bastion
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -2894,7 +3072,7 @@ Unlocks for Bastion
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -2915,7 +3093,7 @@ Unlocks for Bastion
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -2924,7 +3102,7 @@ Unlocks for Bastion
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -2936,7 +3114,7 @@ Unlocks for Bastion
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -2993,6 +3171,24 @@ Unlocks for Bastion
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Bastion (Rare Icon)
 		Tank Crossing (Rare Icon)
@@ -3108,6 +3304,8 @@ Unlocks for Bastion
 			Available in Lunar Loot Boxes
 		Doo wee doo wee woo! (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Kite Flying (Epic Emote)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Sunken (Common Spray)
 			Available in Archives Loot Boxes
@@ -3177,10 +3375,10 @@ Unlocks for Symmetra
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -3189,7 +3387,7 @@ Unlocks for Symmetra
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -3210,7 +3408,7 @@ Unlocks for Symmetra
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -3219,7 +3417,7 @@ Unlocks for Symmetra
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -3231,7 +3429,7 @@ Unlocks for Symmetra
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -3288,6 +3486,24 @@ Unlocks for Symmetra
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Symmetra (Rare Icon)
 		Vishkar (Rare Icon)
@@ -3417,6 +3633,8 @@ Unlocks for Symmetra
 			Available in Lunar Loot Boxes
 		Fan (Rare VictoryPose)
 			Available in Lunar Loot Boxes
+		If I can think it, I can create it (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Student (Common Spray)
 			Available in Archives Loot Boxes
@@ -3482,10 +3700,10 @@ Unlocks for Zenyatta
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -3494,7 +3712,7 @@ Unlocks for Zenyatta
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -3515,7 +3733,7 @@ Unlocks for Zenyatta
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -3524,7 +3742,7 @@ Unlocks for Zenyatta
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -3536,7 +3754,7 @@ Unlocks for Zenyatta
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -3595,6 +3813,24 @@ Unlocks for Zenyatta
 			Team: Atlanta Reign
 		Zen-nakji (Legendary Skin)
 			Team: Overwatch League
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Zenyatta (Rare Icon)
 		Harmony (Rare Icon)
@@ -3800,10 +4036,10 @@ Unlocks for Genji
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -3812,7 +4048,7 @@ Unlocks for Genji
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -3836,7 +4072,7 @@ Unlocks for Genji
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -3845,7 +4081,7 @@ Unlocks for Genji
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -3857,7 +4093,7 @@ Unlocks for Genji
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -3914,6 +4150,24 @@ Unlocks for Genji
 		2018 Pacific All-Stars (Legendary Skin)
 			Unlocked with purchase of 2018 Pacific All-Stars skin
 			Team: All-Star
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Genji (Rare Icon)
 		Nin (Rare Icon)
@@ -4101,10 +4355,10 @@ Unlocks for Roadhog
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -4113,7 +4367,7 @@ Unlocks for Roadhog
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -4137,7 +4391,7 @@ Unlocks for Roadhog
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -4146,7 +4400,7 @@ Unlocks for Roadhog
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -4158,7 +4412,7 @@ Unlocks for Roadhog
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -4212,6 +4466,24 @@ Unlocks for Roadhog
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Roadhog (Rare Icon)
 		Hook (Rare Icon)
@@ -4402,10 +4674,10 @@ Unlocks for McCree
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -4414,7 +4686,7 @@ Unlocks for McCree
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -4435,7 +4707,7 @@ Unlocks for McCree
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -4444,7 +4716,7 @@ Unlocks for McCree
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -4456,7 +4728,7 @@ Unlocks for McCree
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -4513,6 +4785,24 @@ Unlocks for McCree
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		McCree (Rare Icon)
 		Badge (Rare Icon)
@@ -4647,6 +4937,8 @@ Unlocks for McCree
 			Available in Lunar Loot Boxes
 		How's that for fireworks (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		I'll have another (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Target Practice (Common Spray)
 			Available in Archives Loot Boxes
@@ -4727,10 +5019,10 @@ Unlocks for Junkrat
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -4739,7 +5031,7 @@ Unlocks for Junkrat
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -4763,7 +5055,7 @@ Unlocks for Junkrat
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -4772,7 +5064,7 @@ Unlocks for Junkrat
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -4784,7 +5076,7 @@ Unlocks for Junkrat
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -4838,6 +5130,24 @@ Unlocks for Junkrat
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Junkrat (Rare Icon)
 		Have a Nice Day! (Rare Icon)
@@ -4973,6 +5283,8 @@ Unlocks for Junkrat
 			Available in Lunar Loot Boxes
 		Happy New Year (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Feast (Epic HighlightIntro)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Sidecar (Common Spray)
 			Available in Archives Loot Boxes
@@ -5036,10 +5348,10 @@ Unlocks for Zarya
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -5048,7 +5360,7 @@ Unlocks for Zarya
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -5072,7 +5384,7 @@ Unlocks for Zarya
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -5081,7 +5393,7 @@ Unlocks for Zarya
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -5093,7 +5405,7 @@ Unlocks for Zarya
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -5147,6 +5459,24 @@ Unlocks for Zarya
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Zarya (Rare Icon)
 		Particle Barrier (Rare Icon)
@@ -5356,10 +5686,10 @@ Unlocks for Soldier: 76
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -5368,7 +5698,7 @@ Unlocks for Soldier: 76
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -5389,7 +5719,7 @@ Unlocks for Soldier: 76
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -5398,7 +5728,7 @@ Unlocks for Soldier: 76
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -5410,7 +5740,7 @@ Unlocks for Soldier: 76
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -5467,6 +5797,24 @@ Unlocks for Soldier: 76
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Soldier: 76 (Rare Icon)
 		Strike Commander (Rare Icon)
@@ -5655,10 +6003,10 @@ Unlocks for Lúcio
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -5667,7 +6015,7 @@ Unlocks for Lúcio
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -5691,7 +6039,7 @@ Unlocks for Lúcio
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -5700,7 +6048,7 @@ Unlocks for Lúcio
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -5712,7 +6060,7 @@ Unlocks for Lúcio
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -5771,6 +6119,24 @@ Unlocks for Lúcio
 		2019 Pacific All-Stars (Legendary Skin)
 			Unlocked with purchase of 2019 Pacific All-Stars skin
 			Team: All-Star
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Lúcio (Rare Icon)
 		Kambô (Rare Icon)
@@ -5907,6 +6273,12 @@ Unlocks for Lúcio
 			Available in Lunar Loot Boxes
 		Drumming (Epic HighlightIntro)
 			Available in Lunar Loot Boxes
+		Samul Nori (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Samul Nori (Rare Icon)
+			Available in Lunar Loot Boxes
+		Samul Nori (Common Spray)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Skates (Common Spray)
 			Available in Archives Loot Boxes
@@ -5996,10 +6368,10 @@ Unlocks for D.Va
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -6008,7 +6380,7 @@ Unlocks for D.Va
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -6029,7 +6401,7 @@ Unlocks for D.Va
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -6038,7 +6410,7 @@ Unlocks for D.Va
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -6050,7 +6422,7 @@ Unlocks for D.Va
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -6107,6 +6479,24 @@ Unlocks for D.Va
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		D.Va (Rare Icon)
 		Bunny (Rare Icon)
@@ -6301,10 +6691,10 @@ Unlocks for Mei
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -6313,7 +6703,7 @@ Unlocks for Mei
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -6337,7 +6727,7 @@ Unlocks for Mei
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -6346,7 +6736,7 @@ Unlocks for Mei
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -6358,7 +6748,7 @@ Unlocks for Mei
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -6412,6 +6802,24 @@ Unlocks for Mei
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Mei (Rare Icon)
 		Snowball (Rare Icon)
@@ -6547,6 +6955,8 @@ Unlocks for Mei
 			Available in Lunar Loot Boxes
 		Give me a red envelope (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		I feel like dancing! (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Pajamas (Common Spray)
 			Available in Archives Loot Boxes
@@ -6622,10 +7032,10 @@ Unlocks for Sombra
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -6634,7 +7044,7 @@ Unlocks for Sombra
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -6658,7 +7068,7 @@ Unlocks for Sombra
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -6667,7 +7077,7 @@ Unlocks for Sombra
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -6679,7 +7089,7 @@ Unlocks for Sombra
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -6733,6 +7143,24 @@ Unlocks for Sombra
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Sombra (Rare Icon)
 		Skull (Rare Icon)
@@ -6859,6 +7287,22 @@ Unlocks for Sombra
 			Available in Lunar Loot Boxes
 		You're in the doghouse (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Face Changer (Rare Icon)
+			Available in Lunar Loot Boxes
+		Sombra Mask (Rare Icon)
+			Available in Lunar Loot Boxes
+		Orange Mask (Rare Icon)
+			Available in Lunar Loot Boxes
+		Omnic Mask (Rare Icon)
+			Available in Lunar Loot Boxes
+		Wukong Mask (Rare Icon)
+			Available in Lunar Loot Boxes
+		Blue Mask (Rare Icon)
+			Available in Lunar Loot Boxes
+		Face Changer (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Face Changer (Common Spray)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Espresso (Common Spray)
 			Available in Archives Loot Boxes
@@ -6907,6 +7351,12 @@ Unlocks for Doomfist
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
 		Pixel (Common Spray)
+		Jingang (Rare Icon)
+			Unlocked by participating in the Year of the Rat 2020 week 1 challenge
+		Focus (Common Spray)
+			Unlocked by participating in the Year of the Rat 2020 week 1 challenge
+		Monk (Epic Skin)
+			Unlocked by participating in the Year of the Rat 2020 week 1 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -6923,10 +7373,10 @@ Unlocks for Doomfist
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -6935,7 +7385,7 @@ Unlocks for Doomfist
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -6959,7 +7409,7 @@ Unlocks for Doomfist
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -6968,7 +7418,7 @@ Unlocks for Doomfist
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -6980,7 +7430,7 @@ Unlocks for Doomfist
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -7034,6 +7484,24 @@ Unlocks for Doomfist
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Doomfist (Rare Icon)
 		Fist (Rare Icon)
@@ -7235,10 +7703,10 @@ Unlocks for Ana
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -7247,7 +7715,7 @@ Unlocks for Ana
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -7262,7 +7730,7 @@ Unlocks for Ana
 		Overwatch League Gray (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Overwatch League
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws Away (Epic Skin)
@@ -7274,7 +7742,7 @@ Unlocks for Ana
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		New York Excelsior Away (Epic Skin)
@@ -7283,7 +7751,7 @@ Unlocks for Ana
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Philadelphia Fusion
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty Away (Epic Skin)
@@ -7346,6 +7814,24 @@ Unlocks for Ana
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Ana (Rare Icon)
 		Wedjat (Rare Icon)
@@ -7538,10 +8024,10 @@ Unlocks for Orisa
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -7550,7 +8036,7 @@ Unlocks for Orisa
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -7571,7 +8057,7 @@ Unlocks for Orisa
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -7580,7 +8066,7 @@ Unlocks for Orisa
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -7592,7 +8078,7 @@ Unlocks for Orisa
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -7649,6 +8135,24 @@ Unlocks for Orisa
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Orisa (Rare Icon)
 		Protector (Rare Icon)
@@ -7764,6 +8268,8 @@ Unlocks for Orisa
 			Available in Lunar Loot Boxes
 		Sanye (Rare Icon)
 			Available in Lunar Loot Boxes
+		Stack Overflow (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Flower (Common Spray)
 			Available in Archives Loot Boxes
@@ -7863,7 +8369,7 @@ Unlocks for Brigitte
 		Seoul Dynasty (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion (Epic Skin)
@@ -7872,7 +8378,7 @@ Unlocks for Brigitte
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators (Epic Skin)
@@ -7884,7 +8390,7 @@ Unlocks for Brigitte
 		Houston Outlaws (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel (Epic Skin)
@@ -7905,7 +8411,7 @@ Unlocks for Brigitte
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -7914,7 +8420,7 @@ Unlocks for Brigitte
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -7926,7 +8432,7 @@ Unlocks for Brigitte
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -7983,6 +8489,26 @@ Unlocks for Brigitte
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Goat (Legendary Skin)
+			Team: Overwatch League
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Katt (Rare Icon)
 		Rally (Rare Icon)
@@ -8089,6 +8615,14 @@ Unlocks for Brigitte
 			Available in Lunar Loot Boxes
 		General (Epic Skin)
 			Available in Lunar Loot Boxes
+		Opera (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Opera Warrior (Rare Icon)
+			Available in Lunar Loot Boxes
+		Cheers! (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Opera Warrior (Common Spray)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Kneel (Rare VictoryPose)
 			Available in Archives Loot Boxes
@@ -8162,10 +8696,10 @@ Unlocks for Moira
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -8174,7 +8708,7 @@ Unlocks for Moira
 		New York Excelsior (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -8198,7 +8732,7 @@ Unlocks for Moira
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion Away (Epic Skin)
@@ -8207,7 +8741,7 @@ Unlocks for Moira
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators Away (Epic Skin)
@@ -8219,7 +8753,7 @@ Unlocks for Moira
 		Houston Outlaws Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Houston Outlaws
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -8273,6 +8807,24 @@ Unlocks for Moira
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Moira (Rare Icon)
 		Knot (Rare Icon)
@@ -8389,6 +8941,14 @@ Unlocks for Moira
 			Available in Lunar Loot Boxes
 		Dragon Dance (Common Spray)
 			Available in Lunar Loot Boxes
+		Mask Dancer (Legendary Skin)
+			Available in Lunar Loot Boxes
+		Mask Dancer (Rare Icon)
+			Available in Lunar Loot Boxes
+		Talchum (Common Spray)
+			Available in Lunar Loot Boxes
+		Superb (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Blackwatch (Legendary Skin)
 			In addition to her research as a part of Blackwatch, Moira occasionally participated in clandestine operations, including the Venice Incident.
@@ -8476,6 +9036,12 @@ Unlocks for Wrecking Ball
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
 		Pixel (Common Spray)
+		Rat (Rare Icon)
+			Unlocked by participating in the Year of the Rat 2020 week 3 challenge
+		Spring (Common Spray)
+			Unlocked by participating in the Year of the Rat 2020 week 3 challenge
+		Paper Cutting (Epic Skin)
+			Unlocked by participating in the Year of the Rat 2020 week 3 challenge
 	OWL Unlocks
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
@@ -8489,10 +9055,10 @@ Unlocks for Wrecking Ball
 		Dallas Fuel (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Dallas Fuel
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws Away (Epic Skin)
@@ -8513,10 +9079,10 @@ Unlocks for Wrecking Ball
 		Los Angeles Gladiators (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		New York Excelsior Away (Epic Skin)
@@ -8531,10 +9097,10 @@ Unlocks for Wrecking Ball
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Philadelphia Fusion
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty Away (Epic Skin)
@@ -8603,6 +9169,24 @@ Unlocks for Wrecking Ball
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Wrecking Ball (Rare Icon)
 		Rolling (Rare Icon)
@@ -8722,6 +9306,8 @@ Unlocks for Wrecking Ball
 			Available in Lunar Loot Boxes
 		Assessing luck (Common VoiceLine)
 			Available in Lunar Loot Boxes
+		Too early for flapjacks? (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Dramatic (Epic HighlightIntro)
 			Available in Archives Loot Boxes
@@ -8794,10 +9380,10 @@ Unlocks for Ashe
 		Dallas Fuel Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Dallas Fuel
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Houston Outlaws (Epic Skin)
@@ -8818,10 +9404,10 @@ Unlocks for Ashe
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		New York Excelsior (Epic Skin)
@@ -8836,10 +9422,10 @@ Unlocks for Ashe
 		Philadelphia Fusion Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Philadelphia Fusion
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty (Epic Skin)
@@ -8908,6 +9494,24 @@ Unlocks for Ashe
 		Atlanta Reign Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Atlanta Reign
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Ashe (Rare Icon)
 		Bob (Rare Icon)
@@ -9101,10 +9705,10 @@ Unlocks for Baptiste
 		Chengdu Hunters (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Chengdu Hunters
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel Away (Epic Skin)
@@ -9143,10 +9747,10 @@ Unlocks for Baptiste
 		Los Angeles Gladiators Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Gladiators
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		New York Excelsior Away (Epic Skin)
@@ -9167,10 +9771,10 @@ Unlocks for Baptiste
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Philadelphia Fusion
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Seoul Dynasty Away (Epic Skin)
@@ -9206,6 +9810,24 @@ Unlocks for Baptiste
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Overwatch League
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Baptiste (Rare Icon)
 		Goddess (Rare Icon)
@@ -9298,6 +9920,17 @@ Unlocks for Baptiste
 			Available in Winter Loot Boxes
 		Some kind of angel (Common VoiceLine)
 			Available in Winter Loot Boxes
+	Lunar New Year Unlocks
+		Hot Soup (Rare VictoryPose)
+			Available in Lunar Loot Boxes
+		Lion Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		Need something? (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Don't you worry (Common VoiceLine)
+			Available in Lunar Loot Boxes
 	Archives Unlocks
 		Talon (Legendary Skin)
 			After his service in the Caribbean Coalition was complete, Baptiste struggled to find a demand for his unique skills. Talon was more than happy to help. 
@@ -9371,10 +10004,10 @@ Unlocks for Sigma
 		Seoul Dynasty Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Seoul Dynasty
-		San Francisco Shock (Epic Skin)
+		San Francisco Shock 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
-		San Francisco Shock Away (Epic Skin)
+		San Francisco Shock Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
 		Philadelphia Fusion (Epic Skin)
@@ -9395,10 +10028,10 @@ Unlocks for Sigma
 		New York Excelsior Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: New York Excelsior
-		Los Angeles Valiant (Epic Skin)
+		Los Angeles Valiant 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
-		Los Angeles Valiant Away (Epic Skin)
+		Los Angeles Valiant Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Los Angeles Valiant
 		Los Angeles Gladiators (Epic Skin)
@@ -9431,10 +10064,10 @@ Unlocks for Sigma
 		Guangzhou Charge Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Guangzhou Charge
-		Florida Mayhem (Epic Skin)
+		Florida Mayhem 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
-		Florida Mayhem Away (Epic Skin)
+		Florida Mayhem Away 2018 (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Florida Mayhem
 		Dallas Fuel (Epic Skin)
@@ -9467,6 +10100,24 @@ Unlocks for Sigma
 		Overwatch League White (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: Overwatch League
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
 	Base Unlocks
 		Sigma (Rare Icon)
 		Hypersphere (Rare Icon)
@@ -9553,5 +10204,14 @@ Unlocks for Sigma
 			Available in Winter Loot Boxes
 		Rime (Rare Icon)
 			Available in Winter Loot Boxes
+	Lunar New Year Unlocks
+		Dumpling Grasp (Common Spray)
+			Available in Lunar Loot Boxes
+		Dragon Dance (Common Spray)
+			Available in Lunar Loot Boxes
+		An anomaly! (Common VoiceLine)
+			Available in Lunar Loot Boxes
+		Happy New Year! (Common VoiceLine)
+			Available in Lunar Loot Boxes
 
-[Core] Execution finished in 00:00:01.1790914 seconds
+[Core] Execution finished in 00:00:01.1400269 seconds
