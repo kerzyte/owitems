@@ -1,10 +1,10 @@
-[Core] DataTool v1.44.0.861-git-4c7b11c7a11ac041e4f4e3c52f6d9f1892d0e565
+[Core] DataTool v1.45.0.863-git-d08b8ee3b6474c6bd141eb865797b12a3bde1d66
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\861\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.44.0.1.65513
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\863\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.45.0.0.66302
 [CASC] Initializing...
-[CMF] Using CMF procedure 65513
-[CMF] Using CMF procedure 65513
+[CMF] Using CMF procedure 66302
+[CMF] Using CMF procedure 66302
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -49,6 +49,8 @@
 			Unlocked by completing Season 19 placement matches
 		Season 20 Competitor (Rare Icon)
 			Unlocked by completing Season 20 placement matches
+		Season 21 Competitor (Rare Icon)
+			Unlocked by completing Season 21 placement matches
 		Copa Lúcioball Competitor (Rare Icon)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Rare Icon)
@@ -99,6 +101,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 19
 		Season 20 Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Season 20
+		Season 21 Hero (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Season 21
 		Copa Lúcioball Hero (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Rare Icon)
@@ -167,6 +171,8 @@
 			Unlocked by completing Season 19 placement matches
 		Season 20 Competitor (Common Spray)
 			Unlocked by completing Season 20 placement matches
+		Season 21 Competitor (Common Spray)
+			Unlocked by completing Season 21 placement matches
 		Copa Lúcioball Competitor (Common Spray)
 			Unlocked by completing Copa Lúcioball placement matches
 		Copa Lúcioball Competitor 2018 (Common Spray)
@@ -235,6 +241,8 @@
 			Unlocked by achieving top 500 ranking at the end of Season 19
 		Season 20 Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Season 20
+		Season 21 Hero (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Season 21
 		Copa Lúcioball Hero (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Copa Lúcioball
 		Copa Lúcioball Hero 2018 (Common Spray)
@@ -425,7 +433,9 @@
 		Grand Finals 2019 (Rare Icon)
 			Unlocked by participating in the 2019 OWL Grand Finals event
 		Path to Pro 2019 (Common Spray)
-		Path to Pro (Rare Icon)
+		Path to Pro 2020 (Common Spray)
+		Path to Pro 2019 (Rare Icon)
+		Path to Pro 2020 (Rare Icon)
 		Halloween Terror 2019 (Rare Icon)
 		Winter Wonderland 2019 (Rare Icon)
 		Holiday surprise (Common Spray)
@@ -434,8 +444,6 @@
 			Unlocked by logging into the game during the Winter Wonderland 2019 event
 		Polar bear (Common Spray)
 			Unlocked by logging into the game during the Winter Wonderland 2019 event
-		Year of the Rat (Common Spray)
-			Available in Lunar Loot Boxes
 		Year of the Rat 2020 (Rare Icon)
 	Base Unlocks
 		Dark Logo (Common Spray)
@@ -780,6 +788,8 @@
 		Hong Gildong (Rare Icon)
 			Available in Lunar Loot Boxes
 		Piggimari (Rare Icon)
+			Available in Lunar Loot Boxes
+		Year of the Rat (Common Spray)
 			Available in Lunar Loot Boxes
 	Archives Unlocks
 		B73-NS (Rare Icon)
@@ -1470,4 +1480,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.9122802 seconds
+[Core] Execution finished in 00:00:00.8449704 seconds

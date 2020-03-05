@@ -1,10 +1,10 @@
-[Core] DataTool v1.44.0.861-git-4c7b11c7a11ac041e4f4e3c52f6d9f1892d0e565
+[Core] DataTool v1.45.0.863-git-d08b8ee3b6474c6bd141eb865797b12a3bde1d66
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\861\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.44.0.1.65513
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\863\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.45.0.0.66302
 [CASC] Initializing...
-[CMF] Using CMF procedure 65513
-[CMF] Using CMF procedure 65513
+[CMF] Using CMF procedure 66302
+[CMF] Using CMF procedure 66302
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -27,6 +27,8 @@ Unlocks for Reaper
 			Unlocked with purchase of Overwatch: Origins, Game of the Year, or Legendary Editions
 		American (Epic Skin)
 			Unlocked by participating in the Summer Games 2019 week 1 challenge
+		Red Death (Common Spray)
+			Unlocked by watching participating streams during Ashe's Mardi Gras Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -3684,6 +3686,8 @@ Unlocks for Zenyatta
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Beads (Common Spray)
+			Unlocked by watching participating streams during Ashe's Mardi Gras Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -4658,6 +4662,8 @@ Unlocks for McCree
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Rex (Common Spray)
+			Unlocked by watching participating streams during Ashe's Mardi Gras Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -5987,6 +5993,8 @@ Unlocks for Lúcio
 		Pixel (Common Spray)
 		Cute (Common Spray)
 		GOLDEN (Common WeaponSkin)
+		Carnival (Common Spray)
+			Unlocked by watching participating streams during Ashe's Mardi Gras Challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -8362,6 +8370,8 @@ Unlocks for Brigitte
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
 		Pixel (Common Spray)
+		Semlor (Common Spray)
+			Unlocked by watching participating streams during Ashe's Mardi Gras Challenge
 	OWL Unlocks
 		Shanghai Dragons (Epic Skin)
 			Unlocking includes both home and away skins
@@ -9042,6 +9052,8 @@ Unlocks for Wrecking Ball
 			Unlocked by participating in the Year of the Rat 2020 week 3 challenge
 		Paper Cutting (Epic Skin)
 			Unlocked by participating in the Year of the Rat 2020 week 3 challenge
+		King Cake Ball (Common Spray)
+			Unlocked by watching participating streams during Ashe's Mardi Gras Challenge
 	OWL Unlocks
 		Boston Uprising Away (Epic Skin)
 			Unlocking includes both home and away skins
@@ -9367,6 +9379,14 @@ Unlocks for Ashe
 			Unlocked by watching participating streams during the November 2018 Free Trial
 		Triplets (Common Spray)
 			Unlocked by watching participating streams during the November 2018 Free Trial
+		Mardi Grashe (Rare Icon)
+			Unlocked by participating in Ashe's Mardi Gras Challenge
+		Mardi B.O.B. (Rare Icon)
+			Unlocked by participating in Ashe's Mardi Gras Challenge
+		Gold Mask (Common Spray)
+			Unlocked by participating in Ashe's Mardi Gras Challenge
+		Mardi Gras (Epic Skin)
+			Unlocked by participating in Ashe's Mardi Gras Challenge
 	OWL Unlocks
 		Boston Uprising (Epic Skin)
 			Unlocking includes both home and away skins
@@ -10150,7 +10170,6 @@ Unlocks for Sigma
 		Dr. de Kuiper (Epic Skin)
 		Talon (Epic Skin)
 		Subject Sigma (Legendary Skin)
-			Brilliant astrophysicist Siebren de Kuiper gained the ability to control gravity when an experiment went terribly wrong. Now, Talon manipulates him to their own ends.
 		Asylum (Legendary Skin)
 		Prophet (Legendary Skin)
 		Oracle (Legendary Skin)
@@ -10214,4 +10233,4 @@ Unlocks for Sigma
 		Happy New Year! (Common VoiceLine)
 			Available in Lunar Loot Boxes
 
-[Core] Execution finished in 00:00:01.1400269 seconds
+[Core] Execution finished in 00:00:00.9708380 seconds
