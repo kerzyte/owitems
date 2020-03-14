@@ -1,10 +1,10 @@
-[Core] DataTool v1.45.0.863-git-d08b8ee3b6474c6bd141eb865797b12a3bde1d66
+[Core] DataTool v1.46.0.864-git-ec7bc2fdc94d326652d08645a2d8c25464721f88
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\863\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.45.0.0.66302
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\864\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.46.0.0.66607
 [CASC] Initializing...
-[CMF] Using CMF procedure 66302
-[CMF] Using CMF procedure 66302
+[CMF] Using CMF procedure 66607
+[CMF] Using CMF procedure 66607
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -67,6 +67,8 @@
 			Unlocked by completing Competitive 6v6 Elimination 2018 placement matches
 		Competitive 6v6 Elimination Competitor 2019 (Rare Icon)
 			Unlocked by completing Competitive 6v6 Elimination 2019 placement matches
+		Competitive 6v6 Elimination Competitor 2020 (Rare Icon)
+			Unlocked by completing Competitive 6v6 Elimination 2020 placement matches
 		Competitive Deathmatch Competitor 2018 (Rare Icon)
 			Unlocked by completing Competitive Deathmatch 2018 placement matches
 		Competitive Deathmatch Competitor 2019 (Rare Icon)
@@ -119,6 +121,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2018
 		Competitive 6v6 Elimination Hero 2019 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2019
+		Competitive 6v6 Elimination Hero 2020 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2020
 		Competitive Deathmatch Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive Deathmatch Hero 2019 (Rare Icon)
@@ -189,6 +193,8 @@
 			Unlocked by completing Competitive 6v6 Elimination 2018 placement matches
 		Competitive 6v6 Elimination Competitor 2019 (Common Spray)
 			Unlocked by completing Competitive 6v6 Elimination 2019 placement matches
+		Competitive 6v6 Elimination Competitor 2020 (Common Spray)
+			Unlocked by completing Competitive 6v6 Elimination 2020 placement matches
 		Competitive Deathmatch Competitor 2018 (Common Spray)
 			Unlocked by completing Competitive Deathmatch placement matches 2018
 		Competitive Deathmatch Competitor 2019 (Common Spray)
@@ -259,6 +265,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2018
 		Competitive 6v6 Elimination Hero 2019 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2019
+		Competitive 6v6 Elimination Hero 2020 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive 6v6 Elimination 2020
 		Competitive Deathmatch Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive Deathmatch Hero 2019 (Common Spray)
@@ -331,10 +339,9 @@
 		Nullmari (Common Spray)
 		OR14-NS (Common Spray)
 		Uprising 2017 (Rare Icon)
-			Available in Archives Loot Boxes
 		Archives 2018 (Rare Icon)
-			Available in Archives Loot Boxes
 		Archives 2019 (Rare Icon)
+		Archives 2020 (Rare Icon)
 			Available in Archives Loot Boxes
 		Talon Trooper (Common Spray)
 		Talon Enforcer (Common Spray)
@@ -445,6 +452,32 @@
 		Polar bear (Common Spray)
 			Unlocked by logging into the game during the Winter Wonderland 2019 event
 		Year of the Rat 2020 (Rare Icon)
+		Washington Justice Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Philadelphia Fusion Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Dallas Fuel Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Guangzhou Charge Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Hangzhou Spark Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Houston Outlaws Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		New York Excelsior Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Detonated (Common Spray)
+		Aggressive (Common Spray)
+		Deadeye Strike (Common Spray)
+		Feeling Invincible (Common Spray)
+		Blood Moon Rising (Common Spray)
+		Carry (Common Spray)
+		Florida Mayhem Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Seoul Dynasty Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
+		Shanghai Dragons Homestand 2020 (Common Spray)
+			Unlocked by attending a 2020 Homestand Event
 	Base Unlocks
 		Dark Logo (Common Spray)
 		Overwatch (Common Spray)
@@ -815,6 +848,8 @@
 		Maximilien (Rare Icon)
 			Available in Archives Loot Boxes
 		Archives (Common Spray)
+			Available in Archives Loot Boxes
+		Strike (Common Spray)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Anniversary (Common Spray)
@@ -1480,4 +1515,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:00.8449704 seconds
+[Core] Execution finished in 00:00:00.9855500 seconds

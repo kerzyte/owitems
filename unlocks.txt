@@ -1,10 +1,10 @@
-[Core] DataTool v1.45.0.863-git-d08b8ee3b6474c6bd141eb865797b12a3bde1d66
+[Core] DataTool v1.46.0.864-git-ec7bc2fdc94d326652d08645a2d8c25464721f88
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\863\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.45.0.0.66302
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\864\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.46.0.0.66607
 [CASC] Initializing...
-[CMF] Using CMF procedure 66302
-[CMF] Using CMF procedure 66302
+[CMF] Using CMF procedure 66607
+[CMF] Using CMF procedure 66607
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -324,6 +324,8 @@ Unlocks for Reaper
 		Soldier: 24 (Rare Icon)
 			Available in Archives Loot Boxes
 		Revenge is sweet (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Cackle (Rare VictoryPose)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
@@ -1397,6 +1399,12 @@ Unlocks for Torbjörn
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
 		For the Horde (Common VoiceLine)
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
+		Rustclad (Epic Skin)
+			Unlocked by participating in the Archives 2020 week 2 challenge
+		Rustclad (Rare Icon)
+			Unlocked by participating in the Archives 2020 week 2 challenge
+		Indigestion (Common Spray)
+			Unlocked by participating in the Archives 2020 week 2 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -2335,6 +2343,12 @@ Unlocks for Pharah
 		I live for a good fight (Common VoiceLine)
 			Available in Archives Loot Boxes
 		From my mother (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Aviator (Legendary Skin)
+			Available in Archives Loot Boxes
+		Aviator (Rare Icon)
+			Available in Archives Loot Boxes
+		In the Zone (Common Spray)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Rocket Guitar (Epic Emote)
@@ -3361,6 +3375,12 @@ Unlocks for Symmetra
 		GOLDEN (Common WeaponSkin)
 		Tyrande (Legendary Skin)
 			Unlocked as part of the BlizzCon 2019 In-Game Goodies
+		Holi (Common Spray)
+			Unlocked by participating in the Archives 2020 week 1 challenge
+		Holi (Rare Icon)
+			Unlocked by participating in the Archives 2020 week 1 challenge
+		Holi (Epic Skin)
+			Unlocked by participating in the Archives 2020 week 1 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -4309,6 +4329,8 @@ Unlocks for Genji
 			Available in Archives Loot Boxes
 		Your eyes deceive you (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Ryu-Ichimonji strikes (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -4627,6 +4649,13 @@ Unlocks for Roadhog
 		Mug Shot (Rare VictoryPose)
 			Available in Archives Loot Boxes
 		You wanna scrap with me? (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Militia (Legendary Skin)
+			After the Australian government displaced Mako Rutledge and other residents of the Outback from their homes, they turned to violent rebellion, forming the Australian Liberation Front.
+			Available in Archives Loot Boxes
+		Militia (Rare Icon)
+			Available in Archives Loot Boxes
+		ALF (Common Spray)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
@@ -4968,6 +4997,8 @@ Unlocks for McCree
 			Available in Archives Loot Boxes
 		Deadlock McCree (Rare Icon)
 			Available in Archives Loot Boxes
+		That went against my better nature (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Line Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -5304,6 +5335,13 @@ Unlocks for Junkrat
 			Available in Archives Loot Boxes
 		Circus (Epic Skin)
 			Available in Archives Loot Boxes
+		King Jamison (Legendary Skin)
+			After escaping from the Australian Outback, Junkrat and Roadhog went on an international crime spree, earning them great notoriety across the world, and living up to their motto of, “No job too big, no score too small!”
+			Available in Archives Loot Boxes
+		King Jamison (Rare Icon)
+			Available in Archives Loot Boxes
+		Crown Jewels (Common Spray)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Running Rat (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -5633,6 +5671,12 @@ Unlocks for Zarya
 			Available in Archives Loot Boxes
 		Racer (Epic Skin)
 			Available in Archives Loot Boxes
+		Workout (Legendary Skin)
+			Available in Archives Loot Boxes
+		Workout (Rare Icon)
+			Available in Archives Loot Boxes
+		Pulse (Common Spray)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -5958,6 +6002,8 @@ Unlocks for Soldier: 76
 			During his service in Overwatch, Jack Morrison received many commendations for his leadership.
 			Available in Archives Loot Boxes
 		Formal: 76 (Rare Icon)
+			Available in Archives Loot Boxes
+		Show some respect (Common VoiceLine)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
@@ -6683,6 +6729,12 @@ Unlocks for Mei
 		GOLDEN (Common WeaponSkin)
 		Zhongguo (Epic Skin)
 			Unlocked by participating in the Summer Games 2019 week 2 challenge
+		Bear (Epic Skin)
+			Unlocked by participating in the Archives 2020 week 3 challenge
+		Snowbear (Rare Icon)
+			Unlocked by participating in the Archives 2020 week 3 challenge
+		Bear Hug (Common Spray)
+			Unlocked by participating in the Archives 2020 week 3 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -7329,6 +7381,8 @@ Unlocks for Sombra
 			Available in Archives Loot Boxes
 		Nice working with you (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Translocating (Epic HighlightIntro)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -7645,6 +7699,8 @@ Unlocks for Doomfist
 		I am not your savior (Common VoiceLine)
 			Available in Archives Loot Boxes
 		Seismic Slam (Epic HighlightIntro)
+			Available in Archives Loot Boxes
+		Such potential wasted (Common VoiceLine)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Formal (Legendary Skin)
@@ -7988,6 +8044,13 @@ Unlocks for Ana
 			Available in Archives Loot Boxes
 		We're not keeping score (Common VoiceLine)
 			Available in Archives Loot Boxes
+		Sniper (Legendary Skin)
+			During the Omnic Crisis, the Egyptian military outfitted their elite snipers, including Ana Amari, with cybernetic ocular implants, greatly improving their efficiency in the defense of their country.
+			Available in Archives Loot Boxes
+		Sniper (Rare Icon)
+			Available in Archives Loot Boxes
+		Ghillie Suit (Common Spray)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -8295,6 +8358,8 @@ Unlocks for Orisa
 		I was only trying to help (Common VoiceLine)
 			Available in Archives Loot Boxes
 		Immovable (Epic HighlightIntro)
+			Available in Archives Loot Boxes
+		Empathy module not responding (Common VoiceLine)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Dance (Epic Emote)
@@ -8645,6 +8710,10 @@ Unlocks for Brigitte
 		Time to roll up my sleeves (Common VoiceLine)
 			Available in Archives Loot Boxes
 		If you make your bed, lie in it (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Katt (Legendary Emote)
+			Available in Archives Loot Boxes
+		Hard work pays off (Common VoiceLine)
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Shieldmaiden (Legendary Skin)
@@ -9647,6 +9716,10 @@ Unlocks for Ashe
 			Available in Archives Loot Boxes
 		Playground Victory (Common Spray)
 			Available in Archives Loot Boxes
+		The Spoils (Rare VictoryPose)
+			Available in Archives Loot Boxes
+		It never gets fast enough for me (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Line Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -9965,6 +10038,8 @@ Unlocks for Baptiste
 			Available in Archives Loot Boxes
 		Carry (Common Spray)
 			Available in Archives Loot Boxes
+		That’s enough out of you (Common VoiceLine)
+			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Konpa Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -10232,5 +10307,18 @@ Unlocks for Sigma
 			Available in Lunar Loot Boxes
 		Happy New Year! (Common VoiceLine)
 			Available in Lunar Loot Boxes
+	Archives Unlocks
+		Postulating (Rare VictoryPose)
+			Available in Archives Loot Boxes
+		Attraction (Epic HighlightIntro)
+			Available in Archives Loot Boxes
+		Reality is rarely what it seems (Common VoiceLine)
+			Available in Archives Loot Boxes
+		The results are inconclusive (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Extraordinary claims (Common VoiceLine)
+			Available in Archives Loot Boxes
+		Observation (Common Spray)
+			Available in Archives Loot Boxes
 
-[Core] Execution finished in 00:00:00.9708380 seconds
+[Core] Execution finished in 00:00:01.0756225 seconds
