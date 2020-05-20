@@ -1,10 +1,12 @@
-[Core] DataTool v1.48.0.870-git-6aa4678e5f180fc8ff4968fb8c92ee0adc724bbf
+[Core] DataTool v1.48.0.872-git-388eaf2c98e84f9acbee236d068a6fd0dd9b9c8d
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-general-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\870\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.47.1.0.68126
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\872\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.48.0.0.68780
 [CASC] Initializing...
-[Manifest] Using CMF procedure 68126 for Win_SPWin_RDEV_LenUS_EExt.cmf
-[Manifest] Using CMF procedure 68126 for Win_SPWin_speech_RDEV_LenUS_EExt.cmf
+[Manifest] Using TRG procedure 68780 for Win_SPWin_RDEV_EExt.trg
+[Manifest] Using CMF procedure 68780 for Win_SPWin_RDEV_EExt.cmf
+[Manifest] Using CMF procedure 68780 for Win_SPWin_RDEV_LenUS_speech_EExt.cmf
+[Manifest] Using CMF procedure 68780 for Win_SPWin_RDEV_LenUS_text_EExt.cmf
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -77,6 +79,8 @@
 			Unlocked by completing Competitive Deathmatch 2018 placement matches
 		Competitive Deathmatch Competitor 2019 (Rare Icon)
 			Unlocked by completing Competitive Deathmatch 2019 placement matches
+		Competitive Deathmatch Competitor 2020 (Rare Icon)
+			Unlocked by completing Competitive Deathmatch 2020 placement matches
 		Competitive 3v3 Elimination Competitor 2018 (Rare Icon)
 			Unlocked by completing Competitive 3v3 Elimination 2018 placement matches
 		Competitive 3v3 Elimination Competitor 2019 (Rare Icon)
@@ -135,6 +139,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive Deathmatch Hero 2019 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2019
+		Competitive Deathmatch Hero 2020 (Rare Icon)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2020
 		Competitive 3v3 Elimination Hero 2018 (Rare Icon)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2018
 		Competitive 3v3 Elimination Hero 2019 (Rare Icon)
@@ -211,6 +217,8 @@
 			Unlocked by completing Competitive Deathmatch placement matches 2018
 		Competitive Deathmatch Competitor 2019 (Common Spray)
 			Unlocked by completing Competitive Deathmatch 2019 placement matches
+		Competitive Deathmatch Competitor 2020 (Common Spray)
+			Unlocked by completing Competitive Deathmatch 2020 placement matches
 		Competitive 3v3 Elimination Competitor 2018 (Common Spray)
 			Unlocked by completing Competitive 3v3 Elimination 2018 placement matches
 		Competitive 3v3 Elimination Competitor 2019 (Common Spray)
@@ -287,6 +295,8 @@
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2018
 		Competitive Deathmatch Hero 2019 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2019
+		Competitive Deathmatch Hero 2020 (Common Spray)
+			Unlocked by achieving top 500 ranking at the end of Competitive Deathmatch 2020
 		Competitive 3v3 Elimination Hero 2018 (Common Spray)
 			Unlocked by achieving top 500 ranking at the end of Competitive 3v3 Elimination 2018
 		Competitive 3v3 Elimination Hero 2019 (Common Spray)
@@ -378,6 +388,8 @@
 		Anniversary 2018 (Rare Icon)
 			Available in Anniversary Loot Boxes
 		Anniversary 2019 (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Anniversary 2020 (Rare Icon)
 			Available in Anniversary Loot Boxes
 		Kul Tiras (Rare Icon)
 			Unlocked with purchase of World of Warcraft: Battle for Azeroth Collector's Edition or Digital Deluxe Edition
@@ -893,6 +905,12 @@
 		Pachiversary (Rare Icon)
 			Available in Anniversary Loot Boxes
 		Cupachicake (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Feast (Common Spray)
+			Available in Anniversary Loot Boxes
+		Fast (Common Spray)
+			Available in Anniversary Loot Boxes
+		Fanous (Rare Icon)
 			Available in Anniversary Loot Boxes
 	Level 0 Unlocks
 		Logo (Common Spray)
@@ -1551,4 +1569,4 @@
 		000000000FCD.0A5 (Common PortraitFrame)
 	Level 2991 Unlocks
 		000000000F97.0A5 (Common PortraitFrame)
-[Core] Execution finished in 00:00:01.0181670 seconds
+[Core] Execution finished in 00:00:01.1398825 seconds

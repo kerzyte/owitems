@@ -1,10 +1,12 @@
-[Core] DataTool v1.48.0.870-git-6aa4678e5f180fc8ff4968fb8c92ee0adc724bbf
+[Core] DataTool v1.48.0.872-git-388eaf2c98e84f9acbee236d068a6fd0dd9b9c8d
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\870\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.47.1.0.68126
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\872\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.48.0.0.68780
 [CASC] Initializing...
-[Manifest] Using CMF procedure 68126 for Win_SPWin_RDEV_LenUS_EExt.cmf
-[Manifest] Using CMF procedure 68126 for Win_SPWin_speech_RDEV_LenUS_EExt.cmf
+[Manifest] Using TRG procedure 68780 for Win_SPWin_RDEV_EExt.trg
+[Manifest] Using CMF procedure 68780 for Win_SPWin_RDEV_EExt.cmf
+[Manifest] Using CMF procedure 68780 for Win_SPWin_RDEV_LenUS_speech_EExt.cmf
+[Manifest] Using CMF procedure 68780 for Win_SPWin_RDEV_LenUS_text_EExt.cmf
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -341,6 +343,13 @@ Unlocks for Reaper
 		Pathetic (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		Ready for Action (Rare VictoryPose)
+			Available in Anniversary Loot Boxes
+		Masquerade (Legendary Skin)
+			“There are chords in the hearts of the most reckless which cannot be touched without emotion, even by the utterly lost, to whom life and death are equally jests, there are matters of which no jest can be made.”
+			Available in Anniversary Loot Boxes
+		Masquerade (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Masquerade (Common Spray)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Tracer
@@ -1052,6 +1061,14 @@ Unlocks for Mercy
 			Available in Anniversary Loot Boxes
 		Call the whambulance (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Are you quite done? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Dragoon (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Dragoon (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Dragoon (Common Spray)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Hanzo
 	Default Unlocks
@@ -1379,6 +1396,10 @@ Unlocks for Hanzo
 		Do not rouse the dragon (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		The only destiny I know (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Puppet strings (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Salute (Rare VictoryPose)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Torbjörn
@@ -2374,6 +2395,8 @@ Unlocks for Pharah
 			Available in Anniversary Loot Boxes
 		Carbon Fiber (Epic Skin)
 			Available in Anniversary Loot Boxes
+		Your eye in the sky (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Winston
 	Default Unlocks
@@ -2704,6 +2727,8 @@ Unlocks for Winston
 			Available in Anniversary Loot Boxes
 		Gargoyle (Rare Icon)
 			Available in Anniversary Loot Boxes
+		I've got nothing to hide (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Widowmaker
 	Default Unlocks
@@ -2725,6 +2750,12 @@ Unlocks for Widowmaker
 			Unlocked as part of the StarCraft 20th Anniversary Celebration
 		Widowmaker Minifig (Rare Icon)
 			Unlocked by watching participating streams during Bastion's Brick Challenge
+		Fleur de Lis (Epic Skin)
+			Unlocked by participating in the Anniversary 2020 week 2 challenge
+		Fleur de Lis (Rare Icon)
+			Unlocked by participating in the Anniversary 2020 week 2 challenge
+		Fleur de Lis (Common Spray)
+			Unlocked by participating in the Anniversary 2020 week 2 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -4026,6 +4057,12 @@ Unlocks for Zenyatta
 			Available in Anniversary Loot Boxes
 		Your flaws are revealed (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Huitzilopochtli (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Huitzilopochtli (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Huitzilopochtli (Common Spray)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Genji
 	Default Unlocks
@@ -4680,6 +4717,8 @@ Unlocks for Roadhog
 			Available in Anniversary Loot Boxes
 		I'm beached as, bro (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Big Guy (Epic Emote)
+			Available in Anniversary Loot Boxes
 
 Unlocks for McCree
 	Default Unlocks
@@ -4697,6 +4736,12 @@ Unlocks for McCree
 		GOLDEN (Common WeaponSkin)
 		Rex (Common Spray)
 			Unlocked by watching participating streams during Ashe's Mardi Gras Challenge
+		Masked Man (Epic Skin)
+			Unlocked by participating in the Anniversary 2020 week 3 challenge
+		Masked Man (Rare Icon)
+			Unlocked by participating in the Anniversary 2020 week 3 challenge
+		Masked Man (Common Spray)
+			Unlocked by participating in the Anniversary 2020 week 3 challenge
 	OWL Unlocks
 		Philadelphia Fusion (Epic Skin)
 			Unlocking includes both home and away skins
@@ -5022,6 +5067,8 @@ Unlocks for McCree
 		How do you like me now? (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		Both kinds of music (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Flashbang (Rare VictoryPose)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Junkrat
@@ -5699,6 +5746,8 @@ Unlocks for Zarya
 		Let's get physical (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		Fitness secret (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Beatdown (Rare VictoryPose)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Soldier: 76
@@ -6717,6 +6766,8 @@ Unlocks for D.Va
 		I know my KDR (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 		Midnight (Epic Skin)
+			Available in Anniversary Loot Boxes
+		Yeah...! (Common VoiceLine)
 			Available in Anniversary Loot Boxes
 
 Unlocks for Mei
@@ -8074,6 +8125,8 @@ Unlocks for Ana
 			Available in Anniversary Loot Boxes
 		You need to learn to relax (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		In the desert (Common VoiceLine)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Orisa
 	Default Unlocks
@@ -9428,6 +9481,12 @@ Unlocks for Wrecking Ball
 			Available in Anniversary Loot Boxes
 		Self-assessment (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Submarine (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		Submarine (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Submarine (Common Spray)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Enforcer
 	Other Unlocks
@@ -9747,6 +9806,16 @@ Unlocks for Ashe
 			Available in Anniversary Loot Boxes
 		I'm an easy rider (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+		Little Red (Legendary Skin)
+			Available in Anniversary Loot Boxes
+		You follow? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Little Red (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Big Bad B.O.B. (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Little Red (Common Spray)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Echo
 	Default Unlocks
@@ -9954,6 +10023,19 @@ Unlocks for Echo
 		Every Situation (Common VoiceLine)
 		I’ll try anything once (Common VoiceLine)
 		Alamak! (Common VoiceLine)
+	Anniversary Unlocks
+		Weightless (Epic Emote)
+			Available in Anniversary Loot Boxes
+		Echoversary (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Intriguing (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Another helping? (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		A submarine can't swim (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Seven of Hearts (Common Spray)
+			Available in Anniversary Loot Boxes
 
 Unlocks for Bob
 
@@ -10288,6 +10370,12 @@ Unlocks for Sigma
 		GOLDEN (Common WeaponSkin)
 		Cute (Common Spray)
 		Pixel (Common Spray)
+		Carbon Fiber (Epic Skin)
+			Unlocked by participating in the Anniversary 2020 week 1 challenge
+		Carbon Fiber (Rare Icon)
+			Unlocked by participating in the Anniversary 2020 week 1 challenge
+		Carbon Fiber (Common Spray)
+			Unlocked by participating in the Anniversary 2020 week 1 challenge
 	OWL Unlocks
 		Washington Justice (Epic Skin)
 			Unlocking includes both home and away skins
@@ -10540,5 +10628,18 @@ Unlocks for Sigma
 			Available in Archives Loot Boxes
 		Observation (Common Spray)
 			Available in Archives Loot Boxes
+	Anniversary Unlocks
+		Like a spherical cow (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Reduce your expectations (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		The universe is a holovid (Common VoiceLine)
+			Available in Anniversary Loot Boxes
+		Dans (Epic Emote)
+			Available in Anniversary Loot Boxes
+		Sigmaversary (Rare Icon)
+			Available in Anniversary Loot Boxes
+		Eight of Spades (Common Spray)
+			Available in Anniversary Loot Boxes
 
-[Core] Execution finished in 00:00:01.1680214 seconds
+[Core] Execution finished in 00:00:01.8630943 seconds
