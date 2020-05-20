@@ -1,10 +1,10 @@
-[Core] DataTool v1.46.0.864-git-ec7bc2fdc94d326652d08645a2d8c25464721f88
+[Core] DataTool v1.48.0.870-git-6aa4678e5f180fc8ff4968fb8c92ee0adc724bbf
 [Core] CommandLine: ["C:\Program Files (x86)\Overwatch", "list-unlocks"]
-[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\864\toolchain-release\DataTool.exe.args
-[CASC] Overwatch build 1.46.0.0.66607
+[Core] CommandLineFile: D:\Backups\2019-08-21\Downloads\Overwatch\OWLib\870\toolchain-release\DataTool.exe.args
+[CASC] Overwatch build 1.47.1.0.68126
 [CASC] Initializing...
-[CMF] Using CMF procedure 66607
-[CMF] Using CMF procedure 66607
+[Manifest] Using CMF procedure 68126 for Win_SPWin_RDEV_LenUS_EExt.cmf
+[Manifest] Using CMF procedure 68126 for Win_SPWin_speech_RDEV_LenUS_EExt.cmf
 [CASC] Ready
 [Core] Checking ResourceKeys
 [Core] Tooling...
@@ -1686,6 +1686,7 @@ Unlocks for Torbjörn
 		Chief Engineer (Rare Icon)
 			Available in Archives Loot Boxes
 		Ironclad (Legendary Skin)
+			Torbjörn was a prominent member of the Ironclad Guild, whose headquarters were in Gothenburg, Sweden.
 			Available in Archives Loot Boxes
 		Chief Engineer Lindholm (Legendary Skin)
 			For many years, Torbjörn Lindholm served as Overwatch's chief engineer, designing many of the organization's iconic weapons and technologies.
@@ -1710,6 +1711,7 @@ Unlocks for Torbjörn
 		King of Clubs (Common Spray)
 			Available in Anniversary Loot Boxes
 		Cybjörn (Legendary Skin)
+			"...like the terrible culmination of a thousand of my worst nightmares. Are you kidding me?"
 			Available in Anniversary Loot Boxes
 		Cybjörn (Rare Icon)
 			Available in Anniversary Loot Boxes
@@ -2345,6 +2347,7 @@ Unlocks for Pharah
 		From my mother (Common VoiceLine)
 			Available in Archives Loot Boxes
 		Aviator (Legendary Skin)
+			Lieutenant Fareeha “Pharah” Amari was hand-picked by Helix after her meritorious career in the Egyptian armed forces. Bearing the famous Amari family name, she was considered a recruitment coup.
 			Available in Archives Loot Boxes
 		Aviator (Rare Icon)
 			Available in Archives Loot Boxes
@@ -4544,6 +4547,7 @@ Unlocks for Roadhog
 		Toa (Legendary Skin)
 		Islander (Legendary Skin)
 		Mako (Legendary Skin)
+			Those who knew Roadhog from before call him by his real name, "Mako."
 		Sharkbait (Legendary Skin)
 		Icon (Common Spray)
 		Helmet (Common Spray)
@@ -4980,7 +4984,7 @@ Unlocks for McCree
 		Blackwatch (Rare Icon)
 			Available in Archives Loot Boxes
 		Blackwatch (Legendary Skin)
-			A young Jesse McCree was recruited into Blackwatch after Gabriel Reyes saw his potential and gave him a choice: join Blackwatch, or rot in prison.
+			A young Jesse McCree was recruited into Blackwatch after Gabriel Reyes saw his potential and gave him a choice: join Blackwatch or rot in prison.
 			Available in Archives Loot Boxes
 		Showdown (Rare VictoryPose)
 			Available in Archives Loot Boxes
@@ -5221,7 +5225,9 @@ Unlocks for Junkrat
 		Jailbird (Epic Skin)
 		Toasted (Epic Skin)
 		Jester (Legendary Skin)
+			A fool and his money are soon... blown up!
 		Fool (Legendary Skin)
+			A fool and his money are soon... blown up!
 		Scarecrow (Legendary Skin)
 		Hayseed (Legendary Skin)
 		Icon (Common Spray)
@@ -6618,7 +6624,7 @@ Unlocks for D.Va
 		Cute D.Va (Rare Icon)
 		Black Cat (Common Spray)
 		Nice try (Common VoiceLine)
-	Summer Games Unlocks
+	Winter Unlocks
 		Cycling (Rare Icon)
 			Available in Summer Games Loot Boxes
 		Cycling (Common Spray)
@@ -7564,6 +7570,8 @@ Unlocks for Doomfist
 		San Francisco Shock Away (Epic Skin)
 			Unlocking includes both home and away skins
 			Team: San Francisco Shock
+		Thunder (Legendary Skin)
+			Team: Overwatch League
 	Base Unlocks
 		Doomfist (Rare Icon)
 		Fist (Rare Icon)
@@ -7704,6 +7712,7 @@ Unlocks for Doomfist
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Formal (Legendary Skin)
+			As the heir to his family's prosthetic-technology company, Doomfist was no stranger to the finer things in life.
 			Available in Anniversary Loot Boxes
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -7975,6 +7984,7 @@ Unlocks for Ana
 		Better than retirement (Common VoiceLine)
 			Available in Summer Games Loot Boxes
 		Cabana (Legendary Skin)
+			When it was time for rest and relaxation, Ana's favorite choice was to pack her bags and head to Hawaii.
 			Available in Summer Games Loot Boxes
 		Cabana (Rare Icon)
 			Available in Summer Games Loot Boxes
@@ -8717,6 +8727,7 @@ Unlocks for Brigitte
 			Available in Archives Loot Boxes
 	Anniversary Unlocks
 		Shieldmaiden (Legendary Skin)
+			A prominent figure in her own legends, the Shieldmaiden is also known as the Viking's daughter in the tale of Junkenstein.
 			Available in Anniversary Loot Boxes
 		Dance (Epic Emote)
 			Available in Anniversary Loot Boxes
@@ -9669,6 +9680,7 @@ Unlocks for Ashe
 			Available in Summer Games Loot Boxes
 	Halloween Unlocks
 		Warlock (Legendary Skin)
+			A master of forbidden magic, the Warlock bound even the most powerful demons to her will.
 			Available in Halloween Loot Boxes
 		Scream Queen (Epic HighlightIntro)
 			Available in Halloween Loot Boxes
@@ -9735,6 +9747,213 @@ Unlocks for Ashe
 			Available in Anniversary Loot Boxes
 		I'm an easy rider (Common VoiceLine)
 			Available in Anniversary Loot Boxes
+
+Unlocks for Echo
+	Default Unlocks
+		Heroic (Common VictoryPose)
+		RANDOM (Common VictoryPose)
+		Heroic (Common HighlightIntro)
+		RANDOM (Common HighlightIntro)
+		Classic (Common Skin)
+		Heroic (Common Emote)
+		DEFAULT (Common WeaponSkin)
+		Type: Echo (Common VoiceLine)
+	Other Unlocks
+		GOLDEN (Common WeaponSkin)
+		Cute (Common Spray)
+		Pixel (Common Spray)
+		Lift Off (Common Spray)
+			Unlocked by watching participating streams during the Echo hero launch event
+		Taking Flight (Common Spray)
+			Unlocked by watching participating streams during the Echo hero launch event
+		Bright Idea (Common Spray)
+			Unlocked by watching participating streams during the Echo hero launch event
+		My Legacy (Common Spray)
+			Unlocked by watching participating streams during the Echo hero launch event
+		Echo Online (Common Spray)
+			Unlocked by watching participating streams during the Echo hero launch event
+		Duplicate (Common Spray)
+			Unlocked by watching participating streams during the Echo hero launch event
+	OWL Unlocks
+		Atlanta Reign Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Atlanta Reign
+		Atlanta Reign (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Atlanta Reign
+		Boston Uprising Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Boston Uprising
+		Boston Uprising (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Boston Uprising
+		Chengdu Hunters Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
+		Chengdu Hunters (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Chengdu Hunters
+		Dallas Fuel Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Dallas Fuel
+		Dallas Fuel (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Dallas Fuel
+		Florida Mayhem Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Florida Mayhem (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Florida Mayhem
+		Guangzhou Charge Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
+		Guangzhou Charge (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Guangzhou Charge
+		Hangzhou Spark Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
+		Hangzhou Spark (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Hangzhou Spark
+		Houston Outlaws Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Houston Outlaws
+		Houston Outlaws (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Houston Outlaws
+		London Spitfire Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: London Spitfire
+		London Spitfire (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: London Spitfire
+		Los Angeles Gladiators Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
+		Los Angeles Gladiators (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Gladiators
+		Los Angeles Valiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		Los Angeles Valiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Los Angeles Valiant
+		New York Excelsior Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: New York Excelsior
+		New York Excelsior (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: New York Excelsior
+		Paris Eternal Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Paris Eternal
+		Paris Eternal (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Paris Eternal
+		Philadelphia Fusion Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
+		Philadelphia Fusion (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Philadelphia Fusion
+		San Francisco Shock Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		San Francisco Shock (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: San Francisco Shock
+		Seoul Dynasty Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
+		Seoul Dynasty (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Seoul Dynasty
+		Shanghai Dragons Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
+		Shanghai Dragons (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Shanghai Dragons
+		Toronto Defiant Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Toronto Defiant
+		Toronto Defiant (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Toronto Defiant
+		Vancouver Titans Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Vancouver Titans
+		Vancouver Titans (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Vancouver Titans
+		Washington Justice Away (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Washington Justice
+		Washington Justice (Epic Skin)
+			Unlocking includes both home and away skins
+			Team: Washington Justice
+	Base Unlocks
+		Promise (Rare Icon)
+		Echo (Rare Icon)
+		Symmetry (Rare Icon)
+		Curtsy (Epic Emote)
+		Laugh (Epic Emote)
+		Flourish (Epic Emote)
+		Sit (Epic Emote)
+		Analysis (Epic Emote)
+		Prim (Rare VictoryPose)
+		Empowered (Rare VictoryPose)
+		Stasis (Rare VictoryPose)
+		Awakening (Epic HighlightIntro)
+		Maneuvers (Epic HighlightIntro)
+		Evasion (Epic HighlightIntro)
+		Durian (Rare Skin)
+		Vanda (Rare Skin)
+		Papaya (Rare Skin)
+		Marina (Rare Skin)
+		Hot Rod (Epic Skin)
+		Carbon Fiber (Epic Skin)
+		Stealth (Legendary Skin)
+		Camo (Legendary Skin)
+		Moth (Legendary Skin)
+		Butterfly (Legendary Skin)
+		Icon (Common Spray)
+		Cooking (Common Spray)
+		Echoes (Common Spray)
+		Mina (Common Spray)
+		Kung Fu (Common Spray)
+		Butterfly (Common Spray)
+		Echofist (Common Spray)
+		Echo Rage (Common Spray)
+		Echoblade (Common Spray)
+		Sticky Bomb (Common Spray)
+		Activation (Common Spray)
+		Echohardt (Common Spray)
+		Focus (Common Spray)
+		Echomorph (Common Spray)
+		System Online (Common Spray)
+		Hitchhiking (Common Spray)
+		Finger Guns (Common Spray)
+		Eye (Common Spray)
+		Gardening (Common Spray)
+		Alight (Common Spray)
+		Loading... (Common Spray)
+		Ghost (Common Spray)
+		Symbol (Common Spray)
+		Flight Plan (Common VoiceLine)
+		Loading Modules (Common VoiceLine)
+		Double confirmed (Common VoiceLine)
+		Can or not? (Common VoiceLine)
+		Non-relevant? (Common VoiceLine)
+		Jialat! (Common VoiceLine)
+		So awesome! (Common VoiceLine)
+		That was different (Common VoiceLine)
+		Every Situation (Common VoiceLine)
+		I’ll try anything once (Common VoiceLine)
+		Alamak! (Common VoiceLine)
 
 Unlocks for Bob
 
@@ -9954,6 +10173,7 @@ Unlocks for Baptiste
 		Camouflage (Epic Skin)
 		Spec Ops (Legendary Skin)
 		Desert Ops (Legendary Skin)
+			During his time with the Caribbean Coalition, Baptiste was deployed into different environments throughout the region.
 		Pirate (Legendary Skin)
 		Buccaneer (Legendary Skin)
 		Icon (Common Spray)
@@ -10321,4 +10541,4 @@ Unlocks for Sigma
 		Observation (Common Spray)
 			Available in Archives Loot Boxes
 
-[Core] Execution finished in 00:00:01.0756225 seconds
+[Core] Execution finished in 00:00:01.1680214 seconds
